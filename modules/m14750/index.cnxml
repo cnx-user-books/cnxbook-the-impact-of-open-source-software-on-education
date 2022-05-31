@@ -1,0 +1,17 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Craig Perue - Summary Not IT, not Business Processes, but Organizational Culture</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5971eb29-2ce5-49f8-bfb6-5920fac3b548</md:uuid>
+</metadata>
+  <content>
+    <section id="id-852781047661">
+      <title>Summary - Not IT, not Business Processes, but Organizational Culture</title>
+      <para id="id3290471">“Not IT, not Business Processes, but Organizational Culture,” the eighth installment of the Impact of Open Source Software Series, was scheduled on June 13th and posted on June 14th, 2007, by Craig Perue, who serves as the Programme Manager for eLearning@UWI. Thanks Craig!</para>
+      <para id="id3290476">Craig’s posting took the form of a story describing some of the challenges faced at the <link url="http://www.mona.uwi.edu/">University of the West Indies</link> while establishing and managing their online learning environment. He described the rationale for moving from a proprietary learning management system to Moodle, other migrations to open source software, and future plans to continue migrating from proprietary applications to Open Source Software (OSS) throughout the software stack. During the posting, Craig touched on the evaluation process, the areas where he thinks his institution delivers value and the role of OSS in creating value for learners, and some of the connections between organizational culture and the use of Free and Libre Open Source Software (<link url="http://en.wikipedia.org/wiki/FOSS">FLOSS</link>).</para>
+    </section>
+    <section id="id-880001107108">
+      <title>Comments</title>
+      <para id="id13378217">The comments that followed the posting were about “open source” teaching and open educational resources. Craig reflected on some of the definitions of learning design that were discussed in an earlier posting with James Dalziel, and talked about the conditions at his university that will either support or limit open and free content. He asked for suggestions about business models that will support universities that participate in open source teaching, to which Richard Wyles pointed him to some work that he has been doing with Moodle Networks. Finally, a question was floated about the faculty reaction to opening content at the largest college at UWI.</para>
+      <para id="id13378222">Thanks again to Craig, Richard Wyles, and all of the other folks who have been reading along. Our next posting will be by Jean-Claude Dauphin, Project Manager, Section for ICTs in Education, Science and Culture,Information Society Division, Communication and Information Sector, UNESCO, on June 27, 2007. The schedule for the series can be found on <link url="http://www.wikieducator.org/Open_Source_Software_in_Education_Series_on_Terra_Incognita">WikiEducato</link>r.</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,34 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Summary</title>
+  <metadata>
+  <md:content-id>m19812</md:content-id><md:title>Summary</md:title>
+  <md:abstract>Summary of Rob Abel's posting in which he relays a few thoughts on the relationship between open source software that supports teaching and learning and open standards for data and application interoperability in the same space.</md:abstract>
+  <md:uuid>63058e2e-9dc2-4670-a8a7-c368094caac9</md:uuid>
+</metadata>
+
+<content>
+    <para id="id8899041">Open Source and Open Standards,” the thirteenth installment of the Impact of Open Source Software Series, was posted on September 19th, 2007, by Rob Abel who serves as CEO of the <link url="http://www.imsglobal.org/" window="new">IMS Global Learning Consortium</link> (IMS GLC), a non-profit member consortium that have been focused on developing specifications and standards for interoperability exclusively in the learning sector for now over eleven years. Thanks Rob for a great posting!</para>
+    <para id="id9978472">In his posting Rob starts by introducing his experience in open source software and open standards. He also references a recent study that he has been involved with about current and prospective use of OSS in higher education. Rob follows his introduction with 4 postulates that summarize some of what Rob has learned during the past few years. He provides a brief description and some examples for each of his postulates. The postulates serve as points of departure for further dialog.</para>
+    <list id="id10386079" list-type="bulleted"><item><emphasis>Postulate number one:</emphasis> Open source reference implementations are extremely critical in achieving adoption of open standards for software interoperability.</item>
+      <item><emphasis>Postulate number two:</emphasis> Standards organizations are pretty much the only way to get a level playing field when it comes to new open source applications for learning – however, that won’t happen unless the open source projects/communities are active participants.</item>
+      <item><emphasis>Postulate number three:</emphasis> Whether open source or proprietary, it’s all about the boundaries of customization.</item>
+      <item><emphasis>Postulate number four:</emphasis> Open source can be strategic to the goals of educational organizations but I currently only know of one case in which it is.</item>
+    </list>
+    <para id="id9925554">Rob completes his posting by reinforcing his and IMS’s commitment to addressing some of the larger issues associated with open standards and open source software for education.</para>
+    <section id="id10151682">
+      <title>Comments</title>
+      <para id="id9962899">The comments touched on each of Rob’s postulates at varying depth. It is obvious that standards development is important and complex. I believe that for most folks who use educational technologies there is a vague understanding that standards are important and open standards are better than ones that are closed. Perhaps more importantly, open standards development is not really understood by a vast majority of technology consumers and users at universities.</para>
+      <para id="id10386113">IMS has assumed a challenging task. I have heard quite positive comments about its role and potential and a number of detractors about execution and operation. While this posting and the ensuing dialog touched on a number of very interesting issues, connecting open standards, OSS, and education (which is exactly what we wanted); it did not really get to the options that a standards development organization has, its underpinning values and goals, and how it executes/operationalizes them. A future follow-up discussion might provide an opportunity to make the whole standards development process more “real” to teachers and administrators who make and influence technology decisions, but will probably not actually participate in standards development. An open dialog may also be a reflective exercise for other involved in the process.</para>
+      
+      <para id="id10334557">Some comment highlights included:</para>
+      <list id="id8219629" list-type="bulleted">
+        <item>Richard Wyles pointed out the use of OSS in New Zealand, not only at the institutional level, but at the pan-institutional level in a manner that is coherent with Ministry of Education objectives.</item>
+        <item>Along the lines of strategic use of OSS, Gavin Baker indicated the importance of being able to articulate FOSS use as directly relevant to the university’s mission. He asks who has done this well?</item>
+        <item>Gavin provides an interesting observation about Rob’s second postulate, pointing out that although it can be hard to introduce a “homegrown” standard, it is possible, even if you are not the size of Google, if it does not compete with another existing standard and if it is a good standard.</item>
+        <item>The role and model of IMS in open standards development.</item>
+        <item>There was some discussion prompted by Pat Masson about OSS and Open standards in education, the impulse to customize, and the need to innovate rather than passively consume and adopt technologies. It was noted that educational technologies are applied in a very diverse and complex environment making it challenging to identify standard functionality to help guide standards development.</item>
+      </list>
+      <para id="id9942300">Thanks again to Rob, for his insightful post and excellent responses to all questions, and Richard, Gavin, Martin (RedSevenOne), and Pat, for making this a great exchange, and other folks who have been reading along. Please join in again on October 3rd when David Wiley posts on “Open Content as Infrastructure”. The schedule for the series can be found on <link url="http://www.wikieducator.org/Open_Source_Software_in_Education_Series_on_Terra_Incognita" window="new">WikiEducator.</link></para>
+    </section>
+  </content>
+</document>

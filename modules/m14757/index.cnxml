@@ -1,0 +1,217 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>UNESCO's Activities in FOSS For Education, Past, Current and Future Activities</title>
+  <metadata>
+  <md:content-id>m14757</md:content-id><md:title>UNESCO's Activities in FOSS For Education, Past, Current and Future Activities</md:title>
+  <md:abstract>Jean-Claude Dauphin's contribution to the "OSS and OER in Education Series." In this post, he shares some insights about UNESCO activities that promote the use of FOSS Solutions in Education. He will provide a brief description of past, current, and envisaged activities aimed at promoting the use of Free and Open Source Software solutions for Education.</md:abstract>
+  <md:uuid>c54644ae-75af-4094-8ddf-49bad145a25c</md:uuid>
+</metadata>
+  <content>
+    <para id="id10176712"><note id="eip-id6851995" type="Author Information">Author - Jean-Claude Dauphin, "UNESCO's Activities in FOSS For Education, Past, Current and Future Activities". Originally submitted June 27th, 2007 to the OSS and OER in Education Series, Terra Incognita blog (Penn State World Campus), edited by Ken Udas.</note></para>
+    <para id="id10176719">The posting has two parts: the first part describes the past and current UNESCO FOSS activities and the second part suggests a new activity aimed at building an integrated FOSS Education solution targeting universities and that UNESCO may wish to initiate.</para>
+    <section id="id-17537391337">
+      <title>I. Brief Summary of UNESCO’s activities in FOSS For Education</title>
+      <list id="id10176739" list-type="enumerated">
+        <item><link url="http://portal.unesco.org/en/ev.php-URL_ID=3328&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html">UNESCO</link>, the United Nations Educational, Scientific and Cultural Organization, promotes international cooperation and dissemination of knowledge in the field of education, sciences, culture and communication. Therefore the organization recognises that community approaches to software development in general, and <link url="http://en.wikipedia.org/wiki/FOSS">FOSS</link> in particular, have a very significant role to play. There are a number of activities undertaken by UNESCO in support to FOSS.</item>
+        <item><link url="http://www.unesco.org/webworld/portal_freesoft">Free &amp; Open Source Software Portal</link> - The UNESCO Free and Open Source Software Portal was developed and published in November 2001. It is maintained by the Information Society Division and provides a one-stop access point to reference documents on the FOSS movements, as well as to websites hosting the most popular and useful FOSS packages in UNESCO’s fields of competence. The portal also mirrors the <link url="http://fsd.unesco.org/directory/">Free Software Directory</link>, a joint project of UNESCO and FSF that catalogues useful free software that runs under free operating systems — particularly the GNU operating system and its GNU/Linux variants.</item>
+        <item><link url="http://www.greenstone.org/">The Greenstone Digital Library</link> (GSDL) - UNESCO has produced with <link url="http://nzdl.sadl.uleth.ca/cgi-bin/library">the </link><link url="http://nzdl.sadl.uleth.ca/cgi-bin/library">New Zealand Digital Library Project</link> (NZDL) of the University of Waikato (New Zealand) and the Human Info NGO (Antwerp) a multi-lingual version of the Free and Open Source Greenstone Digital Library software suite. It is expected that the Greenstone software package will enable educational, scientific and cultural institutions worldwide to build and share compatible digital libraries of open access and public domain information. UNESCO makes available free of charge CD-ROMs containing Greenstone 2.70, documentation available in four “core” languages (English, French, Spanish, Russian) and documented examples of digital libraries and associated software. A feasibility study conducted by UNESCO suggested that the open source GSDL, associated with appropriate training and documentation, could constitute a unique resource in the implementation of digital libraries for Africa.</item>
+        <item>UNESCO assisted in the deployment of an open-source Learning Management System (LMS) at the Arab Open University in Bahrain, which was further replicated in Jordan and Saudi Arabia.</item>
+        <item>Together with <link url="http://www.undp.org/">UNDP</link>, UNESCO also organised a consultative meeting of specialists to assess the needs of developing countries in terms of FOSS and on modalities to pursue an FOSS initiative for developing countries with special focus for Africa.</item>
+        <item>UNESCO has partnerships with FSF, the <link url="http://www.fossfa.net/fossfa/front-page">Free and Open Source Software Foundation for Africa</link> (FOSSFA) and various FOSS-active non-governmental organisations (NGOs) and is participating to the Latin American and Caribbean Conference on Free Software Development and Use (LACFREE). In addition UNESCO is informally collaborating with FAO, UNEP, UNDP and UNCTAD in promoting FOSS.</item>
+        <item>Other activities undertaken by UNESCO in support of FOSS are: development, distribution and translation of UNESCO FOSS software (<link url="http://www.unesco.org/isis">CDS/ISIS – database software</link>, <link url="http://www.unesco.org/idams">IDAMS – statistical software</link>).</item>
+        <item>Two discussion forums organized by <link url="http://www.unesco.org/iiep/">UNESCO IIEP</link> have focused on the related issues of Free and Open Source Software (FOSS) for e-learning (June 2004) and Open Educational Resources (OER): open content for higher education (October/November 2005). The FOSS and OER groups have continued to interact on a more informal basis as international Communities of Interest.</item>
+        <item>The Discussion forum on Free and Open Source Software (FOSS) for Open Educational Resources organized by IIEP/UNESCO took place from 11 September to 6 October 2006. The main outcomes were the elaboration of a list of FOSS tools for OER development, management and dissemination, and the creation of a wiki collaboration space dedicated to the <link url="http://oerwiki.iiep-unesco.org/">UNESCO IIEP</link> Community of Interest on Open Educational Resources.</item>
+        <item>An Internet discussion forum aimed at discussing the OECD study on Open Educational Resources (OER) was held from 13 November to 1 December 2006.</item>
+        <item>Documentary on “<link url="http://portal.unesco.org/ci/en/ev.php-URL_ID=23858&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html">Software for development</link>: Documentary and Case Studies” - UNESCO contributed financially to this activity implemented by the UNDP Asia-Pacific Development Information Programme’s (UNDP-APDIP<link url="http://www.iosn.net/">) International Open Source Network</link> (IOSN) initiative, which aims to promote the choice of FOSS as affordable (yet effective) solutions for developing countries in the Asia-Pacific region.</item>
+      </list>
+    </section>
+    <section id="id-696348932637">
+      <title>II. UNESCO Activities envisaged and related to FOSS for Education FOSS Education Solutions</title>
+      <section id="id-582571978017">
+        <title>1. Needs Analysis</title>
+        <para id="id9811221">There is a strong demand for Free and Open Source Software solutions based upon open standards from developing and emerging countries who want to initiate secondary school and/or higher education computerization programs, as well as to computerize public administration. The ability to customize a solution to the special needs of a country, and any school or university in the country as well as using open standards, are the key advantages of providing open source solutions. It is usually quite easy to find FOSS applications that can solve a specific isolated problem such as an LMS or CMS, but most of the time a global solution is needed and there is really a lack of integrated FOSS solutions for education.</para>
+      </section>
+      <section id="id-422689066555">
+        <title>2. Vision</title>
+        <para id="id8794094">In view of these needs, UNESCO would like to explore the possibility of producing a complete FOSS Education Solution for higher education that would integrate a stack of software tools, guidelines, and good documentation.</para>
+        <para id="id8794106">A complete integrated FOSS Education Solution should be a technical roadmap with a stack of software tools and that could integrate for example:</para>
+        <list id="id8794116" list-type="enumerated">
+          <item>A Generic Integration Engine or Framework that:<list id="id8794125" list-type="bulleted"><item>Should solve the current Student Information System (SIS) problem</item><item>Add value by integrating isolated software tools and providing bridges</item><item>Allow flexibility to add more applications to the stack</item><item>Provide a seamless Education IT environment</item></list></item>
+          <item>A Web Single SignOn (SSO) across or within organizational boundaries. It allows sites to make informed authorization decisions for individual access of protected online resources in a privacy-preserving manner (Shibboleth — <link url="http://shibboleth.internet2.edu/">http://shibboleth.internet2.edu/</link>) </item>
+          <item>The Moodle Core<list id="id10206007" list-type="bulleted"><item>Course Management (search, create/edit/delete, classify, event management, etc …</item><item>User Management (add/edit/delete, authenticate, enroll, grouping, etc…)</item><item>Configuration Management (general configuration, site configuration, language, module, etc…)</item><item>Teacher &amp; Student functions (register, logon, teaching, learning, finding resources, etc…</item></list></item>
+          <item>The Education Management System (EMS)</item>
+          <item>Guidelines and requirements for flexible IT Infrastructure</item>
+          <item>Guidelines for planning, budgeting and implementing</item>
+          <item>Step-by-step guide to implementing open distance learning.</item>
+        </list>
+      </section>
+      <section id="id-481484968741">
+        <title>3. Tentatively Skeleton for Project Management</title>
+        <para id="id10206078">Projects are usually divided into eight phases. Each phase has an objective, associated documents and deliverables. Phase 1: The first phase intends to produce a Requirements Evaluation and Project Proposal document.</para>
+        <para id="id10206086">Areas to be addressed include:</para>
+        <list id="id8794820" list-type="bulleted">
+          <item>Fundamental Problem to be solved</item>
+          <item>Tasks/functions the FOSS Education Solution will perform</item>
+          <item>Benefits/Savings/Cost Justification</item>
+          <item>Economic</item>
+          <item>Contribution to EFA goals and objectives</item>
+          <item>Quality</item>
+          <item>Performance Requirements</item>
+          <item>Security</item>
+          <item>Compatibility/Migration</item>
+          <item>Product integration</item>
+          <item>Packaging</item>
+          <item>Related/Dependent Projects; Other Dependencies</item>
+        </list>
+        <para id="id8794889">The project proposal document should set the background, define the fundamental concepts, compare and evaluate the alternate FOSS Education solutions in terms of functionality and compatibility, and should be accompanied by a thoughtful analysis of the current isolated FOSS Education Solutions and the desired integrated FOSS solution. It should also identify the missing components if any.</para>
+        <list id="id8794900" list-type="bulleted">
+          <item>Phase 2: Planning Phase</item>
+          <item>Phase 3: Detailed Design Phase</item>
+          <item>Phase 4: Construction Phase</item>
+          <item>Phase 5: Testing Phase</item>
+          <item>Phase 6: Implementation Phase</item>
+          <item>Phase 7: User Support Phase</item>
+          <item>Phase 8: Completion Phase</item>
+        </list>
+        <para id="id9457986">Please note that this is a first attempt to design a project proposal for building a FOSS Education Solution targeting universities. It needs further improvement and elaboration. It could also be envisaged to build a FOSS Education Solution for secondary education (or K12).</para>
+      </section>
+      <section id="id-00752750085347">
+        <title>Responses</title>
+        <para id="id9458003">
+          <emphasis>6 Responses to “FLOSS, OER, Equality and Digital Inclusion”</emphasis>
+        </para>
+        <section id="id-0498370919367">
+          <title>1. Ken Udas – June 28th, 2007 at 4:38 am </title>
+          <para id="id9458025">Jean-Claude, I want to start by saying that I find your posting very exciting. UNESCO is clearly committed to FOSS and has developed an impressive portfolio of interrelated activities in support of FOSS in education. It is also obvious that UNESCO is committed to a watershed vision of global importance. I have a number of questions, and I am trying to work out where to start. So, I have decided to start at the beginning.</para>
+          <para id="id9458036">In your needs analysis statement you state that</para>
+          <para id="id9458042">
+            <quote id="id4658700" display="block">There is a strong demand for Free and Open Source Software solutions based upon open standards from developing and emerging countries who want to initiate secondary school and/or higher education computerization programs, as well as to computerize public administration.</quote>
+          </para>
+          <para id="id9458051">Could you expand a little further on this? That is, what needs are driving the demand for introducing computer technology into education and government?</para>
+          <para id="id10753940">Thanks Ken</para>
+        </section>
+        <section id="id-828382674711">
+          <title>2. Jean-Claude Dauphin - June 28th, 2007 at 10:09 am</title>
+          <para id="id10753954">
+            <emphasis/>
+          </para>
+          <para id="id10753961">Thanks Ken for your comment.</para>
+          <para id="id10753965">We have identified different types of needs for introducing computer technology into education:</para>
+          <list id="id10753971" list-type="bulleted">
+            <item>The need to introduce computer technology into school and university administrations to improve their overall performance (teaching, administration, student information management, etc). This would also increase their effectiveness and efficiency and thus making a positive impact on the education system in general</item>
+            <item>The need to use computer technology for implementing open distance learning (HE).The need to introduce computer technology in schools he need to introduce computer technology in schools<list id="id10753994" list-type="bulleted"><item>so that all students become familiar with it at school as a tool for everyday use, thus “demystifying” it for them. (social role, computer literacy)</item><item>for better access to the job market. Basic teaching of computer applications or programming is providing skills vital for employment in the information technology society (vocational role)</item><item>as a pedagogical help – computer technology assists the teaching-learning process and enhance the instruction of traditional subjects in the curriculum. (pedagogical role)</item></list></item>
+          </list>
+          <para id="id10754025">Ministries of education and other actors in the policy-making process will base decisions to introduce computer technologies into the education sector on one or more of these issues, which can be seen to overlap in some respects.</para>
+          <para id="id10076585">The introduction of computer technology is a very expensive resource for schools even in industrialised countries where the necessary infrastructure for their installation is in place. The price of hardware although constantly decreasing remains high for school budgets as does software.</para>
+          <para id="id10076595">The use of Free and Open Source Software offers a cost effective solution as regard the software part. Furthermore, the ability to customize a solution to the special needs of a country, and any school or university in the country is very important.</para>
+          <para id="id10076603">Free and Open source software (FOSS) has become mainstream and has been recognized in many cases as a valid alternative to corresponding closed source software. Its availability contributes to widen the choice of software and avoid vendor lock-in by fostering competition on the market.</para>
+          <para id="id10076613">As regard the use of computer technology into public administrations , there is a need to foster the interoperability of their diverse ICT systems by requiring the use of open standards and open file formats irrespective of their choice of software. They should also ensure that the encoding of data guarantees the permanence of electronic public records and is not tied to a particular software provider.</para>
+          <para id="id10076624">Best wishes, Jean-Claude</para>
+          <para id="id10076628">
+            <emphasis/>
+          </para>
+        </section>
+        <section id="id-209026417318">
+          <title>3. Ken Udas - July 1st, 2007 at 8:54 am </title>
+          <para id="id10076648">Jean-Claude, Hello, I would like to follow-up a little more on the connections between the needs that you identified and the use of FOSS. Different FOSS applications and their communities have different characteristics. What do you envision are some of the important characteristics of FOSS applications that will be used to meet the needs that you identified within the context of the project you have described, and what do you see as the role of UNESCO?</para>
+          <para id="id10076660">Thanks, Ken</para>
+        </section>
+        <section id="id-00482883299052">
+          <title>4. Jean-Claude Dauphin - July 2nd, 2007 at 11:09 am </title>
+          <para id="id10754031">Hi Ken, I agree that the needs identified in my previous post address different communities as it would also concern different units inside UNESCO.</para>
+          <para id="id8981193">As a first step we could envisage to undertake a separate detailed needs analysis for each one, i.e. for:</para>
+          <list id="id8981200" list-type="enumerated">
+            <item>Use of ICTs for school and university administration</item>
+            <item>Use of ICTs for ODL</item>
+            <item>Computer literacy (Mapping of FOSS applications with the Open Source ICDL such as the COL Computer Navigator Certificate)</item>
+            <item>Basic teaching of computer applications or programming</item>
+            <item>Use of ICT as a pedagogical help (UNESCO ICT Competency Standards for Teachers, structure of a Training Syllabus ).</item>
+          </list>
+          <para id="id8981235">The detailed needs analysis would:</para>
+          <list id="id8981240" list-type="enumerated">
+            <item>determine the type of applications currently in use, determine system requirements and the future modules needed;</item>
+            <item>investigate the existing FOSS applications that might be used;</item>
+            <item>establish cooperative links with existing FOSS projects;</item>
+            <item>determine the potential partners;</item>
+            <item>undertake limited evaluation of selected FOSS applications that might be of use;</item>
+            <item>report on finding, make information available on FOSS applications that can be used and make recommendations on the next phase to undertake.</item>
+          </list>
+          <para id="id8981282">This is a huge work, however, UNESCO already initiated some activities related to the five items above:</para>
+          <list id="id10259400" list-type="bulleted">
+            <item>Collaboration with COL for producing a UNESCO/COL Computer Navigator Certificate based upon FOSS (item 3).</item>
+            <item>Elaboration of a generic Training Syllabus called “UNESCO ICT Competency Standards for Teachers”. i.e. the training syllabus focus on the concepts and is independent from the software applications to be used that may be FOSS or proprietary.(item 5). We could probably go one step further by doing a mapping exercise that would associate a FOSS application to each item of the syllabus.</item>
+            <item>An activity aimed at producing an “Open Distance Learning (ODL) Project Binder / Toolkit”, that is based upon FOSS and OER was also started. (item 2).</item>
+          </list>
+          <para id="id10259438">In the future, it may be envisaged to undertake an activity for (item 1) which was in fact my suggestion in the first posting.</para>
+          <para id="id10259444">UNESCO will also continue to facilitate awareness development and capacity building in Member States through the UNESCO FOSS Portal.</para>
+          <para id="id10259451">Best wishes, Jean-Claude</para>
+        </section>
+        <section id="id-741686990963">
+          <title>5. Ken Udas - July 3rd, 2007 at 4:44 am </title>
+          <para id="id10259468">Jean-Claude, Thanks again, it is good to get a sense for the project you are envisioning and an appreciation for the work that will go into it. So, as you are thinking about this endeavor, what would you hope to be its impact on education in developing countries? I know that this is an overly broad question, but I would like to get an idea of how the FOSS Education Solution will improve education. Based on your posting and comments I understand that some of the important qualities include:</para>
+          <list id="id10259481" list-type="bulleted">
+            <item>Economic feasibility (affordability)</item>
+            <item>Reduced complexity (coherent framework, open standards)</item>
+            <item>Increased functionality (coherent framework, open standards, and increased number of tools in stack)</item>
+            <item>Increased usefulness through flexibility (customizability, localization)</item>
+            <item>Please feel free to add to this list or correct any misinterpretations.</item>
+          </list>
+          <para id="id10558584">These strike me also as very important qualities. When achieved, what differences do you see the FOSS Education Solution having, for example, in higher education in some key UNESCO priority areas?</para>
+          <para id="id10558592">If that’s not a big enough question, I am also wondering also if you have a general sense of what a few of the big dependencies are that have to be considered and addressed to realize the potential impact of the FOSS Education Solution? That is, recognizing that education is embedded in a complex environment, what are some of the challenges, technological and non-technological, that need to be considered and addressed that would enhance the impact of a FOSS Education Solution? Or, put in the negative, what are some of the challenges that could reduce the impact if left unaddressed?</para>
+          <para id="id10558610">Cheers, Ken</para>
+        </section>
+        <section id="id-422113974618">
+          <title>6. Jean-Claude Dauphin - July 4th, 2007 at 10:59 am </title>
+          <para id="id10558634">Hi Ken, Thanks Ken for all these questions, I will try to answer below:</para>
+          <para id="id10558639">
+            <quote id="id3474872" display="block">Thanks again, it is good to get a sense for the project you are envisioning and an appreciation for the work that will go into it. So, as you are thinking about this endeavor, what would you hope to be its impact on education in developing countries?</quote>
+          </para>
+          <para id="id10558648">Many developing countries focus on basic education and limit their financial support for higher education because this is not their priority. However, there is a growing demand for higher education in many universities.</para>
+          <para id="id10558656">E-learning is considered as a less expensive model compared to conventional face-to-face or distance education. The learning management systems (LMS) – a software designed to provide a range of administrative and pedagogic services related to formal education settings (e.g. enrollment data, access to electronic course materials, faculty/student interaction, assessment) – appears to be one of the main component of e-learning development in tertiary education worldwide. FOSS Education Solution would provide the sustainable e-learning software components for free. But of course this is only one part of the overall HE picture. Please note that the FOSS model is sustainable because it avoids vendor lock-in and the source code is always available even if the company or author(s) disappears.</para>
+          <para id="id9874420">
+            <quote id="id3822884" display="block">I know that this is an overly broad question, but I would like to get an idea of how the FOSS Education Solution will improve education.</quote>
+          </para>
+          <para id="id9874426">FOSS Education Solution will help universities and other tertiary institutions to introduce the use of ICTs and most particularly a sustainable e-learning environment at low cost. It will then be available for wider audiences of students, at different levels, and in different ways. It will support effective teaching and learning in all levels of education, as well as for in-service teacher education</para>
+          <para id="id9874438">
+            <quote id="id6702297" display="block">Based on your posting and comments I understand that some of the important qualities include:</quote>
+          </para>
+          <para id="id9874444">
+            <quote id="id4007616" display="block">- Economic feasibility (affordability)</quote>
+          </para>
+          <para id="id9874448">
+            <quote id="id3644336" display="block">- Reduced complexity (coherent framework, open standards)</quote>
+          </para>
+          <para id="id9874454">
+            <quote id="id3920328" display="block">- Increased functionality (coherent framework, open standards, and increased</quote>
+          </para>
+          <para id="id9874460">
+            <quote id="id3494940" display="block">number of tools in stack)</quote>
+          </para>
+          <para id="id9874464">
+            <quote id="id3530882" display="block">- Increased usefulness through flexibility (customizability, localization)</quote>
+          </para>
+          <para id="id9874470">
+            <quote id="id3651977" display="block">These strike me also as very important qualities. When achieved, what differences do you see the FOSS Education Solution having, for example, in higher education in some key UNESCO priority areas?</quote>
+          </para>
+          <para id="id9874478">Taking into consideration the priority areas defined in UNESCO Draft Programme and Budget for 2008–2009, it is expected that FOSS Education Solution would have an impact on:</para>
+          <list id="id9874488" list-type="bulleted">
+            <item>Establishing new approaches to knowledge dissemination and utilization, particularly through new models of Open and Distance Learning (ODL) for life-long learning.</item>
+            <item>Fostering the use of ICTs in teaching and learning, including the establishment of standards to strengthen ICT competences for teachers and the development of strategies and best practices for integrating free and open sources software and open education resources in learning processes.</item>
+            <item>The implementation of WSIS Action Line C7 “E-learning”.</item>
+          </list>
+          <para id="id9714610">
+            <quote id="id3967766" display="block">If that’s not a big enough question, I am also wondering also if you have a general sense of what a few of the big dependencies are that have to be considered and addressed to realize the potential impact of the FOSS Education Solution?</quote>
+          </para>
+          <para id="id9714623">A FOSS Education Solution is dependent from a robust IT infrastructure - Virtual Universities cannot afford to be offline. Institutions must be prepared to spend money to establish a reliable hardware setup, and continue to support the ongoing costs of repairs and updates to equipment.</para>
+          <para id="id9714632">It is also dependent from the availability of courseware content, i.e. Open Educational Resources. The solution should include flexible courseware design tools that should be easily understood by a fairly non-technical audience.</para>
+          <para id="id9714640">University staff should acquire the necessary skills for using the tools provided in FOSS Education Solution.</para>
+          <para id="id9714647">
+            <quote id="id3464218" display="block">That is, recognizing that education is embedded in a complex environment, what are some of the challenges, technological and non-technological, that need to be considered and addressed that would enhance the impact of a FOSS Education Solution.</quote>
+          </para>
+          <para id="id9714656">I think that a hands on approach should be used. Very good documentation that includes planning, guidelines and best practices documents should be part of the solution.</para>
+          <para id="id9714663">The challenges will also be about producing new releases and upgrading existing implementations. Creating a strong community of users and partnership networking would be important to enhance the impact of a FOSS Education Solution.</para>
+          <para id="id9714671">Best wishes, Jean-Claude</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

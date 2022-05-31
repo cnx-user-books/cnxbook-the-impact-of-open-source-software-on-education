@@ -1,0 +1,236 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Running a Service is not a System</title>
+  <metadata>
+  <md:content-id>m14838</md:content-id><md:title>Running a Service is not a System</md:title>
+  <md:abstract>Dick Moore's contribution to the OSS and OER in Education Series. In this post, he share his experiences during the past 5 years at learndirect, during which time they have strategically adopted a range of open source tools and platforms that have helped transform Service and reduce operational costs. His posting will look at some of those tools, decisions and their service impact.</md:abstract>
+  <md:uuid>09f806cb-ec0b-47a2-9ede-4795865ef851</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-109"><note id="eip-id5805611" type="Author Information">Author - Dick Moore, "In-source, out-source, open-source, right-source". Originally submitted July 25th, 2007 to the OSS and OER in Education Series, Terra Incognita blog (Penn State World Campus), edited by Ken Udas.</note></para><section id="id-474438777451">
+      <title>Running a Service is Not a System </title>
+      <section id="id-719047430597">
+        <title>What or Who is Ufi learndirect?</title>
+        <para id="id3199093">“The concept of a ‘University for Industry’ led to the creation of <link url="http://www.ufi.com/home/default.asp">Ufi </link>in 1998. The organisation then set-up learndirect, a nationally recognised brand for learning. In six years <link url="http://www.learndirect.co.uk/">learndirect</link> has become the largest e-learning network of its kind in the world, and has individualised the delivery of learning to a mass audience through a unique combination of flexibility, accessibility and support.”</para>
+        <para id="id11827417">In this piece I plan to talk a bit about our e-learning platform and the part that open source tools and systems have played in our success.</para>
+      </section>
+      <section id="id-697063412838">
+        <title>Technical and Service Context</title>
+        <para id="id11759850">
+          <quote id="id21503688" display="block">VOLUMES</quote>
+        </para>
+        <para id="id11881396">
+          <quote id="id7526197" display="block">447,000 learners last year</quote>
+        </para>
+        <para id="id3132352">
+          <quote id="id7414666" display="block">4,000 concurrent learners at peak</quote>
+        </para>
+        <para id="id4302017">
+          <quote id="id18655046" display="block">consuming 70 mb/s of bandwidth</quote>
+        </para>
+        <para id="id12526662">
+          <quote id="id21003971" display="block">99.98% systems availability</quote>
+        </para>
+        <para id="id11101584">The learndirect learner management system (LMS) like most learning management systems is more than a website with lots of content.</para>
+        <para id="id11193081">Content sites like the BBC or CNN while they have some personalisation, typically present their consumers with a collection of web pages. If they are personalised at all they present their consumers with a sub-set of content according to preferences or tracked activity. Critically, the content itself does not change from consumer to consumer and as a result can be load-balanced across a number of serves or caches and requires relatively little tracking.</para>
+        <para id="id11833758">Learner management systems such as the learndirect system track a learner’s progress through a piece of learning and adapt in response to on-programme formative assessment. Such systems do expect to modify content according to consumer behaviour and as a result the use of multiple content servers only works to an extent. Such systems require a single authoritative data source for each course.</para>
+        <para id="id10668517">Additionally, consumers visiting a news or similar site have plenty of choice. If the BBC site is slow or not there for whatever reason, there are plenty of other such sites for a consumer to visit.</para>
+        <para id="id10766014">With web delivered learning, the consumer is intending to engage in a formal learning activity that they have formally enrolled in and in many cases have traveled to one of our learning centres to take their course. There is no other site for them to go to. If the site is slow or closed, then their journey was a waste of time.</para>
+        <para id="id10877865">For this reason the system must be both available and perform well. It is not enough that a system is available and returns content. If e-learning is to be effective, the medium needs to be as un-intrusive as possible; content has to render without the consumer becoming aware of any wait.</para>
+        <para id="id4306744">This presents us with a double bind; each user’s content is customised and there is a service expectation of 100% availability and responsiveness. In addition, we have issues of large scale and 24 x 7 availability we can see that constructing such a service is a serious web engineering exercise.</para>
+        <para id="id12311836">If you are not monitoring the service, then you are just running software.</para>
+        <para id="id4386473">It’s never good when the first person to tell you that your service has a problem is one of your consumers. Without appropriate monitoring software this will inevitably be the case, and in all probability they won’t tell you immediately.</para>
+        <para id="id12362156">So, the first key differentiator between a service and a system is Monitoring.</para>
+      </section>
+      <section id="id-708260916328">
+        <title>Choose the right tools.</title>
+        <para id="id3282414">When our service was first constructed a very expensive piece of software was purchased to perform availability monitoring, however, Mr. Heisenberg was forgotten and the load associated with that particular tool was sufficient to detrimentally impact the system. The tool itself was sold as the usual universal panacea, however, in implementation it was clear that its forte was component monitoring and not service monitoring.</para>
+        <para id="id10658558">Running a live system with this tool gave us all sorts of problems. The tool required agents on all machines and was really only designed around component availability and even then this was often measured from the wrong place (inside the firewall).</para>
+        <para id="id12348264">We took a look at the open source offerings available at that time and selected two.</para>
+      </section>
+      <section id="id-902559309261">
+        <title>Event monitoring</title>
+        <para id="id3298591"><link url="http://www.nagios.org/">Nagios</link> has won lots of awards. We use it to monitor events from two locations.</para>
+        <list id="id12215035" list-type="bulleted">
+          <item>Our <link url="http://en.wikipedia.org/wiki/Demilitarized_zone_(computing)">DMZ</link> where it looks at all of our components every 90 seconds and critically has thresholds set for Green, Amber and Red. While most components in our large system are duplicated to provide resilience, it’s absolutely vital to know when one of your resilient components has failed in order to prevent a systems failure.</item>
+          <item>The public Internet. From this location, we can look at the service(s) from the perspective of the end user.</item>
+        </list>
+        <para id="id3260974">Nagios is used to provide event monitoring. Implementing such a tool is not to be undertaken lightly. Getting the sensitivity correct so as not to cry wolf, and embedding the culture such that when an alert is sent out, the operational staff respond rapidly is, in my opinion, more difficult than installing the system in the first place.</para>
+      </section>
+      <section id="id-754777466611">
+        <title>Trend and volume monitoring</title>
+        <para id="id3308079">The second open source monitoring tool we use provides trend monitoring, After looking around we found <link url="http://cacti.net/">Cacti</link>.</para>
+        <para id="id11508927">While Nagios tells us when we have a specific issue/problem, Cacti provides us with the information to understand or diagnose the root cause. In measuring volumes and their trends, Cacti allows us to look across the whole application stack at any point in time and examine critical volumes.</para>
+        <para id="id11104890">Cacti is used to measure volumes. If a system can return a number, Cacti can capture, store and trend it. These volumes can be business or technical volumes examples of which might include the number of users logged into the system over time or critical system volumes such as bandwidth, disk space, CPU, or Memory usage.</para>
+        <para id="id11776169">When you want to compare historical volumes or activity at a particular moment in time, Cacti can provide it.</para>
+      </section>
+      <section id="id-744773745383">
+        <title>Culture and tools</title>
+        <para id="id12335084">As you might expect from an open source tool set, both of these tools are highly extensible. We have been able to write and adapt agents to interface with them, with the exception of our database monitoring, and we have been able to monitor and trend all our services.</para>
+        <para id="id7177459">I spoke above about getting the culture right, putting these critical volumes onto big flat screens, making them obvious to everyone in your operations and service team. This was the single most important cultural change we made next to implementing an ITIL service culture.</para>
+        <para id="id3142923">The real question here is how we’ve been allowed to put all this instrumentation all over our application. Most government contracts are outsourced, but we chose to in-source our operations and development teams.</para>
+      </section>
+    </section>
+    <section id="id-287760557851">
+      <title>In-source, out-source, open-source, right-source</title>
+      <section id="id-597872395062">
+        <title>It’s about your technology strategy?</title>
+        <para id="id4313513">To understand this we need to talk about technology in a business context. Most organisations have either an implicit or explicit technology strategy. Within our organisation our Technology Strategy provides us with a framework that allows an organisation to make ‘good’, strategic choices, i.e. Hardware, software, monitoring systems, hosting providers. These choices are deployed within a governance framework to ensure that the business and service models that are dependant on technology can be delivered now and the future.</para>
+        <para id="id4364556">At the risk of stating the obvious, the selection of technology and service model an organisation chooses can mean the difference between a successful business and one that fails. As a consequence, organisations and IT directors tend to be conservative in there decision making.</para>
+        <para id="id12065833">At a simplistic level, technology is used for three things within an organisation:</para>
+        <list id="id11067094" list-type="bulleted">
+          <item>to run the business</item>
+          <item>to change the business</item>
+          <item>to innovate</item>
+        </list>
+        <para id="id3286965">Unless you are a start-up, the bulk of investment and cost is already sunk in running your company. Changing the company IS usually occurs incrementally and takes the form of modifying the status quo. We are left with the shinny innovation tip of the cost iceberg to introduce new ways of doing things.</para>
+        <para id="id4302290">If we accept some of the above, we can see that technology strategies have considerable inertia, and unless there are some strong external pressures (failure to meet Service levels, company financial pressure, loss of market share), the adoption of new technologies is going to be slow. There is still a lot of COBOL out there!</para>
+        <para id="id3256976">So if you already don’t have a lot of open source in use, introducing it requires overcoming quite a lot of inertia.</para>
+        <para id="id4278188">As a company we have mandated the use of specific open-source operating systems and applications within our technology strategy where we can see cost and risk reduction. It’s worth saying that if our service was totally outsourced then these would not be our choices to make, other than at contracting and its very dangerous form to tell a supplier both what you want and how to do it.</para>
+      </section>
+      <section id="id-924333698962">
+        <title>In-source, out-source, right-source</title>
+        <para id="id11175939">The last ten years has seen the trend to out-source IT services and development continue to increase. This should not be a surprise when we consider the risk and cost of getting it wrong. Out-source companies come with the allure of having solved all problems previously and having a large pool of experienced staff and many organisations have significantly reduced the cost and risk of running their IT systems as a result.</para>
+        <para id="id4283090">Central to a successful out-source contract is a contract and a service description and underpinning set of requirements that are well defined. Good example candidates for out-sourcing are Payroll or Desktop management. In both cases, an organisation can describe what it is that it wants and the amount of change required going into the future can be estimated accurately.</para>
+        <para id="id3071918">It’s in the nature of our-sourced contracts that you describe to the supplier what you want but refrain from telling them how to do it.</para>
+        <para id="id4293694">If your IT application is the core of what your organisation does (such as the learndirect LMS) and you know you are going to undergo an annual cycle of change then in-sourcing your operations should be considered.</para>
+        <para id="id3272480">Having in-sourced the learndirect operations, we have seen a significant reduction in cost and have increased our service availability to &gt; 99.9%</para>
+      </section>
+      <section id="id-0319572064757">
+        <title>Open-source</title>
+        <para id="id3499120">If you have in-sourced your application development or hosting then you have the opportunity to exploit open source tools and applications for competitive or service advantage (are they the same thing?)</para>
+        <para id="id3614423">Having in-sourced the operations and now the development of our core application, we have put open source technology at the core of our technology strategy.</para>
+        <para id="id3725152">While we retain Oracle as our database of choice we have adopted a wide range of open source tools, Apache, SQUID, JBOSS, Hybernate, MySQL, Linux, to name but a few.</para>
+        <para id="id3148742">The advantages are obvious:</para>
+        <list id="id4315296" list-type="bulleted">
+          <item>They are standards compliant, or effectively comprise a cross-platform standard in their own right.</item>
+          <item>They are robust and open to peer review such that issues and problems are rapidly identified and resolved</item>
+          <item>They are often designed and built by practitioners and as such have solutions for real world problems built into them</item>
+          <item>They increasingly come with support contracts</item>
+        </list>
+      </section>
+    </section>
+    <section id="id-613573379566">
+      <title>Summary</title>
+      <para id="id11939272">Looking back on what I have written it’s a bit rambling, however the key points I want to make are.</para>
+      <list id="id9655764" list-type="bulleted">
+        <item>Don’t confuse running a Service and running an application. Monitoring and non-functional requirements such as usability, supportability, maintainability, availability make the difference.</item>
+        <item>Monitoring and its application is critical in running a service</item>
+        <item>Getting a technology strategy that supports the business and recognizes that once started it’s often expensive to change.</item>
+        <item>In-sourcing /out-sourcing right-sourcing will impact what you have control of.</item>
+        <item>Open source tools can be used to run world class infrastructure.</item>
+      </list>
+      <para id="id3193338">I hope you found something to make you think in this piece. We live in amazing times. The richest person in the world 10 years ago did not have one tenth of the knowledge we now have at our fingertips. Lastly, in the words of my favourite bumper sticker of all time, if you think that education is expensive try ignorance.</para>
+      <para id="id3788002">
+        <emphasis>Its beholding on me to state that the views expressed in this piece are my own and do not necessarily represent those of my organisation.</emphasis>
+      </para>
+      <section id="id-189880949481">
+        <title>Comments</title>
+        <para id="id3691460">
+          <emphasis>7 Responses to “Running a Service Not a System”</emphasis>
+        </para>
+        <section id="id-32888706295">
+          <title>1. Ken Udas - July 26th, 2007 at 4:10 pm </title>
+          <para id="id3086233">Dick, First, thank you for this post. I am interested is teasing out connections between your use of OSS, technology strategy, and impact on how the Ufi / learndirect supports learners. Referring back to one of your summary points:</para>
+          <para id="id3165326">
+            <quote id="id7565680" display="block">Getting a technology strategy that supports the business and recognizes that once started it’s often expensive to change.</quote>
+          </para>
+          <para id="id4280126">I am wondering if your use of open source software has influenced your technology strategy formally, and if there is any explicit connection in the formal technology strategy and the organization’s strategy involving education services.</para>
+          <para id="id3735636">Cheers</para>
+          <para id="id3255879">Ken</para>
+        </section>
+        <section id="id-962697968821">
+          <title>2. Dick Moore - July 29th, 2007 at 5:51 am </title>
+          <para id="id3309324">Thanks Ken</para>
+          <para id="id4361368">The except below is taken directly from our Technology Strategy summary</para>
+          <para id="id3733893">
+            <quote id="id8306124" display="block">“Service Delivery Platform: Use of open source components such as Apache Web Server and Squid Proxy Server have been core to our service from the beginning. Within the last two years, we have migrated from using Sun Solaris to Redhat Enterprise Linux as our delivery platform. This has provided us with a 95% reduction in cost and has proven to be highly reliable.”</quote>
+          </para>
+          <para id="id11989097">We have similar statements for our Development and Database platforms that all state explicitly the use of Open Source technologies.</para>
+          <para id="id11379900">In the Uk our Office of Government commerce has over the last few years, suggested that ‘OPEN SOURCE should be actively considered alongside proprietary alternatives’ <link url="http://www.ogc.gov.uk/news_2007_4280.asp">http://www.ogc.gov.uk/news_2007_4280.asp</link></para>
+          <para id="id3289857">It’s my contention in the piece above that this it’s not possible to mandate open source if you out-source your IT provision.</para>
+          <para id="id3132387">At Ufi, as a result of in-sourcing, we have been able to embed opensource within our technology strategy for non-utility applications and as a result have seen significant cost reductions and improvements in service reliability.</para>
+          <para id="id10606805">Cheers, Dick</para>
+        </section>
+        <section id="id-941745770229">
+          <title>3. Ken Udas - July 29th, 2007 at 12:53 pm </title>
+          <para id="id3086469">Dick, Hello. I have a few questions and I am not sure where to go first. I guess that I would first like to tease out a little more of your thinking around the connection between supporting individual users that expect a unique experience and using open source software. You started your post by illustrating the importance of system reliability and how you and your team ensure this by recasting the notion of running a “system” into running a “service,” which is supported by excellent monitoring. The need in your context is derived by the challenges of supporting an environment that a) requires customized experiences (there is no place else to go for your learner is the learndirect platform is down, unlike somebody seeking sports scores or news), b) requires high reliability, and c) supports high volume.</para>
+          <para id="id3209506">You then point to the advantages of in-sourcing these parts of your infrastructure using open source software. Here is my first assertion. It seems that the “customization” criteria in the above mix is most critical, after all, high volume and high reliability are pretty typical reasons to out source. Is that correct? Through your experience, what advantages does OSS potentially provide that proprietary options do not? And, when you are evaluating OSS options, what are some of the evaluation criteria that you prioritize?</para>
+          <para id="id4265047">Thanks, Ken</para>
+        </section>
+        <section id="id-91786023398">
+          <title>4. Dick Moore Says - July 30th, 2007 at 3:33 pm </title>
+          <para id="id3725849">Lots of issues there Ken</para>
+          <para id="id12032848">
+            <quote id="id6995729" display="block">I would first like to tease out a little more of your thinking around the connection between supporting individual users that expect a unique experience and using open source software</quote>
+          </para>
+          <para id="id3200391">Hmmm while there is no direct connection, using open source software has allowed us to build highly resilient infrastructures that scale. We have a finance and Management Information system that provides performance data a week in arrears.</para>
+          <para id="id11582034">Using OSS and commodity hardware has meant that that the system has had 100% uptime over the last two years and we are able to scale horizontally keeping pace with demand (downloads have never taken more than 10 seconds)</para>
+          <para id="id4389032">
+            <quote id="id4752660" display="block">Here is my first assertion. It seems that the “customisation” criteria in the above mix is most critical, after all, high volume and high reliability are pretty typical reasons to out source.</quote>
+          </para>
+          <para id="id12362165">It’s not the customised end user experience that makes in-sourcing important, it’s the degree to which we wish to customise the end user solution that is the driver. If your solution is subject to minor change then our-sourcing is a good option. Our e-learning platform is our business and we want to be able to make significant changes on a regular basis. Trying to contract manage third parties to both provide 99.9% uptime AND process lots of change is not easy, contracts by their nature are all about defining risk in advance. In-sourcing has allowed us a finer grained management of risk.</para>
+          <para id="id3149645">
+            <quote id="id14769718" display="block">Through your experience, what advantages does OSS potentially provide that proprietary options do not?</quote>
+          </para>
+          <para id="id3108483">In many respects using OSS has a similar risk profile to in-sourcing. As a purchaser you always take the risk. Using commercial software you are buying into a solution with the intent of reducing risk. Of course this is often, (though not always), a chimera, commercial software comes with a service contracts and SLA’s though when one hits an significant incompatibility, it’s either very expensive or impossible to have it customised for your application. Don’t misunderstand me, we use commercial and OSS database software. For all critical data I use the commercial provider. Our open source database software provides fantastic value for those applications that require read-only access.</para>
+          <para id="id4381367">
+            <quote id="id17373342" display="block">And, when you are evaluating OSS options, what are some of the evaluation criteria that you prioritise?</quote>
+          </para>
+          <para id="id4239060">Good question, we would use much the same criteria that we would for commercial software.</para>
+          <list id="id4353349" list-type="bulleted">
+            <item>How well established is it</item>
+            <item>Is it a market leader</item>
+            <item>What is the size of the user base</item>
+            <item>Are there third parties providing support</item>
+            <item>What do the technical people I respect think of this product</item>
+            <item>How good a fit is it with our other Technical Roadmaps</item>
+            <item>What is the total cost of ownership over 3 years likely to be</item>
+          </list>
+          <para id="id3286694">Using the above criteria to evaluate Apache, against other web servers , we decided to use apache :-)</para>
+          <para id="id11200991">Hope that helps Dick </para>
+        </section>
+        <section id="id-0646322263298">
+          <title>5. Ken Udas - August 2nd, 2007 at 7:27 am </title>
+          <para id="id3255234">Dick,</para>
+          <para id="id3297625">Thanks much for this. I am sort of trying to make some connections between what we have learned through your posting and previous postings. Customization/localization is a major theme in both the open source software postings and the open educational resources postings in this Series, which I find quite interesting. You have introduced a different (or at least what feels like a different) aspect of customization. To this point it seems that most of the dialog about customization has been in recognition that different groups of learners (and faculty and administrators) will have different needs, so content and infrastructure should be localized to meet local cultural, linguistic, access, etc. circumstances and needs. It has been indicated generally that OSS and OER provide better opportunities for localization than proprietary software and educational content. Mara, in our last post, also pointed out some of the challenges associated with the level of customization that OSS can provide can impact on usability testing and user experience.</para>
+          <para id="id3721505">I know that my next question might not be answerable, but in any event, would you be able to articulate some of the differences between “customization” as you are describing/treating it and “customization” as described above (as treated in previous postings)?</para>
+          <para id="id11766864">Cheers &amp; Thanks</para>
+          <para id="id3724881">Ken </para>
+        </section>
+        <section id="id-648603294948">
+          <title>6. Ken Udas - August 4th, 2007 at 6:41 am </title>
+          <para id="id3151312">Dick,</para>
+          <para id="id11986430">Hello. Just another little follow-up question. You outlined some of the advantages of using OSS. What were the challenges that you encountered (technical, organizational, etc.)?</para>
+          <para id="id4344837">Cheers</para>
+          <para id="id4280263">Ken</para>
+        </section>
+        <section id="id-0769891384231">
+          <title>7. Dick Moore - August 5th, 2007 at 9:40 am </title>
+          <para id="id3680107">Ken</para>
+          <para id="id3253431">
+            <quote id="id4677720" display="block">Would you be able to articulate some of the differences between “customization” as you are describing/treating it and “customization” as described above (as treated in previous postings)?</quote>
+          </para>
+          <para id="id4378986">Not a problem, Mara talks about localisation and making software a delight to use, while I agree with her that this is not often the case, it can be achieved by making it a functional requirement, if that’s done then it will be built but often requires a long view to be taken at the start of a project.</para>
+          <para id="id11522499">Customisation / localisation seems to me to be most successful when it is system generated and determined from attributes associated with the user or set flags held within the user profile. I refer to this sort of modification as ‘adaptive rendering’. The content and interface attempt to adapt themselves according to some system rules.</para>
+          <para id="id6181928">The other form of end user customisation that can occur is when the end user specifies specific data feeds or apply filters associated with their account, and your right neither of these are the kind of customisation I was referring to.</para>
+          <para id="id12005846">I was referring in my piece to a requirement to modify, at short notice core business rules that underpin something like funding.</para>
+          <para id="id4289256">User and functional testing will never be able to anticipate this kind of change or customisation never the less such changes to funding rules occur annually and, quit4e rightly, have strict audit requirements.</para>
+          <para id="id3701860">Outsourcing such systems where you know that you will be expected to make significant change each year but don’t know what it is can be expensive and risky.</para>
+          <para id="id3745831">Does using OSS help here, well not directly but indirectly, the ability the flexibility and low cost associated with OSS enables us to prototype and understand the implications of these ‘environmental changes’ very quickly and at a relatively low cost. Mature OSS tools are so stable that the cost and quality of such development is significantly less, in my experience.</para>
+          <para id="id11803063">
+            <quote id="id5105360" display="block">Just another little follow-up question. You outlined some of the advantages of using OSS. What were the challenges that you encountered (technical, organizational, etc.)?</quote>
+          </para>
+          <para id="id4390172">OSS development and application has a culture of collaboration and critique, as such it’s designed to change quickly.</para>
+          <para id="id3282492">Auditors are always very keen for infrastructure and applications to be at the highest patch level.</para>
+          <para id="id3167207">So…… A challenge with OSS software in a commercial environment is keeping current. We get so many patches and releases for each application each year !</para>
+          <para id="id4325291">I have been careful not to name suppliers in this artical but I will make an exception for the RedHat Enterprise Linux who understand the commercial market and produce a new release every 18 – 24 months rather than 3 times a year. Combined with quality training, this has helped overcome many of the traditional organisational challanges to OSS.</para>
+          <para id="id4278571">Like every other IT shop getting and keeping good staff is a challenge. I find that using OSS software and investing in training actually helps in attracting good staff and the training helps to keep them.</para>
+          <para id="id12469225">This hour-long talk by <link url="http://video.google.com/videoplay?docid=-6891978643577501895&amp;hl=en">Google’s Goranka Bjedov,</link> about performance testing of big OSS ICT systems. Speaks far better than I can about the real and practical issues in running large-scale e-learning delivery infrastructure. It made me laugh out loud five times at least.</para>
+          <para id="id11733780">The OSS market is so much more mature than even 3 years ago, I am not surprised to hear that many suppliers of ICT services are working with OSS to increase profit while at the same time improve their quality of service.</para>
+          <para id="id3074886">Dick</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

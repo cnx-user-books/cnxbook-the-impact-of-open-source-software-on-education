@@ -1,0 +1,24 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Summary</title>
+  <metadata>
+  <md:content-id>m14646</md:content-id><md:title>Summary</md:title>
+  <md:abstract>Summary of Richard Wyles' contribution to the "OSS and OER in Education Series." In this post, he writes about networking Moodles across multiple institutions, the Mahara ePortfolio and related projects and will be providing some examples of how open source is delivering on the promise of innovation for education.</md:abstract>
+  <md:uuid>ffc3cdf9-f42c-4fd5-b1e3-88d99baeea03</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-977054883088">
+      <title>Summary - Innovation for Education - OSS and Infrastructure for NZ’s Education System</title>
+        <para id="id7799830">The second installment of The Impact of Open Source Software Series, Innovation for Education - OSS and Infrastructure for NZ’s Education System, was posted on March 21, 2007 by Richard Wyles. Richard’s article provided an overview of the New Zealand Open Source Virtual Learning Environment (NZOSVLE) project, which was launched in earnest in early 2004 and other capacity building activities within the New Zealand tertiary education environment. The posting highlighted the evaluation process that led to the selection of Moodle as the learning management system for the project, the genesis of Eduforge as infrastructure to support multi-institutional collaboration on the project, the contributions made to Moodle in preparation for deployment in New Zealand, and subsequent work.</para>
+        <para id="id12383804">The NZOSVLE project has lead to additional work in open source software that meets needs within the context of the New Zealand education sector, which is comprised of a variety of institutions with varying degrees of financial resources. The posting illustrates the impact of open source infrastructure on lowering financial and organizational barriers to entry into eLearning for institutional throughout New Zealand. As a minor example, he cites the development of Maori, Tongan, and Samoan language packs in Moodle as important developments supporting native Pacific Island communities.</para>
+        <para id="id8734421">There were a number of comments and responses made during the days following Richard’s post. There were at least three central themes that were generated from the comments.</para>
+        <list id="element-349" list-type="enumerated"><item>Although OSS can reduce financial barriers to entry for new online learning providers, the NZOSVLE project further reduced the skills and knowledge barriers of evaluating, selecting, and deploying an appropriate platform and managing the software after it is deployed.</item>
+	<item>Although Richard had seen some secondary impact on the education sector that can be traced back to the introduction to OSS and the NZOSVLE project, in Richard’s opinion they were probably not as profound as they might have been if there was a more strategic framework put in place. Much of the impact relating to increased collaboration among educational institutions based on the NZOSVLE project has been among faculty, eLearning managers, and instructional designers, and not senior managers and chief executives.</item>
+	<item>At the individual and institutional level there was some capacity development in programming and LAMP support that has resulted in contributions to the Moodle community. That said, the organizers of the NZOSVLE project have found that achieving some economies of scale through a hosting and bureau services has been able to focus resources to optimize impact in the NZ context.</item></list>
+        
+        
+        <para id="id11446624">Each author was asked to provide a “shameless self-promotion,” and Richard’s was referring to a business venture called the Flexible Learning Network. We discussed this activity in terms of how it contributes to general capacity building in eLearning, with a strong bias toward OSS, that extends beyond the education sector into government and companies.</para>
+        <para id="id6179868">Please feel free to refer back to the full article and comments posted at “Innovation for Education - OSS and Infrastructure for NZ’s Education System.” I welcome comments, feedback, and suggestions that will improve the above summary. Thank you.</para>
+    </section>
+  </content>
+</document>

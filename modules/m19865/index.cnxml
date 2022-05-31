@@ -1,0 +1,445 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Evolution to Education 3.0 </title>
+  <metadata>
+  <md:content-id>m19865</md:content-id><md:title>Evolution to Education 3.0 </md:title>
+  <md:abstract>Derek Keats' contribution to the OSS and OER in Education Series. In this post, he writes about about how the products and processes of Digital Freedom, such as personal learning environments, recognition of learning achieved, and collaborative cross-institutional virtual classrooms, have the potential to create new opportunities for education.</md:abstract>
+  <md:uuid>2e1f394d-a346-4d47-9720-405339083de7</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7826316">
+      <title>The role of Free and Open Source Software and Free and Open Resources for Education (Open Educational Resources)</title>
+      <para id="eip-411"><note id="eip-id24480389" type="Author Information">Author -  Derek Keats, Evolution to Education 3.0 . Originally submitted June 1st, 2008 to the OSS and OER in Education Series, Terra Incognita blog (Penn State World Campus), edited by Ken Udas.</note></para><para id="id8406796">Higher education institutions exist as a result of the need to aggregate resources that are scarce (professors, books, journals, laboratories). When I entered university in 1972, I had to leave my home in rural Newfoundland, Canada to go to the city 300km away because of this physical aggregation. While new opportunities exist today that did not exist then, they have mostly just changed movement, while leaving most of the fundamental processes intact.</para>
+      <para id="id8295092">The emergence of widespread technical infrastructure (the Internet), coupled with an abundance of Free Software and Free Educational Resources (”Open Educational Resources”) has reduced some of this scarcity, and made other models of education possible. You can now use Free Software to do almost anything, so much so that it is now nearly four years since I have used an operating system or desktop application that was not Free Software.</para>
+      <para id="id9062989">New approaches that build on both the products and processes of Digital Freedom are changing the way we produce and share content and other cultural products. Everything I produce, I make available under a Creative Commons Attribution-ShareAlike license (including this posting), and there are many who do the same. The MIT Open Courseware initiative, and the movement that it has spawned is but one of many systems producing the content equivalent of Free Software (although some of the licenses used are anything but Free – particularly when it comes to disallowing the receipt of benefit from commercial contributers and benefit from contributers who may wish to allow that benefit themselves). Instead of asking textbook publishers to aggregate our scarce content, we are making it available under different models of production that do not require the aggregation of scarcity but instead distribute abundance. Content useful for learning is thus becoming more and more abundant, and available.</para>
+      <para id="id5553478">Of course, it is not all good. There is a deeply disturbing and absurd movement to try to accredit the so-called “open educational resources,” with UNESCO seeming to wish to do this for reasons that are of dubious benefit. Any attempt to accredit content will only serve to slow down the rate of production, and is as sensible as accrediting books on library shelves. Instead, what should be accredited is an institution’s alignment to a framework of Freedom and Openness.</para>
+      <para id="id5553481">Personal learning environments (PLEs) as an approach to technology for learning are also emerging, and include specialized technologies as well as established ones such as blogs. What PLEs do is to create the possibility for individuals to aggregate their own learning opportunities. In addition, new standards for interchange of learning materials and activities are creating much more scope for collaborative cross-institutional virtual classrooms that do not rely on institutions sharing the same underlying technology.</para>
+      <para id="id9053720">Recognition of learning achieved by institutions that are aligned to a framework of Freedom and Openness should be the new way to provide assertions of quality, not accreditation of the resources used. This can be built on the base of ‘recognition of prior learning’ which is already in place in many institutions, including the University of the Western Cape where I work.</para>
+      <para id="id7399080">This is a possible brave new world of education 3.0, one in which the organizational constraints and boundaries are removed, the need for aggregation is not the only model for accredited learning, and the long-tail reaches into higher education at last. I do not see it as a replacement for institutional learning as it happens currently, but as another layer on top of it that extend the value of higher education into new spaces and that enable synergy among different individuals and institutions to be created.</para>
+      <para id="id7399084">Is this a desirable world? Is it a world that we will see in our lifetimes? Or is it the ranting of a digitally-disturbed, hyperlinked lunatic?</para>
+    </section>
+    <section id="id6949512">
+      <title>Comments</title>
+      <section id="id7469822">
+        <title>1. Patrick Masson - June 1st, 2008 at 8:28 am </title>
+        <para id="id7140255">Derek,</para>
+        <para id="id8097626">Quite a timely post for me. I just came back from the SUNY Conference on Instructional Technologies (CIT). The session topics focused primarily on “Web 2.0″ technologies and techniques; wikis, blogs and of course the now ubiquitous LMS.</para>
+        <para id="id8123806">In all of these sessions, Derek’s model for content development and delivery was evident. Many contributors using disparate tools generate content then pass the finished product through to an institutionally managed tool where it is aggregated and managed by faculty. The focus was on many contributing to a single interface: student generated content, distributed content, etc.</para>
+        <para id="id8356033">Derek’s model of the Personal Learning Environment would appear to provide multiple aggregation environments (equal to the number of students–potentially more) that host the independently developed content.</para>
+        <para id="id4544193">Only one session at CIT touched on this, “Whose technology is it anyway?” presented by Steven Zucker, Beth Harris and Eric Feinblatt of the Fashion Institute of Technology. The session description asked, “Why haven’t we, as educators, been asking this question of ourselves? Why is technology exempt from the lessons we’ve learned about involving students in their own education? Why is technology something that an institution ‘delivers’ without significant input from the students themselves?</para>
+        <para id="id7050473">In the presentation they displayed two screen shots, one of the campus portal that included announcements, calendar events, email, etc., what the campus felt the students needed, and the other, a student generated PLE built in their own instance of Wordpress. The idea I took away from this was that students are not only better suited to identify and organize their own content, they are better suited to define the tools to do so.</para>
+        <para id="id7050986">To me it seems plausible that a course’s faculty member publishes course specific content, references, activities, etc. to a course site, but the students aggregate that (and other resources they may find) within their own PLE, a wiki, a blog, iGoogle, a basic web page, etc. Really just like they used to with their own notes, folders, binders, lockers, desks, etc. These independent sites (maybe we call them “cites?”) can also be shared between students as course resources.</para>
+        <para id="id4952886">I noticed here that there is a link to Digg on this page. I wonder how such tools could be used to identify student “cites” as resources for the class? Could these be referenced and scored similarly where those that received multiple visits, comments, referrals, rankings, be scored (valued?) higher just as search engines, Digg, del.icio.us does. Is Education 3.0, Web 3.0 or Web2.0-2.0 (my Web2.0 “goes to eleven”) really all about integration and interoperability?</para>
+        <para id="id7456515">Great post (and I’m happy to have for once beaten Richard Wyles to the punch and posted the first comment - woohoo),</para>
+        <para id="id6734625">Patrick</para>
+      </section>
+      <section id="id8353365">
+        <title>2. Patrick Masson - June 1st, 2008 at 8:38 am </title>
+        <para id="id5713119">Just re-read the post, I did not mean to state that the current state of course management is “Derek’s model” rather that how Derek described the current status of course and content development was evident in the conference presentations. That’s what I get for waking up early to beat Richard in with a post…</para>
+      </section>
+      <section id="id7911764">
+        <title>3. Derek Keats - June 1st, 2008 at 11:54 am </title>
+        <para id="id5040249">Hi Patrick,</para>
+        <para id="id6121605">Just a quickish response to:</para>
+        <para id="id7660046">“Is Education 3.0, Web 3.0 or Web2.0-2.0 (my Web2.0 “goes to eleven”) really all about integration</para>
+        <para id="id8512276">and interoperability?”</para>
+        <para id="id9012679">Education 3.0, as Philip and I conceived it in our paper</para>
+        <para id="id8591186">(<link url="http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1625/1540" window="new">http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1625/1540</link>)</para>
+        <para id="id7497466">is not a technology but a consequence of the emergence of technologies generally recognized as Web 2.0 (I suppose you could paraphrase Microsoft, and say Web 2.0 or better), as well as changes to the way in which individuals and institutions behave. This includes recognizing learning , as opposed to recognizing crude measures of having been taught (which is mostly what we do now with some exceptions).</para>
+        <para id="id8303231">There is a bit more on Education 3.0, including something on the framework of openness idea in my blog at <link url="http://www.dkeats.com/blog/" window="new">http://www.dkeats.com/blog/</link></para>
+        <para id="id3888600">Scroll down past the Sekuru and the Sharks (and perhaps past the pics I will be posting there tonight), past the twitter mashup, and you will find it there entitled “Challenges for Quality Assurance in an Education 3.0 world”. There is a slidecast as well as a PDF of the paper given at the UNESCO conference on Quality assurance.</para>
+        <para id="id8097744">Some of the keys to Education 3.0 are</para>
+        <list id="id6717465" list-type="bulleted">
+          <item>students owning and managing their own learning;</item>
+          <item>aggregated courses are not the only way to get accredited learning;</item>
+          <item>institutional boundaries are more permeable;</item>
+          <item>processes are in place to recognize and accredit learning no matter what the source.</item>
+        </list>
+        <para id="id8133906">Hope this is useful.</para>
+        <para id="id7941760">Regards from a windblown and sunburnt blogger, Derek</para>
+      </section>
+      <section id="id9062904">
+        <title>4. coarsesalt - June 2nd, 2008 at 5:34 am </title>
+        <para id="id7697805">Hi Derek,</para>
+        <para id="id8032007">Just had your blog passed onto me… seems we share more than similar perspectives, I’m from a once fishing village in rural New Brunswick.</para>
+        <para id="id8331654">Interesting stuff… and I’m particularly interested in the fourth of your ‘keys to 3.0′ the accreditation of learning. If I understood your post correctly, the accreditation universities will focus more on accrediting the ‘process of learning’ and, if the extension works, ‘the process of knowledge construction’ and not simply attempt verify the existence of that knowledge in the gray matter of one particular student. This, to me, is the critical need… at least in this transitional period between a potential open knowledge society and one that still operates on a pre-knowledge abundance mentality.</para>
+        <para id="id8098490">I’ll just post <link url="http://www.innovateonline.info/index.php?view=article&amp;id=550&amp;action=article%20" window="new">http://www.innovateonline.info/index.php?view=article&amp;id=550&amp;action=article </link>here in lieu of typing out the rest of the article.</para>
+        <para id="id9090501">Looking forward to reading the rest of it. dave cormier</para>
+        <para id="id9091001"><link url="http://davecormier.com/edblog" window="new">http://davecormier.com/edblog</link>
+        </para>
+      </section>
+      <section id="id9035824">
+        <title>5. Wayne Mackintosh - June 2nd, 2008 at 12:56 pm </title>
+        <para id="id9084870">Hey Derek, Great to see your post @ Terra Incognita.</para>
+        <para id="id8294169">The University of the Western Cape is a leader in progressing FLOSS for education and FORE. I was particularly pleased to read your comment about many of the “free” content licenses being anything but free . Especially those CC licenses incorporating NC and ND restrictions.</para>
+        <para id="id9057233">Fortunately the free knowledge movement has made some progress in this regard, largely due to the interventions of the Wikimedia Foundation and support from the Free Software Foundation. Recently the Creative Commons have included a <link url="http://freedomdefined.org/Definition">Free Cultural Works</link> approved logo on the two CC licenses that meet these requirements . See for example:</para>
+        <para id="id8331422"><link url="http://creativecommons.org/licenses/by/3.0/us/" window="new">CC-BY</link> and</para>
+        <para id="id9082026"><link url="http://creativecommons.org/licenses/by-sa/3.0/us/" window="new">CC-BY-SA</link>.</para>
+        <para id="id9057274">Increasingly, education institutions are now signing the Cape Town Open Education Declaration — which I think is a good thing. At last we are seeing a return to the true values of education — namely to share knowledge freely. However, these commitments need to be followed up with appropriate reward and incentive mechanisms at the institutional level within the academy. One example is the implementation of progressive and supportive IP policies.</para>
+        <para id="id9057282">I know that UWC has a progressive IP policy and has been a pioneer in this area. What advice can you give institutions who have signed the Cape Town Declaration in taking the next steps in supporting their commitments? How did UWC go about changing and implementing its IP policy? What lessons have you learned from the process?</para>
+        <para id="id9089756">It seems to me that once an institution commits through a supportive IP policy — the growth in FORE is impressive. A good example is Otago Polytechnic in new Zealand. They have implemented a new IP policy where all resources default to a CC-BY license. Since the implementation of this policy — free content development at the <link url="http://wikieducator.org/Otago_Polytechnic" window="new">Otago Polytechnic</link> has been prolific and inspiring.</para>
+        <para id="id9100882">Great post Derek — thanks. Wayne</para>
+      </section>
+      <section id="id9100891">
+        <title>6. Leigh Blackall - June 2nd, 2008 at 7:17 pm </title>
+        <para id="id9100905">I’d be interested to hear more about the things to be concerned about in:</para>
+        <para id="id9100914">
+          <quote id="id9100914_quote" display="block">Of course, it is not all good. There is a deeply disturbing and absurd movement to try to accredit the so-called “open educational resources,” with UNESCO seeming to wish to do this for reasons that are of dubious benefit. Any attempt to accredit content will only serve to slow down the rate of production, and is as sensible as accrediting books on library shelves. Instead, what should be accredited is an institution’s alignment to a framework of Freedom and Openness.</quote>
+        </para>
+        <para id="id9100936">I don’t know about UNESCO, but I can see benefits in streamlining migration of people with skills and qualifications that are internationally recognised. And I see that international recognition possibly developing through collaborative efforts in OER development. What exactly are the absurdities and dubious benefits your are referring to? I think I can agree that accrediting content is a silly idea, but OER could be about much more than just content. As a friend asked me recently, does OER really refer to resources, or is it more accurate to refer to it as Open Education Reform. In that sense, OER would be about much more than content, and all about networked learning, networked teaching, group learning, student exchange programs, teacher exchange programs, and a mashup of short courses offered by a range of people and institutions that could amount to an international degree or other sort of certificate or qualification..</para>
+      </section>
+      <section id="id9100944">
+        <title>7. Derek Keats - June 3rd, 2008 at 12:36 am </title>
+        <para id="id9100958">To try to respond quickly to Wayne MacIntosh first, and for those who have not been part of the “free” or “open” discussion before….</para>
+        <para id="id9100077">The notion of “open” is borrowed from the concept of “open source”, a software concept that arose mainly out of people not being able to deal with the steadfast focus on Freedom by founder Richard Stallment by some of the original proponents. The notion of “open source” really focuses on business benefit, not on the Freedoms that the software embodies. The “open” of course applies to the source code. In the case of content, that would imply that the original source files used to produce a work are available in their original (ideally open) formats. But of course, in the case of 99% of the content that is supposedly open, this is not the case. If you want to create a derivative work, you often have to re-engineer the raw materials, so they are neither open nor free.</para>
+        <para id="id9100112">Then there are licenses that restrict the Freedom inherent in the resources, with the NonCommercial restriction being particularly evil in this regard because it creates license incompatibilities that preclude building composite derived works. The issue is not about commercial use, but the fact that if YOU use a NC restriction, it prevents me from including some of your content in my less restrictive works, and PREVENTS the users of MY content from receiving potential benefit from people who may wish to contribute but use the works commercially.</para>
+        <para id="id9100128">I am opposed to anything that impedes velocity, and the NC restriction and accreditation would both impede velocity. Indeed, if they were applied to software, we would almost certainly have NO Free or Open Source Software today. The only way to overcome this, and still retain velocity, is to pump large volumes of money into it, which is of course what MIT and others have done. But that is not sustainable.</para>
+        <para id="id9100142">How did UWC succeed with its strategy on Free Courseware and Content? Well, we are an institution which is deeply rooted in the intellectual engagement with the issues of freedom as we were the intellectual home of the struggle for political freedom in South Africa. We understand both the tenets of freedom, and what it is like not to have it (I have my mementos of rubber bullets and teargas cannisters to prove it). As an institution we therefore have deep roots in the key concept of Freedom that most of the Open conversation seems to miss, and be shy to talk about. We are not shy. It is our life blood. Thats why we talk about Free Courseware and Free Content. To be free it must be open, but it can be open without being Free, and that is incompatible with our reason for being as an institution.</para>
+        <para id="id9100164">Our chancellor is Archbishop Desmond Tutu, who I am sure you will all recognize as an uncompromising champion of freedom. He has personally signed the Cape Town Declaration as well. You can here him talk about freedom in the digital age at</para>
+        <para id="id9100176"><link url="http://www.dkeats.com/index.php?module=cms&amp;action=showfulltext&amp;id=gen13Srv30Nme10_4576_1209888958&amp;sectionid=gen13Srv30Nme10_2172_1209888604" window="new">http://www.dkeats.com/index.php?module=cms&amp;action=showfulltext&amp;id=gen13Srv30Nme10_4576_1209888958&amp;sectionid=gen13Srv30Nme10_2172_1209888604</link>
+        </para>
+        <para id="id9100183">Perhaps they will help explain where we come from.</para>
+        <para id="id9100203">Unfortunately, our growth in production of OERs has not been commiserate with our stance YET for a number of reasons. However, we believe that collaboration among students is the key to at least one aspect of it. Thus we have the Rip, Mix and Learn project, which has students producing content as part of their own learning, and making it available to the next crop of students. This is FORE in a social constructivist scenario, much of OER is instructivist lead.</para>
+        <para id="id9100218">But there is a role for that as well. In the second semester, we go live with our new learning management system, which will automatically make all of our course materials available under a CC: BY-SA license. We are also starting a podcast project that will see lectures automatically podcasted from the classroom (where the lecturer chooses to do so), and by next year, this will be in all our classrooms, thus potentially making all our lectures available under this license.</para>
+        <para id="id9100233">Sorry, rambling while eating my granola and yoghurt, but hope these comments are useful, Will respond to the other two posts during the course of the day.</para>
+        <para id="id9100243">Regards, derek</para>
+      </section>
+      <section id="id9100251">
+        <title>8. Ken Udas - June 3rd, 2008 at 6:42 am </title>
+        <para id="id9100264">Wow, thanks for the great post and comments. I want to point back to Derek’s provocative statement about accrediting Open Education Resources, and push Leigh’s questions a bit further.</para>
+        <para id="id9100277">
+          <quote id="id9100277_quote" display="block">When we talk about “accrediting” open educational resources, what do we mean?</quote>
+        </para>
+        <para id="id9100290">I am assuming that is has something to do with assuring quality. I suppose that there are a whole lot of quality assurance models in education. Many governments become involvement with quality assurance through public agencies, there are also regional and professional accreditation processes that strive to ensure institutional and curricular quality. I suppose that most colleges and universities have internal processes in which they “accredit” learning materials, but I think that it is usually pretty contextual. That is, factors such as teaching methods, characteristics of learners, level of the course within an overall curriculum, educational commitments of the institution, department, and faculty are taken into account together and not disaggregated. In many settings this happens within a college, department, and/or at the individual level f the faculty member – not so much by individual students. That said, in the bigger picture, I suppose that individual learners do make decisions based on their perceptions of quality and value.</para>
+        <para id="id9100323">In any event, it seems that it is perhaps a bit inappropriate to “accredit” Open Educational Resources in the same way that we quality assure academic programs or course instances. It seems to me though that there are characteristics that have little to do with the “content” in terms of its accuracy, relevance, logic, meaning, etc, but does have to do with other important qualities such as ability easily find, access, use, modify, and reuse the OER. Are these qualities that might be assured or at least described?</para>
+        <para id="id9100343">If so, how might we promote such qualities without impeding velocity?</para>
+        <para id="id9100351">I raise this because I think that it might be helpful to have some method to identify OER (define this as broadly as you like) that is most “usable” and “useful,” taking into account factors such as licensing, adherence to open formatting and packaging standards, and other characteristics that promote modification, reuse, and sharing (for as wide a group as possible).</para>
+        <para id="id9100371">Cheers - Ken</para>
+      </section>
+      <section id="id9100380">
+        <title>9. christine geith - June 3rd, 2008 at 11:28 am </title>
+        <para id="id9100393">Derek, I like how you describe education 3.0 as another layer in education providing more options for individuals. E3.0 it seems is less about organizations provisioning education and more about individuals provisioning their own.</para>
+        <para id="id9100404">I argue that an abundance in both learning resources as well as “accreditation” is what will enable velocity. When we provision our own learning, there is an important role for accreditation in its broader meaning as a 3rd party stamp of approval.</para>
+        <para id="id9100420">For instance, when we travel, we can choose to travel on your own or we might go with a package deal where everything is pre-planned and quality controlled. Both forms of travel benefit from various 3rd party stamps of approval. These can be ratings and comments from fellow travelers, recommendations in a published guidebook, or the brand name of the organization offering the experience. Different trips benefit from different kinds of 3rd party recognition depending on our purpose for the trip.</para>
+        <para id="id9100438">Likewise, in education there are stamps of approval for all of the parts of the system: content is peer reviewed, published and awarded prizes by 3rd parties whose names are respected among a particular community; processes can be ISO certified for quality; degrees can earn approval from professional bodies that are the keepers of standards and best practices in their particular communities; institutions can be recognized by governments and accreditation bodies by demonstrating adherence to rules and practices; and individual learning outcomes can be recognized by normed exams and evaluation by recognized evaluators – to name a few.</para>
+        <para id="id9100467">A long tail in open learning resources benefits from a wide variety of stamps of approval from an unlimited variety of 3rd parties – including individuals. How else can we find what best suits our purpose, including the characteristics of openness, in an ever-growing abundance of good stuff?</para>
+        <para id="id9100484">Our purposes and contexts are not only local, but personal. We need stronger recommender systems and ways to identify useful resources fit for our individual use. I believe that velocity in the growth of resources needs to be matched by growth and variety in stamps of approval so we can make more informed choices.</para>
+        <para id="id9100496">IMHO - Chris</para>
+      </section>
+      <section id="id9100505">
+        <title>10. Derek Keats - June 3rd, 2008 at 12:26 pm </title>
+        <para id="id9100518">Hello folks, Home from a long day, done my chores of cooking a pot of currey for my rather large family, and now I can try to get into this again. Let me first post a reply to Dave Cormier (interesting name, also common on the west coast of Newfoundland).</para>
+        <para id="id9100530">Dave, you raise interesting questions, and answering them I am sure will help me understand my own thinking better. So let me explain accreditation of learning. Currently, many institutions offer a serviced to prospective students who may wish to study at a level higher than their formal qualifications would permit. For example, doing a Masters without doing an undergraduate degree. This process is something that we are quite good at at UWC, and Alan Ralphs is one of our professors who conducts research on it. In such a case we would typically ask the prospective student to submit a portfolio that demonstrates their learning (not their experience, their learning) as well as go through an interview process, and various other things.</para>
+        <para id="id9100549">Now imagine that you are interested in the evolutionary biology of bacteria inhabiting the left legs of fleas on the back of a duck (perhaps a bit too specific, but a metaphor for something out in the long tail of the curve). You discover some resources on flea biology, listen to some lectures from Stanford on evolutionary biology, and you start to come to understand the selective pressures that affect bacteria on the left legs of fleas in general, and also within the broader environmental conditions of a duck’s back. As you delve into this, you also learn the basics of the discipline, and build up a learning portfolio. You realise that you have a gap in that you do not understand how mutation happens, so you decide to enroll in a course at the University of Zambia, where they have a good professor who teaches it via online methods. You join an online study group of people who are discussing the ecosystem of a ducks back, and you add all of that to your portfolio.</para>
+        <para id="id9100584">You then approach an institution that is accredited as being aligned to a framework of openness, and whose recognition of learning processes are internationally acclaimed. I would like it to be the University of the Western Cape of course. You submit your portfolio, and you go through the recognition of learning process, and that September you graduate with a bachelors degree in Science with a major in Duckback Ecology or something like that.</para>
+        <para id="id9100599">This would be what I mean when I talk about accreditation. What I find silly is the notion that the content that you use to accomplish all of this needs to be accredited because accrediting infinite possibilities will require infinite funding.</para>
+        <para id="id9100610">Hope this makes some kind of sense. Its a bit train of thought stuff, but this IS a blog, and I am not seeking accreditation :-)</para>
+      </section>
+      <section id="id9100621">
+        <title>11. Derek Keats - June 3rd, 2008 at 12:41 pm </title>
+        <para id="id9100634">Hello again,</para>
+        <para id="id9100641">Let me reply to Leigh, and then I have to go chase kids and stuff. Will come back in a bit to respond to the rest, if not, then tomorrow morning.</para>
+        <para id="id9096875">I agree with you that we need people with internationally recognized qualifications, and certainly have not advocated doing away with accreditation. I just don’t think that the RESOURCES themselves (i.e. the digital equivalent of textbooks) are the things to accredit. Rather accredit the PROCESSES, which is typically done by accrediting the PROGRAMME or the INSTITUTION.</para>
+        <para id="id9096895">If you interpret OER, not a term I would use as I prefer FORE (Free and Open Resources for Education - to emphasize Freedom), as being everything including the learning then accreditation will certainly play a role. Currently, accreditation rests with the institutions or national bodies that accredit them. So the alignment of an institution to a framework of freedom and openness, which would include its processes for recognizing learning, would to me be the basis for such accreditation. The role of the resources per se is irrelevant except that they exist and can be used.</para>
+        <para id="id9096912">The reason that I say accreditation of the resources however defined will reduce velocity is that every hurdle is impediment that will result in less resources being produced. I say it is absurd because attempting to do something that cannot be done is absurd, if you don’t believe me spend some time trying to throw a tennis ball over the Pacific Ocean from Vancouver to Hong Kong. It is of dubious benefit because even if it were possible, it would add no value. However, if we are talking about accreditation of learning, then that is another matter. Thats where we need to get to!</para>
+        <para id="id9096940">regards, Derek</para>
+      </section>
+      <section id="id9096948">
+        <title>12. Derek Keats - June 3rd, 2008 at 12:51 pm </title>
+        <para id="id9096961">Just a quick reply to Ken before I go, just a small part of Ken’s post. I think replied to some of Ken’s considerations in the other posts before I read Ken’s contribution.</para>
+        <para id="id9096975">
+          <quote id="id9096975_quote" display="block">it might be helpful to have some method to identify OER (define this as broadly as you like) that is most “usable” and “useful,” </quote>
+        </para>
+        <para id="id9096983">Is this something that needs a third party involved? We are in the age of the read-write web, social content, folksonomies, and kudos. Let the community decide what is useful. Accreditation in this context is an old fashioned, aggregative, scarcity mentality concept. When you have communities, the communities themselves are the best judges of what is useful.</para>
+        <para id="id9096997">Take a simple example, what are the most viewed presentations on Slideshare? What are the ones that are bookmarked the most? What are the ones that people have added as their favorites? What are the ones that are most often embeded? There lies the basic means with which newcomers can get a sense of the usefulness of something. And in a world of abundance, there is always another resource to fill the gap. interestingly, my presentation on Quality in Education 3.0 on there got over a thousand views in one week, so there must be quite a few people thinking about these concepts.</para>
+        <para id="id9097014">Oddly though, the proponents of new ways of doing are still aggregating, nogal? Is that not a bit weird?</para>
+      </section>
+      <section id="id9097024">
+        <title>13. Wayne Mackintosh - June 3rd, 2008 at 3:31 pm </title>
+        <para id="id9097037">Hey Derek,</para>
+        <para id="id9097044">Knowing the values underpinning freedom and what freedom means, is going to be the cornerstone of future success of FORE — as RMS says, we need to know what freedom means because “freedom is easily lost.”</para>
+        <para id="id9097059">Thanks for the link to Archbishop Tutu’s opening at the Digital Freedom Exposition. By way of example I’ve attempted to illustrate the velocity of free content growth. Thanks to a CC-BY-SA license — WikiEducator is able to enrich the learning experience of our community by incorporating the video into our tutorial on <link url="http://wikieducator.org/Wikieducator_tutorial/What_is_free_content/Free_content_defined" window="new">free content</link>.</para>
+        <para id="id9097086">Thanks Derek for an inspiring contribution.</para>
+      </section>
+      <section id="id9097094">
+        <title>14. richardwyles - June 3rd, 2008 at 7:11 pm </title>
+        <para id="id9097108">Fantastic thread - Pat, I’m late on this one ;-). When leading the NZ OER project we grappled with this concept of accreditation of content quite a bit. A key consideration for us was that we produced OERs of high quality (in an e-Learning pedagogy sense) and fit for purpose to address a particular curriculum need. So while not formally stamped with anyone’s approval I can see this approach evolving to where a Moderator group “approves” a specific version of content for use in a particular field of study much in the same way as prescribed text-books. However it could never be some over-arching body like UNESCO - I agree the notion is absurd. However, content moderation is a parallel of what happens in the FOSS world - “benevolent dictatorship” is what Linus Torvalds once referred it to as. There’s also an undercurrent that true OERs need to have the lowest barriers to entry. Unfortunately I see this often leading to lowest common denominator approaches that fail to inspire the learner. Media neutral source files can alleviate that tension but this can also raise the bar in creation. Sure, wikis are part of the solution but in a Web 2.0 OERs must be much more than that.</para>
+        <para id="id9097148">Derek, on another note you might want to check out <link url="http://www.mahara.org/" window="new">http://www.mahara.org</link> - early stages of a PLE project &amp; at <link url="http://www.myportfolio.ac.nz/" window="new">http://www.myportfolio.ac.nz</link> an attempt with Mahara to break down institutional barriers.</para>
+      </section>
+      <section id="id9097174">
+        <title>15. Wayne Mackintosh - June 4th, 2008 at 12:07 am </title>
+        <para id="id9097187">Hey Richard, Great to touch base in the forum.</para>
+        <para id="id9097195">I’m not sure whether I understand your suggested correlation between lowering the barriers of entry and quality. Quality is both an elusive and complex concept. Quality means different things to different people That said, I think quality is equally important for both open and closed authoring approaches in education.</para>
+        <para id="id9097212">What do you mean by: ” Media neutral source files can alleviate that tension but this can also raise the bar in creation”? and how does this relate to quality?</para>
+        <para id="id9097225">Cheers, Wayne</para>
+      </section>
+      <section id="id9097234">
+        <title>16. richardwyles - June 4th, 2008 at 12:37 am </title>
+        <para id="id9097247">Hi Wayne,</para>
+        <para id="id9097254">What I’m suggesting by the “lowest common denominator” comment is that rich media and interactivities commonly associated with LMSs can be over-looked in the desire to keep perceived barriers to the content as low as possible. In terms of reusability it is fair to say there are shades of openness as more complex learning objects will require more technical knowledge for reuse. That is not a comment on quality per se, more a comment that engaging use of MM or interactivities can be overlooked and that can lead to less engaging outcomes. That tension can be alleviated by standardising on open formats (e.g. XML) for source materials but like open source, I still see the need for skilled artesans for good eLearning experiences to be developed on top of that - it’s asking a lot from the learner otherwise. Polansi (2003) suggests that an ideal situation would be to develop several interface and stylistic environments that are user-controlled, which would enable the user to choose the most suitable form of interacting with and exploring the knowledge. That still requires initial creation which can be complex hence shades of openness. In eLearning to me, there’s a spectrum between technology and content - we operate at that nexus. PLEs, wikis, ePortfolios and multi-user virtual environments like Second Life make it possible to move in Polansi’s direction to some degree but I’m also of the view that even if architectural drawings were open content I still might like to hire a builder - the lowest common denominator approach won’t meet all needs.</para>
+        <para id="id9097319">Sorry, probably haven’t answered this that clearly. Got to go, I’m cooking dinner!</para>
+        <para id="id9097329">cheers, Richard</para>
+      </section>
+      <section id="id9097338">
+        <title>17. Wayne Mackintosh - June 4th, 2008 at 12:59 am </title>
+        <para id="id9097351">mmm — thinking out loud here.</para>
+        <para id="id9097359">I’m not a programmer and would not be able to hack on the Linux kernel. However, I use free software because the code is open — knowing that I have the freedom to employ a skilled coder to do magic if I need it. I’m not sure that I want Polansi’s future if its locked behind closed formats.</para>
+        <para id="id9097377">I’d rather say that — hey Polanski has a few cool ideas, lets see how we can develop free and open equivalents in realization of that vision. Sorry — I don’t buy the shades of openness argument.</para>
+        <para id="id9097391">I’d rather be free</para>
+        <para id="id9097398">What’s for dinner — going by Wellington traditions its bound to be a treat.</para>
+        <para id="id9097408">Cheers, Wayne</para>
+      </section>
+      <section id="id9097416">
+        <title>18. Derek Keats - June 4th, 2008 at 1:06 am </title>
+        <para id="id9097431">Just to chip into the discussion of Wayne and Richard, and then I will come back to Christine, the reason being purely pragmatic. I have 3-4 minutes before I have to jump in the shower and head off to the office.</para>
+        <para id="id9097442">Richard is absolutely right that a plethora of source files does not mean that the professors will be able to use them themselves. But one thing I can guarantee is that if they are in a format for which software is easily available, their STUDENTS will be able to use them, and they will do absolutely awesome things with them. When we think about the limitations of what professors can do, we are thinking with a scarcity, aggregative mindset. How much wheat can you grow in a flower pot?</para>
+        <para id="id9097460">But even with the aggregative approach (the professor aggregates resources, and feeds them to the students), having the source materials makes it possible to do more with them, even though you might have to use a third party to do so. The same is true of software. Having the source code does not mean that you will have to edit the source code and compile it yourself. Indeed, for most of the software that I have obtained modifications, I got someone else to do it even though I am a passively decent programmer in several languages. I simply would not have the time, never mind the skill.</para>
+        <para id="id9097477">One should also be careful not to over-complicate things. I might edit a source file in the Gimp and include it in an Open Office presentation. When I make my presentation available as a piece of Free Content, the source of that image should also be available. There are two immediate benefits for that, one being that someone can change it to suit a new purpose, and the second one (perhaps more important) is that someone can study it to see how I did it and improve their Gimp and presentation skills. Learning from access to the source is very powerful.</para>
+        <para id="id9097493">If we take Second life as an example, its just a bunch of images with some navigation. So, again making the images available could indeed be of benefit even though the end product is quite complex.</para>
+        <para id="id9097504">Taking the architectural drawings as an example, my wife built our house. She had no experience at all but acquired it from a combination of open (but not free) resources on the Internet, and the fact that builders were willing to share their knowledge openly with her over a cup of tea at their building site. During the building she had to change the plans, so to do so she learned how to do the drawings, and did them manually because the source files were not available to her even though we had software that could have accessed them. She worked with a mixture of builders and semiskilled labour to build the house. Our neighbour is doing the same thing, but has hired people to do everything from plan to product. Just because the option is there doesn’t meant that EVERYONE has to use it. Some will, some won’t, and some will create something really new that can be shared.</para>
+        <para id="id9097541">I am waffling and not quite sticking to the topic, but find this angle quite fascinating and worth further exploration sometime.</para>
+      </section>
+      <section id="id9097551">
+        <title>19. Derek Keats - June 4th, 2008 at 1:13 am </title>
+        <para id="id9097565">A quick note for Christine, will come back later:</para>
+        <para id="id9097573">
+          <quote id="id9097573_quote" display="block">I argue that an abundance in both learning resources as well as “accreditation” is what will enable velocity. When we provision our own learning, there is an important role for accreditation in its broader meaning as a 3rd party stamp of approval.</quote>
+        </para>
+        <para id="id9097589">Hopefully I have made it clear now that I agree with this. By velocity I was referring to the speed with which resources get created, likening it to the software world, where small changes to licenses or a project’s policies can impede production. Accreditation of resources will create a hoop that not everyone might choose to jump through, thus slowing velocity.</para>
+        <para id="id9097609">Accreditation of learning is another matter entirely. There institutions should still play a role, unless we can come up with some other mechanism that is hard to cheat.</para>
+      </section>
+      <section id="id9097620">
+        <title>20. Derek Keats - June 4th, 2008 at 10:48 am </title>
+        <para id="id9097634">Hello folks, after a brief discussion with some colleagues at UNESCO I have to admit that I was not only wrong in the statement:</para>
+        <para id="id9097643">
+          <quote id="id9097643_quote" display="block">There is a deeply disturbing and absurd movement to try to accredit the so-called “open educational resources,” with UNESCO seeming to wish to do this for reasons that are of dubious benefit.</quote>
+        </para>
+        <para id="id9097657">but I was radically wrong. Indeed the notion of accrediting learning is widely understood in UNESCO and that is very encouraging. I apologize for implicating an innocent party :-)</para>
+        <para id="id9097667">Just for the record, I chose the words absurd and dubious deliberately in the hope of being challenged, and I think that produced some useful discussion. I am just wondering if there are any readers who think the notion of Education 3.0 is radically wrong or bad, and if the idea of self-learning using Free and Open Resources is something that we should reject? Will it happen? Who thinks about autogogy?</para>
+      </section>
+      <section id="id9097683">
+        <title>21. Ken Udas - June 4th, 2008 at 2:49 pm </title>
+        <para id="id9097695">Derek, Hello. Just a quick response to your question to be about “quality assurance” of content.</para>
+        <para id="id9097706">
+          <quote id="id9097706_quote" display="block">Is this something that needs a third party involved?</quote>
+        </para>
+        <para id="id9097714">No, I do not think a third party is at all necessary, because the quality will frequently be based on need and circumstance, and nobody knows more about what I need than do I. That said, I was really thinking about some sort of guidelines for those creating and packaging content to be as usable/reusable for as wide an audience as possible.</para>
+        <para id="id9097727">Cheers, Ken</para>
+      </section>
+      <section id="id9097735">
+        <title>22. richardwyles - June 4th, 2008 at 4:11 pm </title>
+        <para id="id9097749">Hi again,</para>
+        <para id="id9097757">For Wayne I need to qualify my meaning on shades of openness because I’m a strong advocate on open standards and formats. There is most definitely shades of openness due to many different aspects. Derek describes one - often people will provide the output as an open resource but not the source file. A lot of open content wasn’t constructed with openness as being a primary concern - archived materials subsequently made “open” for example. These can be very difficult to reduce, extend, edit etc. The parallel with open source is that some projects are more open in the sense that the community they have is open and easier to engage with, the code is conducive to hacking and thereby innovating further. In contrast, although having an open license, many projects have arcane coding structures or unwelcome governance structures, sometimes both! Hence my shades of openness comment.</para>
+        <para id="id9097796">This write-up covers outlines our learning curve with the NZ OER project.</para>
+        <para id="id9097805"><link url="http://oer.repository.ac.nz/mod/resource/view.php?inpopup=true&amp;id=1863" window="new">http://oer.repository.ac.nz/mod/resource/view.php?inpopup=true&amp;id=1863</link>
+        </para>
+        <para id="id9097821">cheers, Richard</para>
+        <para id="id9097831">P.S A wild goat stew with stout ;-). It’s wintry here, All Blacks start their season this Saturday.</para>
+      </section>
+      <section id="id9097842">
+        <title>23. Wayne Mackintosh - June 4th, 2008 at 5:30 pm </title>
+        <para id="id9097856">Hi Richard,</para>
+        <para id="id9097863">Wintry in Wellington :-( — that said I wouldn’t mind if the Summer got started here in Vancouver. Raining again today. I won’t go into the Rugby. For the benefit of friends on the list — Richard and I are old buddies and its a bit of a tradition for us to compare notes with a tad of passion.</para>
+        <para id="id9097880">Linking back to Derek’s point about velocity and impediments — I firmly believe that closed file formats are an impediment to the work of the freedom culture and while there may be shades of openness — I don’t think there are shades of freedom when speaking about free cultural works. I think the adage that all OERs may be open in terms of access — they are certainly not all free!</para>
+        <para id="id9080773">WikiEducator and the Wikimedia Foundation projects (Wikipedia, Wikibooks, Wikiversity, Wikinews etc.) all subscribe to the free cultural works definition. (<link url="http://www.freedomdefined.org/" window="new">http://www.freedomdefined.org</link>) and there is a requirement to use free file formats and to make the source available.</para>
+        <para id="id9080792">I miss our interactions.</para>
+        <para id="id9080799">Cheers, Wayne</para>
+        <para id="id9080806">PS — Have you migrated to a Free Software OS yet? In other words are you walking the talk?</para>
+        
+      </section>
+      <section id="id9080826">
+        <title>24. richardwyles - June 4th, 2008 at 5:43 pm </title>
+        <para id="id9080839">Lol - ouch! Yes, I still have Windows on my laptop…&amp; justify it by having to test different FOSS in a MS environment, maybe a pathetic excuse but the Catalyst folk tend not to test stuff in IE etc. Vista is so cool….not!</para>
+      </section>
+      <section id="id9080857">
+        <title>25. Patrick Masson - June 4th, 2008 at 8:23 pm </title>
+        <para id="id9080870">All Blacks - I have no idea. But it’s first intermission in the Stanley Cup FInals so I’ve had a chance to catch up on the discussions. To address Derek’s question:</para>
+        <para id="id9080883">
+          <quote id="id9080883_quote" display="block">“I am just wondering if there are any readers who think the notion of Education 3.0 is radically wrong or bad, and if the idea of self-learning using Free and Open Resources is something that we should reject? Will it happen? Who thinks about autogogy?”</quote>
+        </para>
+        <para id="id9080895">I think it’s already happening, especially in technology. Many contributors to open source projects are self taught programmers who found a tool that satisfied a need, then began development for personal use. As a manager within several IT departments, I have valued practical experience over formal credentials in my hires. The various projects a person has worked with and tools like Brainbench have helped me to identify some of the most skilled and “educated” developers. I’ve met several folks with their MCSE/MCSA or a degree in CS that can’t contribute.</para>
+      </section>
+      <section id="id9080914">
+        <title>26. Derek Keats - June 5th, 2008 at 12:33 pm </title>
+        <para id="id9080928">Just to take some thing Richard said and mention it slightly out of context</para>
+        <para id="id9080937">
+          <quote id="id9080937_quote" display="block">archived materials subsequently made “open” for example. These can be very difficult to reduce, edit etc.</quote>
+        </para>
+        <para id="id9080948">A rich source of learning materials can be found in PowerPoint and OpenOffice presentations, but probably Powerpoint mainly given the prevalence of its use. In addition, these common tools lend themselves to making simple tutorials.</para>
+        <para id="id9080959">We have been working on a project with San Jose State University, the University of Puerto Rico and Unicamp (Brazil) to make an online presentation re-use system. You can play with it at <link url="http://chameleon.uwc.ac.za/" window="new">http://chameleon.uwc.ac.za</link>. Right now you can upload a presentation, have it converted to the alternative format, a sequence of images with an auto play facility, Flash for inserting as a tutorial, and pick up a presentation and give it live with live voice and collaboration tools (the latter still experimental). We are working on making the assets within the presentation reusable, as well as building tools to extract semantic information from the slides. The last piece is a presentation mashup utility that is still under development and not yet available on the site.</para>
+        <para id="id9080988">You can tag, and blog the presentations as well. There are plugins for KEWL3 (and other Chisimba applications) as well as one available for Moodle that you can download from my site at <link url="http://www.dkeats.com/index.php?module=blog&amp;action=viewsingle&amp;postid=gen13Srv30Nme10_1445_1212344985&amp;userid=1563080430" window="new">http://www.dkeats.com/index.php?module=blog&amp;action=viewsingle&amp;postid=gen13Srv30Nme10_1445_1212344985&amp;userid=1563080430</link></para>
+        <para id="id9080999">(sorry for the long URL, I need to turn on short URLs but keep forgetting).</para>
+        <para id="id9081020">We are experimenting with this because it makes commonly available tools suitable for preparing reusable content, and it makes no difference if you use proprietary or FOSS tools, the results are still available.</para>
+        <para id="id9081031">We have only scratched the surface of these opportunities. I can imagine doing something similar for other types of media as well. Could thinks like that help to make otherwise not-reusable content into reusable forms? BTW, we could do the same thing for PDFs given a month or so to work on it. Would that be useful? Is this a useful approach to generating Free Content? Or are the media types changing too fast for this to be useful? Thoughts?</para>
+      </section>
+      <section id="id9081047">
+        <title>27. Derek Keats - June 5th, 2008 at 12:35 pm </title>
+        <para id="id9081061">P.S. It does not work for PPT 2007 just yet.</para>
+      </section>
+      <section id="id9081070">
+        <title>28. Derek Keats - June 5th, 2008 at 12:43 pm </title>
+        <para id="id9081084">I like the analogy of self-learning that Patrick made to self-taught programmers.</para>
+        <para id="id9081092">
+          <quote id="id9081092_quote" display="block">I think it’s already happening, especially in technology. Many contributors to open source projects are self taught programmers who found a tool that satisfied a need, then began development for personal use. </quote>
+        </para>
+        <para id="id9081107">This is certainly true of most of the people who contribute to our software projects. I guess I can use myself as an example: I have never taken a course on anything to do with technology, but am the CIO of a university. But we have not gone for accreditation of our learning. On the other hand, the community in which we operate recognizes that we have learned something (otherwise I would not be here writing this). So perhaps a part of Education 3.0 is not accreditation per se, but “demonstrated community recognition of learning achieved” or something of that nature. Thus, passionate learner + F/OER + community = Accreditation 3.0.</para>
+      </section>
+      <section id="id9081137">
+        <title>29. Wayne Mackintosh - June 5th, 2008 at 1:58 pm </title>
+        <para id="id9081151">Derek —</para>
+        <para id="id9081158">Chameleon is VERY cool — one of the few web conferencing services that is working out the box on my Ubuntu. Kudos to the Chameleon team.</para>
+        <para id="id9081170">I have a couple of technical questions and ideas for collaboration — but will take these off line so as not to clutter the list with geek speak.</para>
+        <para id="id9081182">This is the first service in the FLOSS arena that will rival slideshare. Amazing stuff.</para>
+        <para id="id9081191">Wayne</para>
+      </section>
+      <section id="id9081200">
+        <title>30. richardwyles - June 5th, 2008 at 4:22 pm </title>
+        <para id="id9081213">Derek,</para>
+        <para id="id9081220">Yes, Chameleon is very cool - provides Moodle with Slideshare which is something many of our clients want. Wrt “passionate learner + F/OER + community = Accreditation 3.0″ I very much agree but also see a place for some form of recognisable framework for it. I have a project soon to start on this that you and Patrick amd others might be interested in. There’s a snippet at <link url="https://eduforge.org/projects/osll/%20" window="new">https://eduforge.org/projects/osll/ </link>- more to come, entirely virtual so global by nature.</para>
+        <para id="id9081248">cheers, Richard</para>
+      </section>
+      <section id="id9081257">
+        <title>31. Leigh Blackall - June 5th, 2008 at 5:27 pm </title>
+        <para id="id9081270">Hi Derek,</para>
+        <para id="id9081277">I am very interested in the possibilities of people using OER (Freely) for direction and guidance in their pursuits of learning, AND in educational institutions positioning some of their resources and services to enhance and recognise this avenue for learning. Perhaps Otago Poly and West Cape could/should be collaborating more! We have a very effective and progressive Assessment of Learning Centre, who may soon be in a position to offer efficient assessment services like this.. And I am keen to find ways to share teaching and assessment internationally.. perhaps our teacher training and educational development work? <link url="http://wikieducator.org/Otago_Polytechnic" window="new">http://wikieducator.org/Otago_Polytechnic</link></para>
+        <para id="id9081301">I have referenced your paper on Edu3.0 in my own writings, and it gained traction here in our institution for a while. But I think we should be careful in the use of catchy titles like Edu3.0, because it tends to put up barriers with some camps, and some educational veterans who may in fact be sympathetic to the principles and methods, but as yet have no sympathy or critical awareness for computer mediated learning lingo.</para>
+        <para id="id9081318">So I think we should be disciplined in our efforts to use words that have utility beyond catchiness, but not so much as to get bogged down in semantics. The words we use should be backward compatible, and as forward compatible as we can be. Web2 and Edu3 are neither backward compatible, or forward usable. I think there will soon be a time when we who have used terms like Web2 and Edu3 will cringe with embarrassment. (I do already).</para>
+        <para id="id9081332">To replace Web2, I am starting to use Socially Constructed Media and Communications. Too wordy I know, but it is an attempt to be backward compatible with social constructivsts, and future usable with the media and communications sector generally.</para>
+        <para id="id9081344">For Edu3, perhaps it is Free and Open Education Reform.. but I’m sure we can do better. Certainly better than Edu3</para>
+      </section>
+      <section id="id9081356">
+        <title>32. christine geith - June 5th, 2008 at 10:38 pm </title>
+        <para id="id9081369">Leigh - I like your term “socially constructed media and communications” - and I’d like to think we could use a term like “Free and Open Education Reform” and that it would actually be helpful. Some are uncomfortable enough with the words “Free and Open” anything. But hey, let’s try it.</para>
+        <para id="id9081387">I want to circle back just a moment to the accreditation term. We need more refined terms here as well. Sounds like we all agree that accreditation of learning is the important thing. Yet, even that has many different methods and varieties - a brief concept paper I pulled together for the OER conference in China (and that Phillip from Derek’s institution kindly presented) shows some of the methods by which learning can be accredited <link url="http://docs.google.com/Doc?id=df9f5w7f_6hs7fg8cj" window="new">http://docs.google.com/Doc?id=df9f5w7f_6hs7fg8cj</link></para>
+        <para id="id9081417">One of the important pathways to figure out and scale up is what Derek called Accreditation 3.0:</para>
+        <para id="id9081426">passionate learner + F/OER + community = Accreditation 3.0.</para>
+        <para id="id9081434">This catchy term for it could be useful! I’m glad to hear that Otago is also doing some work in this direction.</para>
+        <para id="id9081445">As for the barrier-laden concept of “accrediting” or getting “stamps of approval” for content - what I had in mind was what the Rice Connexions project does with scholarly communities: they select and review resources that have already been shared - a value-added “lense” into the content from their perspective. <link url="http://cnx.org/news/LensesIntroduced" window="new">http://cnx.org/news/LensesIntroduced</link></para>
+        <para id="id9081469">Cheers, Chris</para>
+      </section>
+      <section id="id9081479">
+        <title>33. Leigh Blackall - June 5th, 2008 at 11:12 pm </title>
+        <para id="id9081492">Hi Christine,</para>
+        <para id="id9081499">A question that comes to mind when reading your paper.. why do we need open courseware even!? or OER for that matter? The practical truth is that people are learning via the internet regardless of its copyrights, that information online has always wanted to be free, that Youtube et al are just flat out ignoring copyright and that the horse has clearly bolted and information IS free. Of course, the educational institutions have been very slow to catch on to the business models, and so continue to lock up their research outputs and educational materials. Slowly they might be realising the losses they are taking by retaining those practices, and OER, OCW provides the escape routes for them.</para>
+        <para id="id9081518">But my main point is that increasingly we don’t need the institutions and their content. Either someone has already copied it and put it out there, or someone else has produced an alternative. Even better is those alternatives are like Wikipedia and so not only show the institutions that their content is redundant, but that Wikipedia is so successful it will give for free back into the Institutions that for some reason can’t open up. So, content is dead.</para>
+        <para id="id9081537">But the assessment of learning, the accreditation, and the learning support services remain valuable. Increasingly so if we are talking about recognition for largely self paced, self directed even! learning through the Internet.</para>
+        <para id="id9081548">So the production of content is not as important as the development of efficient pathways through content (media and communications), and for a body to be ready to assess people who have been through those pathways or tracks like it.</para>
+        <para id="id9081559">For example: I am a teacher and I teach about Socially Constructed Media and Communications. I start the Wikipedia and Wikiversity/WIkieducator pages. I watch the Wikipedia page to see where it develops and extract links and networks from that. At the same time I am watching RSS feeds and tagging media and communication channels relevant to my topic. I use the Wikiversity or Wikieducator pages to build a pathway for people new to the field. Some people no lots already, others no little. They use my pathway planted out with media, activities and exercises in ways that suite them. I indesign activities that will ask people to produce something that can be used for evidence, and I say to people when you think you have a grasp on all this and have made it through my pathway, I - more than anyone, am in a position where I can assess your learning, offer you feedback, and possibly present you with a certificate/qualification that can be used in the following ways…</para>
+        <para id="id9081599">To me, the most important thing in that model is my currency in ALL the media and communication channels in my field, my ability to filter it all and express an effective pathway for people, and have my assessment methods as non obtrusive and partnered up with worthwhile credentials as possible…</para>
+      </section>
+      <section id="id9081615">
+        <title>34. Derek Keats - June 6th, 2008 at 7:28 am </title>
+        <para id="id9081630">Thanks Wayne and Richard, but I was thinking of a little more than slideshare, rather about being able to take content and make it remixable. I think that there is a lot of opportunity to automate the repurposing of various kinds of content, even when it is in ‘compiled’ format, perhaps more so than with software because content is perhaps easier to decompose.</para>
+        <para id="id9081649">regards, derek</para>
+      </section>
+      <section id="id9081658">
+        <title>35. Derek Keats - June 6th, 2008 at 7:39 am </title>
+        <para id="id9081671">Leigh in response to</para>
+        <para id="id9081678">
+          <quote id="id9081678_quote" display="block">A question that comes to mind when reading your paper.. why do we need open courseware even!? or OER for that matter? The practical truth is that people are learning via the internet regardless of its copyrights </quote>
+        </para>
+        <para id="id9081689">I would say that there are four reasons, probably a lot more:</para>
+        <list id="id9081698" list-type="enumerated" number-style="arabic">
+          <item>Collaborative production is a valuable learning opportunity, and it is a powerful confidence booster to see what you have written or created used by someone else. Thus F/OER of the kind that interests me most are the ones used by students to remix and create something new.</item>
+          <item>Velocity. When the license does not permit remixing, it is a source of energy dissipation. However, when I see something good that I can simply reuse, I can move so much faster to produce what I wanted to do. For example, I am doing a chapter for the KEWL book on blogging and podcasting. There is a lot of stuff on both topics that I can use under BY-SA so I don’t have to rewrite everything from ‘pseudoscratch’ .</item>
+          <item>When institutions collaborate to produce content, it enables them to enter into a form of co-opetition that is widely recognized as being beneficial event in the cuthroat world of business.</item>
+          <item>When there are no legal impediments to sharing, then novel uses are easier to achieve. For example, my animated tutorial could be captured and printed with text from wikipedia to make a tutorial on Wujibas that is printed and handed out to kids in schools throughout the Republic of Povertaria. My manuscript on the biology of left-handed fleas can be turned into an educational documentary for use in the department of fleaology in another institution.</item>
+        </list>
+        <para id="id9081751">Those are the practical reasons. Then there are the moral reasons, but let me stop on the practical for a change.</para>
+        <para id="id9081760">But if we only see F/OER as a means to create consumers, then sure, we don’t need them. I would argue we probably don’t need anything ,because if all we do is consume, then education is dead anyway.</para>
+        <para id="id9081777">d</para>
+      </section>
+      <section id="id9081785">
+        <title>36. christine geith S- June 6th, 2008 at 9:04 am </title>
+        <para id="id9081798">Leigh - my impression, in the U.S. anyway, is that institutions aren’t quite there yet when it comes to acting as if content is pre-competitive space. I believe part of it is lack of experience unbundling content, teacher support, social support and assessment of learning outcomes. There are only a handful of institutions in the U.S. built on the bedrock of earning academic credit based primarily on assessment. But, I do agree with you that when distance died, 20 years ago, so did content - now free/open nails it - and more importantly, gives us the creative tools to learn through more authentic means.</para>
+        <para id="id9081818">It may be more useful to think of all of this from the learner’s perspective as Derek and others have noted in this thread.</para>
+        <para id="id9081830">Your teacher scenario is terrific (and if it’s OK with you, I’ll use it at NUTN) what about a learner interested in socially constructed media and communication?</para>
+        <para id="id9081842">- Chris</para>
+      </section>
+      <section id="id9081851">
+        <title>37. Leigh Blackall - June 6th, 2008 at 7:12 pm </title>
+        <para id="id9081864">Hmm, logical argument. But - suppose for a moment that there is no difference between teachers and learners. As Derek point out, there is valuable learning opportunity in the process of co creation.. otherwise known as constructionism. So my question should have been:</para>
+        <para id="id9081876">
+          <quote id="id9081876_quote" display="block">A question that comes to mind when reading your paper.. why do we need open courseware even!? or OER for that matter? The practical truth is that people are cocreating/remixing/collaborating/communicating/learning via the internet regardless of its copyrights</quote>
+        </para>
+        <para id="id9081887">But this is a useless point of view in the context of business and institution where we have to be mindful of the economic and legal implications of such exchange. So, Derek’s other points make sense for that context.</para>
+        <para id="id9081902">The thing that concerns me however, is that while we focus on cocreating/remixing/collaborating/communicating/learning in the OER/institutional/professional sense, that we may be unwittingly disengaging ourselves from what goes on outside of that context. We have to admit that FLOSS and similar inspired movements has its fare share of zealots and purists who will not accept engagement with anything but a free and open economy, and I think we should be always discussing that aspect of what we do.</para>
+        <para id="id9081920">I am noticing it already.. there is a type of educational developer out there that engages with just about anything.. Youtube, Slideshare, Wikipedia, Windows, Mac, Linux, Blip, Archive, GoogleGroups.. and there are educational developers that only engage in Linux, WikimediaFoundation, OER, Free cultural works. I was the anything goes developer, but since hanging out with more extreme freedom fighters I feel that I have disengaged from the other and become consumed by the pure definition and appropriate practices. In so doing, I might be alienating myself from everyday people around me.. its a balancing act is what I’m trying to say…</para>
+      </section>
+      <section id="id9081928">
+        <title>38. Derek Keats - June 7th, 2008 at 4:48 am </title>
+        <para id="id9100991">Hi folks, apologies for not having made much of a contribution yesterday. I came down with a flu or something, and as I have a 29 hour journey ahead of me today, I spent much of it trying to rest and recuperate. Now I have to head off to the airport in a few minutes, and will check back in sometime on Sunday from Michigan.</para>
+        <para id="id9101004">But I wanted to pick up on the notion that Leigh raised about there being people who refuse to use any content that is not totally copyleft.</para>
+        <para id="id9101014">
+          <quote id="id9101014_quote" display="block">We have to admit that FLOSS and similar inspired movements has its fare share of zealots and purists who will not accept engagement with anything but a free and open economy</quote>
+        </para>
+        <para id="id9101024">While this is perhaps a common perception, I am not sure it is true or even could be true if people live on the same planet that I do. To live to those standards with respect to software, you would have to:</para>
+        <list id="id9101035" list-type="enumerated" number-style="arabic">
+          <item>Not purchase any goods from a store unless you moved to Extramadura in Spain;</item>
+          <item>Never use a bank;</item>
+          <item>Not use a car or travel in a car;</item>
+          <item>Not use a cellular phone (thought that is perhaps partly changing);</item>
+          <item>Not listen to music in CD, DVD or MP3 format</item>
+          <item>Not use electricity</item>
+        </list>
+        <para id="id9101073">etc. etc.</para>
+        <para id="id9101080">But even the most zealous admit that there are times when you need to use a computer or CPU powered device where there is no Free Software then you can do so.</para>
+        <para id="id9101090">To be a copyleft zealot in the content arena, and to interact only with Free Content, you would have to:</para>
+        <list id="id9101099" list-type="enumerated" number-style="arabic">
+          <item>Never read a magazine, newspaper or book</item>
+          <item>Avoid looking at billboards by the roadside</item>
+          <item>Not watch television or listen to radio</item>
+          <item>Never look at a painting or any other work of art</item>
+        </list>
+        <para id="id9101125">Clearly, there is room in the world for copyright and protected works. But the issue is not use, but REUSE. The fully copyrighted works are not reusable. You have to consume them as they are, whole, and while you may display them via embed tags on other sites, that does not make you a content developer any more than selling televisions makes you a TV producer.</para>
+        <para id="id9101138">So, to be effective as tools in a constructivist learning approach, the content has to permit REUSE, that is it should be decomposable, remixable, and distributable usable without the need to load the original source. It is this reusability that gives F/OER the edge.</para>
+        <para id="id9101150">Regards, derek</para>
+      </section>
+      <section id="id9101158">
+        <title>39. klynip - June 8th, 2008 at 11:35 am </title>
+        <para id="id9101170">While I don’t think I have anything to add at this point, I do want to express my appreciation for it. It is helping to inform a current dialog at The University of Montana.</para>
+        <para id="id9101184">Ken: Glad to see Derek as a guest columnist here. Makes perfect sense. I read one of Derek’s white papers about two years ago and have found occasion to reference the points therein on a number of occasions.</para>
+      </section>
+      <section id="id9101199">
+        <title>40. Patrick Masson - June 8th, 2008 at 1:14 pm </title>
+        <para id="id9101212">Just wanted to add a practical example:</para>
+        <para id="id9101220">Amal Rowezak of Alfred State uses open source communities, rather than text books, for her computer science courses. Rather than requiring a text, the students must participate in a open project. I will try and point her here for more information.</para>
+      </section>
+      <section id="id9101232">
+        <title>41. Derek Keats - June 8th, 2008 at 6:40 pm </title>
+        <para id="id9101245">Patrick, it would be good to have the URL for Amal’s work. I am really keen to find good examples of reusability at the student level, since most of what is done in the F/OER space today still focuses on the professors. This from a bleary eyed scrag in Ann Arbor after 29 hours of travel.</para>
+      </section>
+      <section id="id9101264">
+        <title>42. Ken Udas - June 11th, 2008 at 6:02 am </title>
+        <para id="id9101277">Hello,</para>
+        <para id="id9101284">I just wanted to mention that Christine Geith and I facilitated a session at the NUTN (National University Telecommunications Network) annual meeting yesterday (Tuesday). We used a WikiEducator as our presentation medium and workspace, which is open for modification and development. During the past week Christine and I modified our presentation significantly to include information included this blog post and expand on it, so it refers significantly to the Education 3.0 model to illustrate the role of OER and the Freedom culture in the changing nature of education.</para>
+        <para id="id9101301">Feel free to check out the OER and Open Education at NUTN 2008 resource page in WikiEducator, modify it, add resources, etc. Christine and I would like your thoughts on the materials we used and suggestions for improvement.</para>
+        <para id="id9101312">We invited the folks who attended the session to access the wiki and modify the content, build on it, etc. We rendered the Education 3.0 table “Educational generations in higher education” from the <link url="http://www.firstmonday.org/issues/issue12_3/keats/index.html">The genesis and emergence of Education 3.0 in higher education and its potential for Africa</link> article in the wiki and invited folks to go in, add new characteristics (rows), and new descriptions of Education 1.0, 2.0, and 3.0. We also invited folks to join us in this blog and participate in dialog. So, if you have joined us from the NUTN meeting, Welcome and please feel free to post questions, make comments, etc. here too.</para>
+        <para id="id9101342">Cheers, Ken</para>
+      </section>
+      <section id="id9101350">
+        <title>43. Derek Keats - June 22nd, 2008 at 2:39 pm </title>
+        <para id="id9101365">Sorry Ken, I did not see this post of yours as an email (maybe too much spam in my mailbox), so I assumed all was quiet. I guess we will all kind of continue this stuff in our own spaces. I will keep an eye on the WikiEducator. Does it allow HTML code snippets? I have been talkjng to Wayne about a way to include the presentations from <link url="http://chameleon.uwc.ac.za/" window="new">http://chameleon.uwc.ac.za</link> as resources in WikiEducator.</para>
+        <para id="id9101385">I will continue talking about Education 3.0 on my blog at <link url="http://www.dkeats.com/" window="new">http://www.dkeats.com</link>. I just posted some old tutorials on licenses. I am currently working on a little animation of how and why I went to University in 1972, two weeks after turning 17, as an illustration of Education 1.0. I will of course be available under BY-SA license as everything is in support of Free use of educational resources. I am also working on another paper on F/OER (Free / Open Eduacational Resources) that will be available in draft in about a week or so.</para>
+        <para id="id9101409">I thank everyone, lurkers and posters, for your contribution. Feel free to pop by my <link url="http://www.dkeats.com/" window="new">http://www.dkeats.com</link> site sometime an leave a note. I will keep this site on my blogroll.</para>
+        <para id="id9101428">All the best,</para>
+        <para id="id9101436">Derek</para>
+      </section>
+      <section id="id9101444">
+        <title>44. jakeruston - July 27th, 2008 at 6:17 am </title>
+        <para id="id9101457">While I don’t think I have anything to add at this point, I do want to express my appreciation for it. It is helping to inform a current dialog at The University of Montana.</para>
+        <para id="id9101471">Ken: Glad to see Derek as a guest columnist here. Makes perfect sense. I read one of Derek’s white papers about two years ago and have found occassion to reference the points therein on a number of occasions.</para>
+        <para id="id9101485">Thanks,</para>
+        <para id="id9101492">Jake Ruston,</para>
+        <para id="id9101499"><link url="http://www.milofi.com/" window="new">http://www.milofi.com</link> and <link url="http://www.findacourse.ie/" window="new">http://www.findacourse.ie</link></para>
+      </section>
+      <section id="id9101522">
+        <title>45. Paul - September 25th, 2008 at 4:23 am </title>
+        <para id="id9101534">Its evolution, a remarkable one if i may say the least. Internet and education, its a remarkable bond whose significance can be realized when we talk about having no resources but the internet and being able to have access to information of many libraries. Well that is just the simplest analogy that can be shown. Apparently with the online degree awarding bodies emerging on the internet not just the conventional art gained promotion but the unconventional ones were promoted like e.g.</para>
+        <para id="id9101550"><link url="http://www.schoolsgalore.com/categories/1/massage_therapy_schools.html" window="new">http://www.schoolsgalore.com/categories/1/massage_therapy_schools.html</link>
+        </para>
+        <para id="id9101565">although to a rapidly developing time un-conventionalism might not have boundaries yet it is the evolution of the man kind altogether that has brought up the science out of the art.</para>
+      </section>
+    </section>
+  </content>
+</document>

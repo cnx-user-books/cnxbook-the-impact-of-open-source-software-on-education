@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>James Dalziel - Summary - Learning Design and Open Source Teaching</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>07ad5f89-3f27-4255-aa70-2c935622a811</md:uuid>
+</metadata>
+  <content>
+    <section id="id-811783410829">
+      <title>Summary - Learning Design and Open Source Teaching</title>
+      <para id="id4594900">“Learning Design and Open Source Teaching,” the sixth installment of the Impact of Open Source Software Series, was posted on May 16, 2007, by James Dalziel, Director of the <link url="http://www.melcoe.mq.edu.au/">Macquarie E-Learning Centre Of Excellence</link> (MELCOE) and prime mover behind <link url="http://www.lamsfoundation.org/">LAMS</link>. Thanks James!</para>
+      <para id="id2887351">James’ posting was organized into two related sections. The first provided some definition for Learning Design as treated in his posting, and the second pointed to the potential of “Open Source Teaching.” James’ treatment of Learning Design suggests that Learning Design seeks to describe learning processes along with content, which takes the form of sequences of activities. Although the activities could be of a mixed online and offline nature, much dialog around Learning Design is focused on the technology to automatically run activity sequences. James then points to the potential benefits of Learning Design in terms of collaborative and social learning and activity sequence sharing, which leads into the second section on Open Source Teaching.</para>
+      <para id="id4514848">James starts the second section of his posting with,</para>
+      <para id="id3643805">
+        <cite><cite-title>If Learning Designs capture the heart of the education process, then could we, by analogy, call them the “source code” of teaching? And if teachers then share their Learning Designs with each other under open content licenses, then does this represent the birth of open source teaching?</cite-title></cite>
+      </para>
+      <para id="id2897290">He then makes a reference to an article that fleshes out the concept, and quickly dives into the important topic of licensing, particularly around the Non-Commercial (NC) restriction, which had been treated in some previous postings in “FLOSS, OER, Equality and Digital Inclusion” and “WikiEducator: Memoirs, myths, misrepresentations and the magic.”</para>
+    </section>
+    <section id="id-687744748016">
+      <title>Comments</title>
+      <para id="id4518000">The comments for this posting were extensive and centered on the themes of a) licensing and sharing Learning Designs and b) the nature of Learning Design and the relatively slow uptake of Learning Design in the United States. The comments, questions, and responses in the posting where quite detailed and deserve to be read in their original form. The sub-texts within the comments included:</para>
+      <list list-type="bulleted" id="id3144099">
+        <item>Concerns about the appropriation and commercialization of Learning Designs, which was discussed in terms of protections offered through the creative comments licensing agreements.</item>
+        <item>Questions about the most effective ways of licensing that will best serve the public good promise of OSS, OER and “Open Source Teaching,” which was discussed in terms of the trade-off between the NC restriction and the willingness among academics to contribute open resources.</item>
+        <item>Assertions and considerations about the impact that the NC restriction has on the freedom culture.</item>
+        <item>Questions about the uptake of Learning Design in the United States, which resulted in the refinement of what James refers to as Learning Design, and some thoughts about why Learning Design might be less enthusiastically embraced in the United States than elsewhere.</item>
+        <item>Questions about collaborative authoring of Learning Designs and the potential to realize some of the benefits of Commons-Based Peer Production (CBPP).</item>
+      </list>
+      <para id="id4538625">Thanks again to James, Simon, Wayne, and all of the other folks who have been reading along. Our next posting will be by Dr. Farideh Mashayekh (Bazargan), who serves as a Strategic Consultant in Educational Planning &amp; Pedagogy with <link url="http://www.pedagogy.ir/">Pedagogy.ir</link></para>
+    </section>
+  </content>
+</document>

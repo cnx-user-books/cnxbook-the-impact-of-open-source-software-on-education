@@ -1,0 +1,467 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>WikiEducator: Memoirs, Myths, Misrepresentations and the Magic</title>
+  <metadata>
+  <md:content-id>m14687</md:content-id><md:title>WikiEducator: Memoirs, Myths, Misrepresentations and the Magic</md:title>
+  <md:abstract>Wayne MacKintosh's contribution to the OSS and OER in Education Series. In this post, he will be writing about his experience with WikiEducator, the freedom culture, and education.</md:abstract>
+  <md:uuid>13fd2157-9751-43f3-9c52-c2b71ea70c62</md:uuid>
+</metadata>
+
+<content>
+    <para id="id44371226"><note id="eip-id20453350" type="Author Information">Wayne Mackintosh, WikiEducator: Memoirs, Myths, Misrepresentations and the Magic. Originally submitted April 4th, 2007 to the OSS and OER in Education Series, Terra Incognita blog (Penn State World Campus), edited by Ken Udas.</note></para>
+    <para id="id44371234">We’re living in exciting times! The <link url="http://en.wikipedia.org/wiki/Free_Culture_movement">free culture</link>, <link url="http://en.wikipedia.org/wiki/Mass_collaboration">mass collaboration</link>, and <link url="http://en.wikipedia.org/wiki/Self_organisation">self organisation</link> are transforming traditional models of society and the economy in fundamental ways. I don’t pretend to have the answers, but I’m confident that the convergence among these forces combined with the shifts from organisational hierarchy to the individual will help us find the answers together. Finding the answers, holds huge promise for radically advancing access to education and knowledge. I use <link url="http://dictionary.reference.com/browse/radical">radical</link> in the original sense of the word referring to the radix or root of fundamental change as opposed to revolutionary change.</para>
+    <para id="id44055852">This is a post about freedom and how it can support education as a common good. If you suffer from hypertension best to read this post under parental guidance. Now that I’ve cleared the health warnings, I want to move onto the more important stuff.</para>
+    <para id="id44055865">
+      <quote id="id10454426" display="block">‘’In education, if you give knowledge away freely - you will still have it for yourself to use.'’</quote>
+    </para>
+    <para id="id44055872">This is why <link url="http://www.col.org/colweb/site/pid/4042">Sir John Daniel</link> of the Commonwealth of Learning (<link url="http://www.col.org/">COL</link>) argues that education will not suffer the tragedy of the commons.</para>
+    <section id="id-151022950547">
+      <title>An overview</title>
+      <para id="id44386183">WikiEducator is working with others in the freedom culture to develop a free version of the entire education curriculum by 2015. It’s an ambitious target riddled with complexity, but the importance of our work is underscored by our vision to turn the digital divide into digital dividends using free content and open networks.</para>
+      <para id="id44386199">I want to set the context with a short history of WikiEducator and its growth over the last year. With particular reference to <link url="http://freedomdefined.org/Definition">free cultural works</link>, I will reflect on two academic myths associated with our industrial models of education, clear up a few misrepresentations where things I have said are sometimes used out of context, but more importantly try to capture some of the magic I have experienced being part of the WikiEducator free content community. This is the magic that will turn the divide into dividends — magic which is produced through self organisation and mass collaboration.</para>
+    </section>
+    <section id="id-800737758556">
+      <title>Rationale for the post</title>
+      <para id="id43531041">Ken’s invitation to post a contribution for the OSS series covering the impact of free software in education couldn’t have come at a better time. We’re preparing to celebrate the first birthday of <link url="http://www.wikieducator.org/Main_Page">WikiEducator</link>. This OSS series is an appropriate forum to reflect on Wikieducator’s beginnings because we:</para>
+      <list id="id43531063" list-type="bulleted">
+        <item>use free software (in particular, <link url="http://www.mediawiki.org/wiki/MediaWiki">Mediawiki</link>, the same engine used for <link url="http://en.wikipedia.org/wiki/Main_Page">Wikipedia’s</link> online encyclopedia);</item>
+        <item>promote and advocate the use of free software in education; and</item>
+        <item>our meaning of free content is derived from the experiences of the free software movement.</item>
+      </list>
+      <para id="id44067422">This post will reflect on some of my personal experiences in founding the site and its potential contribution to widening access to education in meaningful ways. If anything, I hope this reflection encourages constructive debate in building the value proposition for why we need to support free content production in preservation of the educational values that should underpin our knowledge practice.</para>
+    </section>
+    <section id="id-319442761756">
+      <title>Memoirs: The origins of WikiEducator</title>
+      <para id="id43325304">A good place to start is with the original reasons for establishing WikiEducator. I set up the wiki primarily to support the collaborative authoring requirements for free content in support of <link url="http://www.col.org/">COL’s</link> facilitation role in guiding the development of the Virtual University for Small States of the Commonwealth (<link url="http://www.col.org/colweb/site/pid/4256">VUSSC</link>). VUSSC is a project involving 27 small states, working together as a network, including the development of free content to support the educational needs in these countries. I always hoped that the WikiEducator would grow organically from this small nexus into something bigger. Reading the statistics, this is proving to be true.</para>
+      <para id="id43325335">I don’t see this early history to be compelling reading for our audience, so I have linked to this content. Nonetheless I have used Ken’s invitation to document the early beginnings of WikiEducator. I cover this under the following headings which you may want to read when you have more time on hand:</para>
+      <list id="id43325350" list-type="bulleted">
+        <item><emphasis>History is important</emphasis>: In order to dispel any new myths which may or may not arise from this post, I feel that I should document some of <link url="http://www.wikieducator.org/WikiEducator_Early_History#History_is_important">WikiEducator’s early history</link>…</item>
+        <item><emphasis>The first prototype</emphasis>: Getting back to the inception date of WikiEducator, in preparation for my move to COL in Vancouver, I set up a <link url="http://www.wikieducator.org/WikiEducator_Early_History#The_first_prototype">prototype installation of WikiEducator</link> on a desktop machine…</item>
+        <item><emphasis>Reflections on </emphasis><link url="http://www.wikieducator.org/WikiEducator_Early_History#Reflections_on_choosing_the_domain_name"><emphasis>choosing the domain name</emphasis></link>: I registered the WikiEducator domain name on 12 February 2006 in New Zealand, which was not put into production until April 2006 when we moved the prototype onto a hosted server… and</item>
+        <item><emphasis>Why not Wikiversity</emphasis>: I should point out that I seriously considered <link url="http://www.wikieducator.org/WikiEducator_Early_History#Why_not_Wikiversity.3F">joining forces with Wikiversity</link> in the early days before “going it alone”, so to speak…</item>
+      </list>
+      <para id="id43603095">History enthusiasts aside, it’s more important to look at the outputs after our first year and the numbers provide some indication of what our community has achieved.</para>
+    </section>
+    <section id="id-388562890312">
+      <title>Early signs of exponential growth?</title>
+      <para id="id43906524">Popularised by <link url="http://en.wikipedia.org/wiki/Lies,_damned_lies,_and_statistics">Mark Twain</link>, we know that there are three kinds of lies: “Lies, dammed lies, and statistics.”</para>
+      <para id="id43906548">On the verge of WikiEducator’s first birthday, we have logged about 2.3 million hits. This week we were ranked by Alexa as the 354,568 most visited website. This puts WikiEducator within the top 8% of websites on the planet. That’s not too bad for a small wiki working on the development of free content for education, especially when considering that there are approximately 48 million active websites in the world (according to <link url="http://www.pandia.com/sew/383-web-size.html">Netcraft’s</link> 2006 figures). The statistics for March 2006 show an average of 20,000 hits <emphasis>per day</emphasis> from approximately 900 unique visits. We are currently recording visits from 61% of the 193 countries in the world.</para>
+      <para id="id43459217">An interesting way to look at WikiEducator’s growth is to compare the number of days it has taken to reach cumulative totals in steps of a half-million hits. It took WikiEducator:</para>
+      <list id="id43459227" list-type="bulleted">
+        <item>157 days to reach its first half-million hits</item>
+        <item>02 days to reach the next half-million</item>
+        <item>41 days to reach the 1.5 million mark</item>
+        <item>21 days to reach the 2.0 million threshold <figure id="id43459255"><media id="id10347686" alt=""><image src="../../media/graphics1-0289.jpg" mime-type="image/jpeg" height="366" width="451"/></media></figure></item>
+      </list>
+    </section>
+    <section id="id-95417227575">
+      
+      <para id="id44386481">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id-0400389079708">
+      <title>An evolving vision</title>
+      <para id="id44386495">The historical interactions mentioned above have encouraged WikiEducator to think critically about its evolving vision. Particularly with regards to how it differentiates itself from similar projects. Given the magnitude of our collective task to develop a free curriculum by 2015, we cannot afford duplication of effort. Where things stand at the moment — taking into account that WikiEducator is a dynamic community — I think the project differentiates itself in the following ways:</para>
+      <list id="id44386516" list-type="bulleted">
+        <item>WikiEducator has a strong commitment to the developing world in making sure that all citizens can engage as equal participants in the development of free content. This commitment is endorsed by COL’s “Learning for Development” — the thrust of our current <link url="http://www.col.org/colweb/webdav/site/myjahiasite/shared/docs/3YP-06-09_web.pdf">strategic plan</link>.</item>
+        <item>WikiEducator has a commitment to build capacity in parallel with free content development, thus leveraging the advantages of a learn-by-doing approach. (See, for example WikiEducator’s <link url="http://www.wikieducator.org/Help:Contents">Newbie Tutorials</link>.)</item>
+        <item>WikiEducator has a forward looking disposition and encourages responsible experimentation with evolving technologies in our search for sustainable solutions for e-learning futures. (See, for example WikiEducator’s <link url="http://www.wikieducator.org/Tectonic_shift_think_tank">Tectonic Shift Think Tank</link>)</item>
+        <item>WikiEducator facilitates networking nodes of a range of projects in conjunction with our mission to develop free content for education. (See, for example <link url="http://www.wikieducator.org/FLOSS4Edu">FLOSS4Edu</link> and the Future of Learning in a Networked World <link url="http://www.wikieducator.org/FLNW2">FLNW2</link>.)</item>
+      </list>
+    </section>
+    <section id="id-66101562344">
+      <title>Myths</title>
+      <para id="id44358661">I use the notion of “myth” with caution. In fiction, there is no requirement to validate the truth. Similarly there is no impediment to basing a fictional work on fact. The myths I’m referring to are the traditional stories (sometimes ancient) of the academy which attempt to explain selected aspects about our educational realities. By interrogating these myths, hopefully we can establish plausible grounds for mainstreaming the free content movement in contributing to the sustainability and common good of education. Perhaps we should take the time to engineer new myths that will sustain and direct our educational futures. I encourage readers to help me in this creative story writing process.</para>
+      <section id="id-207322123195">
+        <title>The first myth: Universities have been around a long time - technology doesn’t restructure our pedagogy</title>
+        <para id="id44358675">Yes, universities have been around since medieval times and are one of a handful of organisations that survived the industrial revolution. Why should this be any different in the knowledge economy? The reality is that technology has succeeded in restructuring pedagogy and there is no reason why it can’t do so again. In deconstructing the myth I refer to one substantive example of technology precipitated change that has altered the pedagogy of the university in fundamental ways. I’m referring to the inception of the large-scale distance education universities. Two observations:</para>
+        <list id="id44358680" list-type="bulleted">
+          <item>Institutionalised forms of distance education did not exist prior to the onset of the industrial revolution.</item>
+          <item>The specific roles that the learning technologies assume in the teaching-learning situation can actually alter the pedagogical structure. For example: Media resources that are used as adjuncts in support of face-to-face pedagogy, (for example slide show presentations) do not alter the pedagogical structure of classroom teaching. However, asynchronous learning resources must actually carry or mediate all the functions of teaching including the presentation of content, forms of interaction (both simulated and real dialogue) and assessment. Incidentally, this is the reason why slide show presentations don’t migrate well into eLearning contexts.</item>
+        </list>
+      </section>
+      <section id="id-487646181521">
+        <title>The second myth: Publically funded education is economically sustainable as a common good</title>
+        <para id="id43909962">The massification of education as a publicly funded system has achieved considerable success in widening access, with impressive results evidenced by the exponential growth in the participation rates for higher education after the Second World War. However the long term sustainability of higher education is coming into question. The trouble with our traditional model is:</para>
+        <list id="id43909972" list-type="bulleted">
+          <item>The greater your success in widening education, the less sustainable it becomes over the long term, especially for cash-strapped governments in the developing world;</item>
+          <item>Education provision does not function as a perfect economy. If it did - why don’t we see a radical reduction in the cost of provision - given the global demand for education. Is this a supply problem? Does this suggest a return to elitism for survival?</item>
+        </list>
+        <para id="id43460375">I contend that the economic model for higher education is fundamentally broken. The increase in student fees in the United States over the past decade has been in excess of the national inflation index. How long will the system be able to sustain itself?</para>
+        <para id="id43460383">We are now twenty year’s away from Drucker’s predictions in that famous interview in Forbes magazine back in 1997 where he predicted that “Thirty years from now, the big university campuses will be relics. Universities won’t survive …” (March 10, 1997, pp.126-127). These predictions were made just before the the hype and subsequent bursting of the dot com bubble. Drucker’s predictions became the Trojan Horse for many commentators arguing for the transformation of the university to survive in the e-world. Less cited are the real reasons for Drucker’s concerns, namely:</para>
+        <para id="id43460399">
+          <quote id="id4066004" display="block">‘’Do you realize that the cost of higher education has risen as fast as the cost of health care? …Such totally uncontrollable expenditures, without any visible improvement in either the content or the quality of education, means that the system is rapidly becoming untenable. Higher education is in deep crisis…” (Drucker, Forbes Magazine, March 10, 1997, pp.126-127)</quote>
+        </para>
+        <para id="id43460416">The deconstruction of these myths set up the value proposition for free content. It is certainly plausible that we can reduce the design and development costs of asynchronous learning materials, while improving quality by an order of magnitude through mass collaboration adhering to the principles of self organisation. Moreover, we could see new (de)institutional arrangements emerging from the free cultural works movement that supplement or compete with the traditional educational models. This is possible because of deep seated changes we are seeing in the World Wide Web. In the “old days” the web was this amazing information resource where you would go out and find what you needed. Today, information finds you. The same information we may choose to co-create as individuals through the read-write web.</para>
+        <para id="id43460420">There is nothing new in these ideas - they are well documented in the literature. My concern is that the traditional academy does not have a good track record in educational innovation and is one of the reasons I have taken a short leave of absence from the academy. I want to see whether it’s possible to achieve sustainable innovation with free content from the “outside” - because it’s important for humanity. In justification of my assertion, I should point out that the big university icons that have pioneered the Open Education Resources (OERs) movement have adopted non-free content licenses. What’s the point of OERs that regulate the very freedom they are supposed to encourage? This is a contradiction in terms. It’s important that we get this right - our academic freedom depends on it.</para>
+        <para id="id43325405">Stated differently - Assuming the freedom culture achieves a free version of the education curriculum, what are the implications for your institution?</para>
+      </section>
+    </section>
+    <section id="id-902534158875">
+      <title>Misrepresentations</title>
+      <para id="id44357440">I do not use non-free software because I do not want to face the ethical dilemmas arising from the tensions between honesty and educational service when helping my neighbour. As an educator, I do not want to be tempted into the illegal reproduction of software or closed learning resources when helping a learner. As a teacher, I don’t want to be in a situation where I must refuse access to knowledge at the expense of helping someone to learn or for that matter earning a living. It’s a personal choice. Sometimes my choices are a catalyst for emotional debate among my peers. In these situations, I frequently make statements that challenge the hegemony of closed content and the traditional pedagogy we have grown accustomed to in education. On the rare occasion, what I say is used out of context fueling misrepresentations. I’d like to set the records straight. I’ll concentrate on two examples.</para>
+      <para id="id44357466">
+        <emphasis/>
+      </para>
+      <section id="id-890167432045">
+        <title>It’s far better to have a poor quality educational resource that is free, than a high quality resource that is non-free</title>
+        <para id="id44357484">Yes, you’ve guessed it — I have been accused of disregarding quality and its importance in education.</para>
+        <para id="id44357492">I usually make this statement challenging those OER projects that have adopted the Non-Commercial (NC) restriction in their choice of license. First of all, quality has nothing to do with the freedom of a resource. In my experience of education, quality is a function of the design and processes implemented during the development of those resources. Quality is not a function of the commercial restrictions placed on a resource. In fact, these commercial restrictions limit essential freedoms to widen access to education, not to mention the incompatibility with the growing number of resources available under free content licenses which you can legally mix and match. Free content must be available to sell because we should not deny any individual the freedom to earn a living. This is the cornerstone of a modern economy. Besides, competition encourages quality and I would argue that we should encourage commercial activity to promote the quality of free content.</para>
+        <para id="id43532492">However, my major concern is the waste of human effort in many OER projects which essentially render the products almost useless for the very people they are intended to serve. I’ve yet to find a set of lecture notes developed by another teacher that I can use without the need for adaptation for my local context or personal style of teaching. The problem is that adaptation requires effort and consequently incurs cost. It would be nice if I could find bits and pieces of free content that I could mix and match thus reducing my personal effort in the adaptation process - in other words creating a digital mash-up from free content for my learners. The problem with the NC restriction is that you cannot mix the NC materials with any of the “copyleft” content licenses because you are creating a derivative work. Effectively the NC restriction shuts off modifications and adaptations by leveraging on the availability of existing investments in free content.</para>
+        <para id="id44269949">One advantage of a poor quality in a free-content resource is that you have the freedom to improve it!</para>
+      </section>
+      <section id="id-817991665143">
+        <title>Monolithic learning management systems are a barrier to widening access to education through eLearning</title>
+        <para id="id44269965">I’ve become increasingly disillusioned with Learning Management Systems (LMSs) and I suspect that they’re constraining innovation in education. I am an eLearning practitioner and have previously been responsible for leading eLearning strategy in the university environment and have extensive experience with many LMSs - so I’m not an eLearning luddite with a nostalgic reluctance to adopt technology in education. On the contrary, I firmly support <link url="http://www.col.org/colweb/webdav/site/myjahiasite/shared/docs/PCF4_keynote_Outdoctrination.ppt">Sugata Mitra’s</link> advice that we must use the most advanced digital technologies for the most disadvantaged learners. I’m on the side of eLearning here.</para>
+        <para id="id43532521">My disillusionment with LMSs fuels speculation among my peers and colleagues. I see the looks of surprise when I chat with my colleagues suggesting that LMSs are the barrier to eLearning. Their unspoken diagnosis of a temporary bout of digital amnesia is tangible. I observe the disappointment most among my free software associates that have slaved for years in the implementation of free software LMS solutions. In my view, we made an error in judgment assuming that unrestricted access to the source code of free software LMSs would facilitate innovation in eLearning. Unfortunately we have reached the point where every eLearning problem is a nail - because the only tool we have on campus is a large LMS hammer.</para>
+        <para id="id43532525">I think we can learn a lot from the <link url="http://www.cetis.ac.uk/members/ple/">Personalised Learning Environment </link>cohort and the work on the <link url="http://www.e-framework.org/">eFramework</link> - essentially a description of a web services architecture for eLearning. However this work is essentially a framework specification not an implementation. Given our experiences on the <link url="http://exelearning.org/">eLearning XHTML</link> project, which has developed an authoring tool using internationally accepted specifications for interoperability, I’m not too optimistic that we will see an e-framework implementation as mainstream technology very soon. I have yet to see an elegant deployment of the LMS/SCORM specifications in any LMS (both proprietary and open source). When you view a SCORM import in all the LMSs I have tested - you feel that you are viewing alien content that is not part of the instructional strategy.</para>
+        <para id="id43459713">Why go through the pains of an SCORM export/import when you can simply upload and reference the relevant web content on a server using W3C protocols? (Even better, start using RSS/RDF content feeds.) The reason is that some local authority has taken responsibility to manage your freedoms to educate. We don’t tolerate these intrusions in the traditional classroom, yet under elearning we accept this in the name of cost-efficiency (or some other “justifiable” reason). This is why LMSs won’t survive - they are not aligned with the Web 2.0 culture of enabling individuals to teach as they see fit. LMSs are typically organisational installations and restrict educational freedom to work as individuals across institutional boundaries. In my view, this is why we will witness exponential growth in the technologies that service these educational needs. The phenomenal growth in Youtube, MySpace, Open Wiki installations, Flickr being an early example of the shift from organisation to you as individual.</para>
+        <para id="id43459717">You may be wondering what this has to do with free content, but it’s an important debate. We have to figure out ways in which we will deliver free content to our learners. I’m not too optimistic that interoperability specifications are going provide the solution. We’ve got to get smarter.</para>
+      </section>
+    </section>
+    <section id="id-0921426750895">
+      <title>The Magic of WikiEducator</title>
+      <para id="id43479774">There is real magic in the WikiEducator community and it’s both addictive and contagious. However, I don’t have the skills to articulate this dynamic. WikiEducator is a living organism as evidenced by a few examples:</para>
+      <list id="id43479786" list-type="bulleted">
+        <item>I have observed a free software champion based in Kenya conceptualise the FLOSS4Edu project and capitalise on the space provided by WikiEducator to mobilise educators in East and West Africa to commence development of free content for Africa by African educators.</item>
+        <item>I have been involved with two VUSSC boot camps where 25 countries are collaborating online in the development of free content.</item>
+        <item>I meet with Country Mike, based in New Zealand on WikiEducator’s Internet Relay Channel and we share thoughts about the strategic directions for WikiEducator.</item>
+        <item>After a recent keynote presentation in India, I was taken back by the passionate defense of WikiEducator from the floor by a senior Indian academic.</item>
+        <item>I was moved by a reflection from a teacher based in Germany who announced in one of our forums that “After discovering the WikiEducator site I was quite exited, and I told my family at supper: Listen, I have something to celebrate, I just found something very promising!</item>
+        <item>I interact with experienced technical gurus like Eloquence from the Wikimedia foundation in identifying sustainable innovation alternatives for open content authoring in the future.</item>
+      </list>
+      <para id="id44110258">Networked communities have their own energy and they organise themselves without the need for a centralised hierarchy. Community projects take on a life of their own, and WikiEducator’s no exception. The compelling value proposition of free content and the freedom to participate actively in the destiny of WikiEducator is triggering exponential growth in the initiative.</para>
+      <para id="id44283941">Administrator’s frequently have difficulty understanding this community impetus and attempt to over regulate this energy, leading to projects that are destined to failure in the medium term. Fortunately, WikiEducator has adopted a clean slate approach. The starting point was simply a declaration of community values - the rest followed from that. In hindsight this has been the success of the WikiEducator community. It’s a delicate balance because the Commonwealth of Learning has funded the development of WikiEducator and the agency has a clearly defined strategy to support learning for development. We have refrained from interference in the evolution of the community and this is paying handsome dividends in the realisation of our aims.</para>
+      <para id="id44283971">In many respects the evolution of open networked communities is like golf (Although, I’m not an authority as I do not play the game). You can spend many hours perfecting your swing, but you have very little control over where the ball will rest. The old adage that your luck in getting it right will increase proportionally with the time you spend practicing, will help us move forward in the right direction.</para>
+      <para id="id44283976">I hope you will help us.</para>
+      <section id="id-713786144756">
+        <title>Comments</title>
+        <section id="id-230702182728">
+          <title>1. Ken Udas - April 5th, 2007 at 4:53 am </title>
+          <para id="id43325445">Wayne, WOW this is such an interesting posting that I hardly know where to start. As I read through your reflections and assertions dozens of questions rose to the surface. This being the case, I am going to start with a very general observation and question, but I also want to invite others to respond to Wayne’s posting and to the comments (like this one) that are also posted.</para>
+          <para id="id43325462"><emphasis>Observation: </emphasis>Clearly, as I read your posting I see a strong relationship developing between Open Source Software (OSS) and Open Educational Resources (OER). I believe that as this series progresses some of those relationships and connections will be reinforced, refined, and challenged. I am actually very happy to see OSS and OER being treated together, but feel then that it is important that we understand the relationships and, as importantly, what impact they have on education.</para>
+          <para id="id43480884"><emphasis>Question: </emphasis>I have the sneaking suspicion that the really important touchstones between OSS and OER are not so much with the code or content, but more with the nature of the rules around distribution – that is the level of “Freedom” that is conferred to individuals and organizations that can potentially use and benefit from the assets (physical assets as well as the development of community). So, what do you think are the characteristics that allow us to talk about OSS and OER at the same time, what can the OSS and OER communities learn from each other, and how do both OS and OER impact on education?</para>
+          <para id="id43325472">I know that these questions are large, but perhaps the responses do not need to be.</para>
+        </section>
+        <section id="id-153988486792">
+          <title>2. richardwyles - April 5th, 2007 at 5:13 am </title>
+          <para id="id43480924">Fantastic read thank-you Wayne. I’m not going to pick up the cudgels (too much ;-) on any of it really but will offer some personal observations as we’ve known of our respective efforts well these past few years. I’ll restrict my comments to wikis and LMSs as application technologies.</para>
+          <para id="id43480929">I remember many a conversation on the limitations of LMS and it’s something that Ken and I used to discuss a lot in the earlier days of NZOSVLE. I’ve always simplified the construct of an LMS to being analogous to a classroom environment. We wanted to include spaces for informal learning analogous to social learning on a campus. Early efforts were with trying to create this space (we called it a learning portal) with a system called TikiWiki that would have single-sign-on. This was in early 2005 but it seems ages ago. In short, we failed - too few resources and really we were grappling with trying to mash together disparate systems that were like apples and oranges. Changing direction, we developed MyMoodle and the ability for a learner to set up a community space within the LMS. But this is still under the umbrella notion of an institutional LMS though which I agree tends to reflect the focus on administration and was an unsatisfactory answer. Hence Mahara which is a first stage attempt at a PLE. This thinking is also a driver behind Moodle Networks and the Web Services API we’ve recently developed.</para>
+          <para id="id43480934">I don’t want to come across as defensive of the LMS but it is simply an aggregation of tools (and the best LMSs have loose coupling of the tool-sets i.e. pluggable), many of which are Web 2.0 tools and can be used in a wide variety of contexts. Agreed though that in most instances the LMS and its typical usage is a reflection of the institution, a desire for organisation and control. But I still think these technologies have a lot of life left in them. For example, Moodle 1.7 has customised roles which allows all sorts of possibilities of supporting a spectrum of permissions for people within and external to institutions. I’m about to use this to support an idea I’ve had for a while which is to support small grassroots non-profit community groups with access to these online community spaces. Change the language pack, alter a few tools and bingo …In 1.8 Moodle Networks enable almost any configuration of organisational construct you can imagine and we are using SSO with web services. I would argue that we have the first stages of an eFramework implementation! And Mahara Moodle interface underway right now.</para>
+          <para id="id43480933">My apologies - rambling on again about my projects and I’ve already had my say. What I am trying to convey though is that there are many routes to similar goals. I don’t think wikis are the (total) silver bullet - the technology has some way to go, there’s still barriers to entry with varieties of syntax, poor editors and they don’t support many activities (yet!). But an open wiki is an admirable and important part of the mix, no doubt. I am a big fan of the direction of WikiEducator. I’m just wanting to get across that I don’t want to throw the baby out with the bath-water when it comes to LMSs - they can and are evolving and I find them a hotbed of innovation. Totally agree on SCORM though, massive waste of time and energy and for what? “alien content” - spot on. Why have a LMS if it’s just a SCORM player?</para>
+          <para id="id44387392">Go WikiEducator and radical thinking for the betterment of the world’s learners.</para>
+          <para id="id43714208">Cheers Richard</para>
+        </section>
+        <section id="id-0835428187793">
+          <title>3. Wayne Mackintosh - April 5th, 2007 at 12:42 pm </title>
+          <para id="id44312137">Hey Richard - great to touch base on Terra Incognito.</para>
+          <para id="id44312142">I think the success of New Zealand’s open source work in Education is strongly linked to the No.8 Wire approach to Kiwi ingenuity. Their has been a strong reflective culture and the willingness to experiment taking calculated risks. Without this approach - we wouldn’t be where we are today.</para>
+          <para id="id44312157">My concern with LMSs is that they are increasingly becoming the “Leatherman” of eLearning - You have every conceivable tool- none of which does the job properly. For example, the wiki-in-drag implementations of this collaborative innovation within a cohort-based LMS environment or the tweaking of personalised publishing tools like blogs into learning environments. Sure they add value - but at the same time constrain the potential of what these Web 2.0 tools were designed for.</para>
+          <para id="id44312173"><figure id="id44312178"><title>If only we could add a flash drive to our super tool. Image courtesy of Wikicommons</title>
+<media id="id7208439" alt=""><image src="../../media/graphics3-ab78.jpg" mime-type="image/jpeg" height="261" width="347"/></media></figure> My main problem is that I don’t have a sense of excitement with LMSs. I don’t see how LMSs are going to make a difference to widening access to education through free content to the kids in the developing world who are not connected.</para>
+          <para id="id44386448">However, I’m very exited about wiki technology - this is one of the most significant social revolutions of our time. A wiki is not a technology. It’s a self-organising community that by some magical way functions in mass-collaboration environments. I am very excited about the potential of collaborative wiki environments to make a real difference in reaching 4 billion of the world’s 6 billion people - who educationally speaking are underserved. See for example my<link url="http://www.wikieducator.org/Tectonic_shift_think_tank/Wayne's_wishlist"> preparations</link> for the <link url="http://www.wikieducator.org/Tectonic_shift_think_tank">Tectonic Shift Think Tank</link> next week in Vancouver.</para>
+          <para id="id43325182">I take your point about the analogy of the LMS with the classroom. It is useful in communicating the concept of eLearning and LMSs to the uninitiated. Paradoxically - at the same time is the barrier to innovation in the design of asynchronous learning systems, given the structural differences in pedagogy. Resources designed for asynchronous learning migrate pretty well into the face-to-face classroom. The reverse isn’t true.</para>
+          <para id="id43325201">Thanks for post Richard - I feel as if we’re chatting in my office.</para>
+        </section>
+        <section id="id-116556209964">
+          <title>4. Wayne Mackintosh - April 5th, 2007 at 1:14 pm </title>
+          <para id="id43325224">In response to Ken</para>
+          <para id="id43529499">Ken wrote: &gt;</para>
+          <para id="id43529505">
+            
+          </para>
+          <para id="id43529511">
+            <quote id="id4004500" display="block">Ken - I think that you’re right on this one. There are obvious differences between computer code and content. For one - its far easier to author content than writing a piece of software code. Incidentally - this is why I think we will achieve a free curriculum in a shorter time when compared to the Free Software Movement, which took about 22 years.</quote>
+          </para>
+          <para id="id43529526">The link between free software and free content is very important. We have the benefit of experience from the free software movement. In my view - the link is not in the fine print of the Open Source Software definition - but rather in the philosophy which should underpin the development and use of free content development. This is a philosophy entrenched in our understanding of modern democracies - namely “freedom of speech.”</para>
+          <para id="id43529546">As educators, I think we need to spend to ask ourselves: What are the essential freedoms we associate with free content? If we’re unsure of what freedom is - How will we defend it? If we go through history we see that freedom is easily lost.</para>
+          <para id="id43529558">There are folk who have spent some time documenting what free content is - and I subscribe and support the <link url="http://freedomdefined.org/">Free Cultural Works Definition</link>.</para>
+          <para id="id44371958">If anyone is interested in exploring what the Wikieducator community mean by free content - we have a Newbie tutorial <link url="http://www.wikieducator.org/Wikieducator_tutorial/What_is_free_content">available</link> .</para>
+          <para id="id44371974">Cheers</para>
+        </section>
+        <section id="id-913787945924">
+          <title>5. richardwyles - April 5th, 2007 at 6:48 pm </title>
+          <para id="id44371990">Yes it does feel as though we’re having a continuing chat, sometimes in person, sometimes in forums like this. Thanks Ken - a great initiative. I like the Leatherman analogy - the thing is in certain circumstances a Leatherman is a highly useful thing. What is happening now though is that with protocols like XML-RPC, SOAP and the like is that the tools in the toolkit are getting more loosely coupled. Mahara has been built to be pluggable. Drupal and Moodle are other examples of these evolving architectures and they’re getting better and more flexible all the time. A terrible acronym it makes but I see LMSs like Moodle evolving to a Learning Operating System with a kernel of pluggable and highly useful tools. It’s already a long way there which is why I get frustrated when folk bang on about SOA as though you have to scrap everything that exists and start afresh.</para>
+          <para id="id44371994">I take your point about wikis in themselves being about self-organising communities. MySpace is also self-organising within the bounds of the software application it is built on. A wiki is built on wiki technologies and I still think there’s a way to go here with many variants on wikitext - there’s no commonly accepted standard wikitext language - grammar, structure, features, keywords and so on are dependent on the particular wiki software used and is a language that users have to adapt to. Transformations (e.g. to clean XHTML) are not yet straight forward with many wiki technologies. I’m sure this will all happen and is not far away. Wikis are indeed a very exciting part of the landscape. RSS is also an underutilised technology in educational contexts.</para>
+          <para id="id44371999">Cheers</para>
+        </section>
+        <section id="id-616530754138">
+          <title>6. Wayne Mackintosh - April 5th, 2007 at 7:43 pm </title>
+          <para id="id43714501">Hey Richard, Working on a Saturday - I hope that they’re paying you overtime :-) .</para>
+          <para id="id44056163">I think you’re right. The smart implementation of XML technologies is going to be the future in education. I’m borrowing a citation from Hewletts OER report on page 66, namely the “[k]ey to making the whole more than the sum of the parts is to create some XML” which you can download here. This pluggable technology is very exiting.</para>
+          <para id="id44056178">My concerns are social ones. Pluggable implies that you must plug the technology in somewhere. So the next questions are: - Where do I plug this in? Do I need permission to plug something in? What if I don’t like the socket where I’m expected to plug the technology in?</para>
+          <para id="id44056191">I also think, particularly when focusing on the developing world we are going to see resurgence of client side technologies that have smart ways of linking with server-based technologies through XML. Its going to be interesting to see how this all pans out in the near future.</para>
+          <para id="id44056200">You’re absolutely right that RSS/RDF etc is a grossly underutilised technology in education.</para>
+          <para id="id44056208">I’m on about the freedom of the teacher to teach -</para>
+          <para id="id44056214">How many IT policies in teaching organisations restrict downloads of software without some form of external control?</para>
+          <para id="id44056221">How many teaching organisations lock down desktops?</para>
+          <para id="id44056226">So it is conceivable in this pluggable environment that the freedoms of educators are restricted to the plugins they can use. “You can use any plugin as long as it fits our socket!” . This would be a tragedy for academic autonomy and the free cultural works movement.</para>
+          <para id="id43323992">I think that we are facing a new set of challenges - the guise that a free software installation on campus is a manifestation of the organisational commitment to freedom. For example, lets say I plan this big OER project and I embed my resources in Moodle. There is a considerable effort and cost required to reconfigure those resources for another environment. How do we facilitate mass-collaboration using the principles of self organisation in a LMS environment. LMSs were not designed for collaborative authoring. The were designed for teaching. Wiki’s were designed for collaborative authoring and are the most mature technologies to achieve this aim. Sure there are challenges associated with a standard wiki text - but I don’t know of any LMS that uses a standard authoring syntax. Try and take a course developed in Blackboard and port this to Moodle - you’ll see what I mean. The two LMSs have their own pedagogical structure - so it doesn’t matter how effective SCORM/IMS packaging is - there is a pedagogical mismatch.</para>
+          <para id="id43324025">Speaking from experience - I know that many educational organisations are uncomfortable with their content sitting on an open web-server. Why is that? Native (X)HTML is far more efficient than plugging all this stuff into the LMS database. W3C is a mature open standard. We can significantly reduce server load on the LMS by simply referencing free content from the LMS itself. What is the obsession to embed content within the LMS? As you’ve pointed out - the LMS is an aggregation of tools that facilitate interaction. I sense that there is a “political correctness” among some organisations to say that they’re involved with the OER movement - yet they haven’t bought into the philosophy. Take a look at the proliferation of non-free content licenses under so-called OER projects!</para>
+          <para id="id43324029">Don’t worry too much about syntax of wiki’s - we’re going to get this sorted with our Tectonic Shift Think Tank next week :-) . I hope you can help us with a vision statement. We’d love to have you on board as a remote participant.</para>
+          <para id="id43324042">As always - good post Richard! You’re making me earn my “money”. Pity I can’t buy you a beer.</para>
+        </section>
+        <section id="id-791228095446">
+          <title>7. richardwyles - April 5th, 2007 at 9:29 pm </title>
+          <para id="id43907088">Thanks for the invite. I’m afraid I’m totally flat tack on another wee initiative here - not a tectonic shift but a small step in an aligned direction ;-) That’s why I’m working during Easter and unfortunately need to pay myself pretty much these days, not always easy ;-/</para>
+          <para id="id43907102">
+            <quote id="id4124770" display="block">“For example, lets say I plan this big OER project and I embed my resources in Moodle. There is a considerable effort and cost required to reconfigure those resources for another environment.” </quote>
+          </para>
+          <para id="id43597514">True and actually we are doing just that, well sort of. But we are using Moodle to simply showcase courses that have been built in a modular fashion. The “source files” are entered into an open access repository and can be pulled out and used anywhere. The degree of modularity mitigates the problem of pedagogical structures - to a degree. There is effort involved in porting across, for sure. We’ve been using a few analogies so I’ll throw in another. I often describe our OER project as like kitset housing. We’ve got a showhome but really what you get is the kitset to put together the course and extend or edit as you feel fit. There’s effort involved in doing that and some pros and cons with the approach.</para>
+          <para id="id43597534">You’re absolutely right that this approach is not conducive to self-organised collaborative authoring. If doing it again we might do some things differently but overall I’m happy with the progress. The target constituency are Moodle and Blackboard users. They want, quizzes, forums, group activities, case study scenarios etc. and they also want courseware with an embedded QA process. In this model there is a quality assured ‘official’ release of course materials. Anyone is then free to take that release, reduce it, extend it, edit away etc but there will still be that core release. This is similar to how many open source software communities operate - there are moderator(s) to ensure quality of the code.</para>
+          <para id="id43597563">This is not the same type of openness as an open wiki and in some ways nor can it be given the context of quality assured credentialing frameworks etc. Within the courseware we also have flash based objects, audio and video rendered in flash. I know this won’t fit with your philosophies on openness as proprietary tools may be necessary to edit the content.</para>
+          <para id="id43597567">In our defense:</para>
+          <list id="id43597571" list-type="bulleted">
+            <item>We’re not using any NC restrictions. Commercial entities can repurpose this stuff.</item>
+            <item>We’ve designed the materials as OERS, i.e high granularity, learning objects have XML engines to be more easily editable etc. This is as opposed to the trend to put up legacy courseware, call it open and then say you have an OER project when the materials are ill-suited for wider sharing and input.</item>
+            <item>We’ve focused on high quality learning design so that there will be uptake amongst the tertiary education sector.</item>
+            <item>The goal is to reduce barriers to entry and get better quality courses online for overall less investment at a system wide level. On that I’m a pragmatist and will use the best tools available proprietary or otherwise. There’s shades of grey here. In my experience there’s many open source projects and OER projects that aren’t all that open anyway. But this isn’t the final model, it’s all a learning curve. A wiki environment and more extensive use of RSS are on the drawing board!</item>
+          </list>
+          <para id="id44384739">Now about that beer, coming your way in a few weeks ;-)</para>
+        </section>
+        <section id="id-800796370722">
+          <title>8. Wayne Mackintosh - April 5th, 2007 at 11:51 pm </title>
+          <para id="id44056286">Hey Richard,</para>
+          <para id="id44056290">This virtual environments are weird - I didn’t connect this discussion with your short visit to Canada soon. No worries - I’ll buy you that beer, and if its “Free beer” I’ll buy you another :-) .</para>
+          <para id="id44056301">You guy’s are doing pioneering work - that Kiwi No.8 Wire experimentation we were talking about. The rest of us are going to learn from your experiences - and I know from your work on the NZOSVLE that your experiences will be refactored back into the community - like this discussion.</para>
+          <para id="id44056316">The nut we still haven’t cracked in the free content movement is the value proposition at the individual educator level. The “costs” of remixing in terms of time, ego (psychological ownership) etc. must be less than the real and perceived benefits. So in other words the benefits of mixing bits and pieces of free content must be more than the temptation to create my own resource from scratch. I don’t think we have got this right yet (our wiki approach included).</para>
+          <para id="id44056331">The value of show casing is that we can visualise undiscovered potential. So go for it. I do think modularity helps overcome the pedagogical structure challenge. At the same time there is an inverse relationship between reusability and the “amount” of learning design we embed in our resources. The more learning design - the less reusable they become in other contexts. This is not a rebuttal against learning design - but a recognition that learning is always contextually bound. Its a tough challenge - but we’ve got to get smarter.</para>
+          <para id="id44056335">I like your house kitset example. It emphasizes modularity and some freedom of choice. The analogy breaks down if you want to build a boat. (Sorry - I come from Auckland, although the sailing would be better in Wellington given the wind you have down in your neck of the woods!)</para>
+          <para id="id43529302">I’m very interested in your experiences and suggestion that if you were to do this again, you might do things differently. What would you do differently? I know that you are hectically busy but if you could summarise this in a few bullets - we could avoid any mistakes you made - thus your contribution back to the community.</para>
+          <para id="id43529316">I take your point that typical LMS users want quizzes and forums. This harks back to my point about the unique differences between f-t-f and DE pedagogy. If we are smart we separate out those interactions that are typically facilitated by the LMS and other web-server technologies. However the monolithic attitude of LMSs is to control and divide. I can illustrate this with a practical example.</para>
+          <para id="id43529327">About halfway through the eXe project we came up with this neat idea to set up the parameters for a Discussion iDevice in eXe. The idea was that you could author the “content” for a discussion forum external to the LMS. With some neat XML, when you imported this external content into your LMS it would automatically instantiate a discussion forum, see <link url="http://exelearning.org/eXe_and_the_power_of_interoperable_discussion_forums?highlight=(forum)%7C(discussion)">eXe Discussion Forum iDevice</link>. At the time, interoperability specifications did not drill down to this level of functionality. We hacked our own Moodle patch to demonstrate the utility of this approach. In our excitement we communicated with the lead developer of Moodle. My response from Martin was “I don’t like it” - nothing more. I responded - Martin - why don’t you like it? Was it because of security concerns that we can write a patch that instantiates a forum externally from the LMS or because this was a nail in the coffin of the LMS control over eLearning. I never got a response.</para>
+          <para id="id44358971">Regarding the requirement for formative quizzes, close activities, case studies etc. We can achieve these without a database or requirements to be connected to an LMS. We proved this with the eXe project. Therefore - there is a lot we can do outside of the LMS in terms of free content design and development. Lets use the LMS for the interactions that require student-lecture interaction - but keep free content development outside the LMS. If we don’t - we’re shooting ourselves in the foot.</para>
+          <para id="id44358992">LMSs are organizational based installations - exponential growth in free content will come from individuals. If we embed our OER initiatives in organisational-based technologies, we will not be able to scale up free content production or reuse across institutional boundaries.</para>
+          <para id="id44359002">The issue is that the overwhelming majority of institutions and educators don’t buy into the free content model. However, at a global level we don’t need 95% of the educators to build the free curriculum - we only need 5%. Lets give the 5% the freedom to help us build free content - the rest will follow.</para>
+          <para id="id44359006">In this world we have two choices - to lead or to follow.</para>
+          <para id="id43480620">I know what side you’re on.</para>
+          <para id="id43480626">Cheers</para>
+        </section>
+        <section id="id-315685612217">
+          <title>9. richardwyles - April 6th, 2007 at 6:17 am </title>
+          <para id="id43480642">What would I do differently? What we’ve done is the model I discussed further up. We’ve developed 10 courses for about 800 hours of learning. It’s not a huge amount but it’s enough to explore an OER model. Done again with the same limitations on resources I’d explore, say 3, significantly different models concurrently and then build on the findings combining the best of each.</para>
+          <para id="id43480658">e.g.</para>
+          <list id="id43480662" list-type="bulleted">
+            <item>An open wiki model</item>
+            <item>A RSS based framework</item>
+            <item>The modular but still LMS centered approach we’ve taken</item>
+          </list>
+          <para id="id43521791">The purpose of our OER project is to determine a sustainable model. In my view the business case for OERS is at the macro or pan institutional level. Individual institutional efforts tend to be a form of marketing rather than truly free open fit for purpose courseware developments and hence the problem of NC restrictions. That’s the supply side though.</para>
+          <para id="id43521807">On the demand side “the nut we still haven’t cracked in the free content movement is the value proposition at the individual educator level. The “costs” of remixing in terms of time, ego (psychological ownership) etc. must be less than the real and perceived benefits.”</para>
+          <para id="id43521821">Part of the problem I see is that the cost of course materials is, more often than not, borne by the student in the form of text-books or course fees when digital library resources come into play. The academic writes the text, gets kudos and small returns while the publishing house receives the profit. In this scenario the educator is rewarded for being published certainly in terms of their research credentials. Open Journals are on the rise but it still doesn’t crack that nut. In the music industry remixes ( in essence mash-ups) are well established and musicians are credited with that skill. We need leading institutions to start publishing research and commissioning courseware in open formats and provide the recognition. So we’re back at the supply side and the need for this movement to be embraced at a macro level. I’ve been saying as much to the Ministry of Education here lately!</para>
+          <para id="id43522216">This is why initiatives such as Wikieducator are so important.</para>
+          <para id="id43522221">Cheers</para>
+        </section>
+        <section id="id-326208178899">
+          <title>10. Wayne Mackintosh - April 6th, 2007 at 2:24 pm </title>
+          <para id="id43522238">Richard, that’s insightful - thanks mate.</para>
+          <para id="id43522244">I’d like to combine the wiki and RSS framework models together. This way we get the benefits of collaborative authoring combined with an easy way to get the content out for remix. I will table these ideas at the Tectonic Shift Think Tank gathering next week.</para>
+          <para id="id43522257">Clearly we will need a holistic approach. At the micro-level remix must be painless and easy to do. That is overcoming the problem of using “someone else’s lecture notes”. Even with text books - institution A will choose one textbook above another. This is part of academic autonomy and must be respected. You’re right - when dealing with textbooks - the students pay, so there is no institutional incentive to reduce cost here.</para>
+          <para id="id43522276">However, in the development of eLearning courses - this is a cost addition in most face-to-face institutions. (Even if its a hidden cost - that is academic time used to develop eLearning materials instead of doing something else like research or teaching.) So there is conceptually a motivation to share development costs but I suspect in the early phases this will be at the personal motivation level of the individual academic. How do I save time yet improve my eTeaching?. The trouble is that institutional reward and incentive systems don’t recognise time spent authoring materials (in f-t-f institutions).</para>
+          <para id="id43522280">In single-mode distance education institutions - there is a strong value proposition. About 80% of the costs of producing DE materials is academic authoring time. So it makes economic sense to share.</para>
+          <para id="id44284067">There are a number of countries in the Commonwealth where authors are commissioned to develop school textbooks - unfortunately under closed copyright. I have no problems whatsoever in ministerial funding of free content development. This is a classic win-win scenario. Authors earn a living and can pay their bills. The ministry still gets the textbooks and over the medium term costs will be reduced through mass collaboration. The use of a free content license provides the freedom for local adaptations. Revisions are easier and content can be updated more frequently. There are also examples of nationally funded projects to develop online support materials for learners in identified subject areas. Again - these examples are under all rights reserved. This coming year - I’m hoping to find one or more Education ministries that will invest in a free-text book and/or development of free content web resources as a pilot so we can evaluate and build the costing models using this approach. We must find hard evidence of the value proposition.</para>
+          <para id="id44284107">Just thinking aloud here - you know all this stuff.</para>
+          <para id="id44096921">Cheers</para>
+        </section>
+        <section id="id-699887131221">
+          <title>11. Ken Udas - April 9th, 2007 at 6:53 am </title>
+          <para id="id44096936">Sorry for dropping out of sight for a few days. There is some great dialog going on here. I would like to follow-up on one of two points in the discussion. Although minor points, I think that they are relevant. I hope that this serves to summarize some of the dialog while also iterating some of the questions.</para>
+          <para id="id44096946">I do think that there is some motivation for individual faculty members and institutions to create and to use OERs, under certain circumstances in place of traditional textbooks. Some examples include:</para>
+          <list id="id44096954" list-type="bulleted">
+            <item>When there are niche local needs such as language requirements, need for specific types of examples in particular content areas, traditional textbooks are banned or censored by governments and/or school administrations, etc.</item>
+            <item>It is not economically feasible to use traditional textbooks.</item>
+            <item>The content in the course is very dynamic and traditional publishing operations and licensing agreements are not adequate for purposes of relevance.</item>
+            <item>Etc.</item>
+          </list>
+          <para id="id44096986">These might all be reasons to suggest that engagement by individual faculty members and institutions potentially extend beyond “marketing” efforts. In Slovakia, for example, there was a process through which we published “course notes” and made them available to students and other faculty with no explicit restrictions. The course notes were a combination of a syllabus, instructions for using the notes, assignments, assessment criteria, examinations, and content. They were in essence annotated textbooks designed to meet the localization and economic needs of a university operating in a developing economy. There were no formal mechanisms in place at the time to distribute the content beyond Comenius University, so the usefulness of the content was sub-optimized.</para>
+          <para id="id44269428">As Wayne and Richard point out, there are potential economic drivers outside of the situations outlined above. Wayne and Richard, you have both worked at institutions that have large course design and production functions and understand the financial commitment and economics of traditional large-scale production of courses and education materials. There are some indefinable potential benefits to OERs for these types of shops. For example:</para>
+          <list id="id44269439" list-type="bulleted">
+            <item>Lower costs associated with creating and recreating existing content including graphics, audio files, case studies, original interviews, etc.</item>
+            <item>Lower costs associated with regularly revising course materials that are dynamic.</item>
+            <item>Higher quality revisions and materials when they are modified, checked, and edited by multiple authors on short and dynamic development cycles.</item>
+            <item>Etc.</item>
+          </list>
+          <para id="id44269471">Following along with the article and following comments above, that these and other potential benefits will be liberated when some barriers are reduced and a “economy” for OERs is established. Just to summarize, two of the barriers discussed above include:</para>
+          <list id="id44269476" list-type="bulleted">
+            <item>Low barrier (free) tools to design, create, publish, edit, package, publish, identify, catalog, search, etc. content, and</item>
+            <item>Appropriate distribution licensing.</item>
+          </list>
+          <para id="id43532126">Just as an aside, following up on the use and non-use of the NC license element, here is a table that outlines the licensing agreements that have been adopted by a number of the larger US open courseware initiatives:</para>
+          <table id="id43532134" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Open Courseware Project </entry>
+                  <entry>Creative Commons License</entry>
+                </row>
+                <row>
+                  <entry>Rice University, Connexions </entry>
+                  <entry>Attribution</entry>
+                </row>
+                <row>
+                  <entry>MIT OpenCourseWare </entry>
+                  <entry>Attribution - NonCommercial – ShareAlike</entry>
+                </row>
+                <row>
+                  <entry>Johns Hopkins </entry>
+                  <entry>Attribution - NonCommercial – ShareAlike</entry>
+                </row>
+                <row>
+                  <entry>Tufts University </entry>
+                  <entry>Attribution - NonCommercial – ShareAlike</entry>
+                </row>
+                <row>
+                  <entry>Carnegie Mellon </entry>
+                  <entry>Attribution - NonCommercial – ShareAlike</entry>
+                </row>
+                <row>
+                  <entry>Notre Dame </entry>
+                  <entry>Attribution - NonCommercial – ShareAlike</entry>
+                </row>
+                <row>
+                  <entry>Utah State </entry>
+                  <entry>Attribution - NonCommercial – ShareAlike</entry>
+                </row>
+                <row>
+                  <entry>UC Irvine </entry>
+                  <entry>Attribution – NonCommercial - No Derivatives</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id43705595">This prompts me to ask:</para>
+          <list id="id43705600" list-type="bulleted">
+            <item>If we could identify just a few factors that would promote an OER Economy, what might they be?</item>
+            <item>What OSS (free) software tools are available to reduce some of the barriers?</item>
+            <item>What OSS tools still need to be developed?</item>
+          </list>
+        </section>
+        <section id="id-103248538219">
+          <title>12. Wayne Mackintosh - April 9th, 2007 at 3:25 pm </title>
+          <para id="id43705638">Hi Ken,</para>
+          <para id="id43705643">I like your suggestions regarding the use of OERs in place of text books - particularly in the area’s you’ve identified. Smart thinking! These are the area’s we should prioritise in the free content movement from a strategic management perspective.</para>
+          <para id="id43705648">Regarding the tabulation of licenses used you can add OpenLearn of the British Open University that also uses the NC restriction. I can’t find the link at the moment, but David Wiley announced after much research and debate on the NC restriction that the Center for Open and Sustainable Learning at Utah State University had taken a decision to remove the NC restriction from their courses - which speaking from memory was about a third of their OCW offerings.</para>
+          <para id="id43705652">I must stress that all the projects using the NC license are using a non-free content license that does not meet the requirements of the Free Cultural Works definition. The freedom culture are working hard behind the scenes with the Creative Commons to separate out non-free licenses from those that are free. All free content is per definition open content - however, not all OERs are free. There are two substantive reasons why not to use the NC restriction:</para>
+          <para id="id44311937"><emphasis>Ensuring the maintenance of academic freedom and autonomy</emphasis>: The academy has a long tradition of independence. In most countries, the university is the custodian of the critical voice of society founded on the principles of freedom of speech. We have a responsibility to protect the open pursuit of knowledge and unrestricted right to critique and reflect on the world’s knowledge even if that means commercial activity! As Educators we have a responsibility to promote free access to knowledge - otherwise we risk loosing our custodianship of the worlds knowledge. Consequently - if institutions of higher education decide to participate in the freedom culture through the OER initiative, in my view they have an obligation to protect the essential freedoms.</para>
+          <para id="id44311968">The inclusion of the NC restriction is a contradiction in terms - it suggests a world of conditional freedom in contrast to our fundamental beliefs associated with academic freedom and freedom of speech. It’s a sad world when we start saying “You have freedom of speech as long as you’re not engaged in commercial activity”. Universities have no problem charging student fees to access an education but many in the OER world have a problem with others engaging in commercial activity. That’s double standards.</para>
+          <para id="id44311972">The academy has no major reservations to commercial activity associated with text-book production and distribution - yet their is an inherent fear of commercialism when it comes to OERs. If universities are concerned about commercial exploitation around OERs - they have adequate protection through the copyleft provisions of the share-alike license. (Any modifications — i.e. a derivative work must be released back into the community - so the resource will always be free). If Universities want to encourage commercial activity around free content (which I personally support) they use the CC-BY license as in the case of Connexions. In my view, the inclusion of the NC restriction is a signal that the institution does not value the essential freedoms associated with freedom of speech. Its a slippery slope where we might loose our academic freedom.</para>
+          <para id="id44212844"><emphasis>Pragmatic reasons </emphasis>The use of the NC restriction effectively shuts off the OERs from remixing with wealth of free content available under copyleft licenses. Moreover, the definition of “non-commericial” is unclear and it typically results in additional transactions costs for the very users we are trying to help.</para>
+          <para id="id44212864">The use of non-free licenses in the OER movement is the greatest barrier to radically advancing the rate of free content production. Universities risk being left behind - because the freedom culture will not comprise on the essential freedoms and they will continue with their mission. We hope that Universities will join us - it will be a great loss to society if they don’t.</para>
+          <para id="id44212868">Ken, relating to your tools question - I believe that those technologies that facilitate mass-collaboration based on the principles of self-organisation combined with emerging XML structured content to facilitate easy remix are going to become the tools of choice. The only technology that currently meets these requirements is the Wiki. However, we still need to do a lot of work in lowering the barriers of entry to participating in the free content authoring process. For most academics - the wiki syntax is still too hard. That’s why were holding the Tectonic Shift Think Tank Meeting. We are plotting the future development path to overcome these problems.</para>
+          <para id="id44387845">Hey - you’ve really got me thinking this morning. Thanks Ken.</para>
+        </section>
+        <section id="id-114447452626">
+          <title>13. richardwyles - April 9th, 2007 at 9:40 pm </title>
+          <para id="id44387867">Hi Ken and Wayne,</para>
+          <para id="id44387871">Thanks Ken for the table, interesting! I agree with Wayne’s comments. The NC restriction severely reduces the multiplier effect which is a key benefit of OERs. I’ve never understood the logic anyhow and put it down to the ubiquitous politics prevalent in large educational institutions plus general fear of the unknown. As Wayne points out, derivative works must also be free so even if a company were to commercialise an OER there’s extraordinary downward pressure on price because it’s share-alike. Commercialisation can really benefit the user - e.g. I might be very happy to pay a company for quality type-setting, binding and a hardcover or simply for having edited it or extended it so that it is fit for purpose for my needs. But the commercial entity can hardly exploit that opportunity as I’d simply commission someone else to do the editing and binding. Here’s an example, we’ve created an OER course on employment law. It’s designed for 100 hours of learning in a tertiary education environment. 100 hours of learning is not what a company wants their employees to have, more like 2-6 hrs. I’m more than happy that a private firm distills the OER package we created so that it is fit for purpose and that they receive a fee for their time. More people have access to the learning and the multiplier effect kicks in - i.e. the economy benefits.</para>
+          <para id="id44387876">Reuse is one of the fundamental reasons behind OERS so any barriers to reuse must be minimised.</para>
+        </section>
+        <section id="id-0404099943304">
+          <title>14. Wayne Mackintosh - 9th, 2007 at 11:20 pm </title>
+          <para id="id44111208">Hi Richard,</para>
+          <para id="id44111212">You have raised key issues. On the one hand commercial publishing has done a sterling job of improving the quality and peer review of published texts not to mention widening the distribution channels for academic texts where Universities are not geared up to support this value-add to the model.</para>
+          <para id="id44111222">Why would we want to constrain new economic models that could widen access and distribution channels of free content? After all the user can decide whether they want to purchase a hard cover bound text when the source version is freely available?</para>
+          <para id="id43719898">I won't go down the MDG route - but one of our prime objectives is to reduce poverty. What rights do we have as authors of OERs to deny a small entrepreneur in the developing world the right to earn a living from free content? Opponents to this argument would cite the CC developing world license in defense, which I would argue is discrimination ;-)</para>
+          <para id="id43719909">You’re absolutely right - the multiplier effect is the sustainability model for free content!</para>
+          <para id="id44111226">Cheers</para>
+        </section>
+        <section id="id-464860829182">
+          <title>15. opencontent - April 11th, 2007 at 8:58 am </title>
+          <para id="id43719932">David Wiley from Utah State University here. I’ve enjoyed this thread immensely and have posted (what started out as a long reply) on my own blog at <link url="http://opencontent.org/blog/archives/325">http://opencontent.org/blog/archives/325</link> - I hope you will find time to give it a quick read.</para>
+        </section>
+        <section id="id-963989891714">
+          <title>16. Ken Udas - April 11th, 2007 at 9:16 am </title>
+          <para id="id43719965">David, Thank you very much for linking to your thoughts on the dialog that is developing in the comments above. I think that the focus of your comment is really spot-on. Any new concept and activity will evolve and hopefully improve in concept and execution as we learn from experience and dialog critically. That said, the move forward will be more rapid, thoughtful, inclusive, and sustainable if we are embracing in our questioning and critique and appreciative of each other’s contributions. This is a building process. I hope that our dialog is developing in that spirit. There is no question that we are all building on the efforts of the institutions that took early steps. Because of the diversity of licenses that are being used in a number of successful OCW projects, we have the opportunity to test our notions about the impact of the NC license feature.</para>
+          <para id="id44352852">Ken</para>
+        </section>
+        <section id="id-631577305542">
+          <title>17. PhilippSchmidt - April 11th, 2007 at 10:14 am </title>
+          <para id="id44352868">Thanks for a fascinating discussion, and sorry for jumping in so very late …</para>
+          <para id="id44352876">Richard, I really liked your short summary of why NC does not make sense. I have been arguing this point for a long time, but don’t think I have been able to explain it as well as you do. Thanks!</para>
+          <para id="id44352887">A few points that were brought up seem related to the perspective we are considering, either that of the teacher/lecturer or that of the students. I find that once we start looking towards students as the sources for content and innovation in education, some things we are still struggling with might start to fall into place more naturally.</para>
+          <list id="id44387152" list-type="bulleted">
+            <item>Wayne said something about still having to crack the nut of getting teachers to remix lectures</item>
+          </list>
+          <para id="id44387162">I propose changing the nutcracker, and getting students to remix the lecture content instead (or in addition rather). They are doing this already on flickr and myspace and facebook - as was pointed out - and the social feedback mechanisms seem to be more powerful incentives for students than for lecturers.</para>
+          <list id="id44387166" list-type="bulleted">
+            <item>The users of our software want quizzes, tests, etc.</item>
+          </list>
+          <para id="id44387175">This is true, only if you ask the lecturers. I would argue that we have not seen a great deal of innovation in teaching and learning, because we have relied on the lecturers to innovate - and they lacked the right incentives. If we want innovation, I think we need to turn to the students. A comparison of free software development models also makes a lot more sense if you include students as “developers” of open education.</para>
+          <para id="id44387194">A friend and I just started blogging about applying some of the incentive mechanisms from software to other fields. Have a look for the grumpy old guys from the muppet show over at <link url="http://icommons.org/">icommons.org</link> if you are interested, and join the conversation.</para>
+          <para id="id44387213">/Philipp (Freecourseware Project, University of the Western Cape)</para>
+        </section>
+        <section id="id-0180292937576">
+          <title>18. richardwyles - 11th, 2007 at 11:20 pm </title>
+          <para id="id44311730">Hi David, I’ve read your post and sure thing, I think all of us in this space are very much aware of the personal effort that goes into this. But I don’t think anyone is detracting from that. I’ll rebut the notion that anyone is being insulting of those efforts. Challenging perhaps, but it’s not an emotive response. In fact I think “ubiquitous politics prevalent in large educational institutions plus general fear of the unknown” is the way I described just what you’re talking about. We’re all working in contexts where we’re trying to move towards openness but have various constraints to overcome. I really like your header “iterating towards openness” as that sums it up nicely.</para>
+          <para id="id44311759">So I think that characterising this as negativity is incorrect. We are having a dialogue on an important issue. Constructive debate is a away for each of us to find some answers and I’ve always found robust discussion as one of the faster ways for me to learn. And even if I agree with Ken or Wayne then it’s often more fun to engage in debate. Wayne’s been on my case for years that I use Windows on a daily basis - arrgh, it’s out in the open now ;-) - but due to our IT department I have to add…</para>
+        </section>
+        <section id="id-0125581832395">
+          <title>19. richardwyles - April 11th, 2007 at 11:30 pm </title>
+          <para id="id43905979">Hi Philipp, I remember those guys from the Muppets - they would end up arguing away until each had completely swapped their positions - best skit on the show. The students as creators is definitely a rich avenue for OERs and you can imagine how rapidly the quality would improve if each course is an iterative improvement on the last and creating the course materials is part of the assessment.</para>
+        </section>
+        <section id="id-683740872828">
+          <title>20. Wayne Mackintosh - 12th, 2007 at 12:34 am </title>
+          <para id="id43906008">Philip wrote: &gt;</para>
+          <para id="id43906013">
+            
+          </para>
+          <para id="id43906020">
+            <quote id="id3741165" display="block">This is why I like the wiki model so much :-) . The openness of the authoring model means that we can conflate the functions of teaching and learners. Learners can become teachers by authoring new content. Teachers can become learners by observing what changes learners are making to the content resources they authored.</quote>
+          </para>
+          <para id="id43906037">So I’m in total agreement with your recommendations!</para>
+        </section>
+        <section id="id-940266775136">
+          <title>21. Wayne Mackintosh - April 12th, 2007 at 1:01 am </title>
+          <para id="id44383075">In response to David’s post</para>
+          <para id="id44383080">
+            
+          </para>
+          <para id="id44383087">David, you make a compelling and valid point: </para>
+          <para id="id44383100">
+            
+          </para>
+          <para id="id44383106">
+            <quote id="id5858556" display="block">“When an institution enters a new world (like the world of open educational resources) we can and should expect the early adopters to move in baby steps, dipping their toes in before diving in head first.”</quote>
+          </para>
+          <para id="id44383114">I think this is true of life, and this argument can provide a justification for the proliferation of the NC restriction in many OER projects.</para>
+          <para id="id44383121">I’d like to respond as an academic. I hold a terminal degree and have spent the majority of my career in the University. I’ve had the privilege of holding senior management positions in the university sector. I also know that you are a pioneer of the “open content” movement - pushing the envelope around free content long before the concept of “Open Education Resources” was coined by that UNESCO meeting. (I was reading your stuff long before you attained guru status :-) ) My point being - Why is it that we as academics “get” the problems of the NC restriction when other academics don’t?</para>
+          <para id="id44383126">Let’s face it - the university is an institution that is endowed with some of the smartest people on the planet. What are the reasons why these smart people don’t get the value proposition of free content when our culture of research is built on sharing knowledge? Both of us as researchers stand on the shoulders the giants that have gone before us. We have no problems sharing knowledge when it comes to research (and attributing our sources) - but we have this aversion to sharing teaching resources. It doesn’t add up.</para>
+          <para id="id44383140">I’m very interested in exploring the reasons why the removal of the NC restriction is such a big step. It doesn’t add up with our core values of academic freedom.</para>
+          <para id="id43719764">mmmmm - another research project?</para>
+        </section>
+        <section id="id-638136220961">
+          <title>22. Ken Udas - April 12th, 2007 at 8:31 am </title>
+          <para id="id43719779">Response to Philipp:</para>
+          <para id="id43719784">I think that you are spot-on. I have been teaching/facilitating online since the mid-90s and have designed each of the classes to be heavily conversational and project-based. With this type of course design, 99% of all content and is generated by the learners during the class experience and all of the learning activities are based on learner contributions. Ignoring what learners create would be an enormous missed opportunity.</para>
+          <para id="id43719796">So, does this speak to some learning design and class facilitation principles, techniques, and patterns that promote the generation of usable and reusable content and learning activities?</para>
+        </section>
+        <section id="id-190110753124">
+          <title>23. Ken Udas - April 12th, 2007 at 10:38 am </title>
+          <para id="id44111235">Response to David/opencontent:</para>
+          <para id="id44111239">Like Richard, I think that there is benefit in hearty and respectful exchange of opinions, but I am really turning to the likes of Rice, USU, MIT, etc. for guidance as early adopters, innovators, and thoughtful practitioners. Although we are just starting to dabble in OER/OCW at Penn State, I believe that there is an enormous watershed of interest in OERs. In fact, I know that there is. My concern is that we turn uncritically to the larger community and just do what the early adopters did. After all, if it is good enough for MIT, USU, CMU, and Tufts surly it is good enough for us. I am in the process of generating a dialog around the importance of:</para>
+          <list id="id44111255" list-type="bulleted">
+            <item>Adopting a standard CC license instead of creating one that is unique to Penn State.</item>
+            <item>Adopting a license that is as open as possible and does not restrict commercial use.</item>
+            <item>Considering how we design materials in such a way that they are most useful to the broadest audience possible (level of granularity, ease of localization, bandwidth challenges, etc.)</item>
+            <item>Thinking about open educational resources that are not courseware.</item>
+          </list>
+          <para id="id44111286">In any event, it is critical for me, and I think other later adopters, to be able to get insights into what is working well and what is not working so well. How we can improve on what is being done, how to avoid some of the pit falls, and how to take advantage of lessons learned. In doing so we are turning to the early adopters in the hopes that they will be reflective and transparent. As Wayne mentions above, it is part of the tradition of standing on the shoulders of giants.</para>
+        </section>
+        <section id="id-732384598275">
+          <title>24. Wayne Mackintosh - April 14th, 2007 at 1:08 am </title>
+          <para id="id43706445">Ken, I must compliment Penn State’s reflective approach based on solid academic tradition, before taking a substantive decision like licensing of OERs. Your institution has the benefit of hindsight which the early pioneers did not have at their disposal.</para>
+          <para id="id43706458">While I’m not an expert on the US Higher Education system - I think that the dialog around this issues you have listed are well aligned with the original mission of the Land Grant universities. The critical question is closely linked to what it means to be a Land Grant university in the knowledge society - particularly with the rapid growth in free content made possible by Web 2.0 technologies.</para>
+          <para id="id43706473">It’s by no means an easy decision - but who said leadership would be easy?</para>
+          <para id="id43706480">Have enjoyed the interactions generated by these replies which confirms that we’re busy with important work!</para>
+          <para id="id43706489">Cheers</para>
+        </section>
+        <section id="id-376327917639">
+          <title>25. Ken Udas - 14th, 2007 at 12:27 pm </title>
+          <para id="id43706507">This was a great exchange. Thank you Wayne and to thanks to everybody who contributed and who have been following along. Stay tuned for the summary, which will be posted soon.</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

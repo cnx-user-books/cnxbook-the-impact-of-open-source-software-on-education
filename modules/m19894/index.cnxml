@@ -1,0 +1,33 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Summary</title>
+  <metadata>
+  <md:content-id>m19894</md:content-id><md:title>Summary</md:title>
+  <md:abstract>Summary of Martin Weller and his post on the Open University’s attempt to create an open API-based social networking system for learning.</md:abstract>
+  <md:uuid>a6d465bd-a517-4d4f-838e-f14194db0d41</md:uuid>
+</metadata>
+
+<content>
+    <para id="id5386383">“Exploring new ways of being open,” the 24th installment of the Impact of Open Source Software Series, was posted on October 14, 2008, by Martin Weller. Martin Weller serves as Professor of Educational Technology at the Open University in the UK. He chaired the OU’s first major online course with 15,000 students, was the VLE Project Director and is now Director of the SocialLearn project. His interests are in elearning, web 2.0 and the implications of new technologies for higher education. He blogs at <link url="http://nogoodreason.typepad.co.uk/" window="new">edtechie.net</link>. Thanks, Martin, for a great posting!</para>
+    <para id="id5386083">Martin starts by framing the term “Open” as it is being applied in education and how the Open University UK is addressing the openness agenda. He points to three projects, at the OU including their adoption of Moodle, the OpenLearn project, and Social Learn, which Martin is directing. Martin first indicates that SocialLearn will serve not only as a way to loosely couple applications thorough an open API to form a Personal Learning Environment (PLE), but also as a platform with the potential for supporting learner derived open curriculum. SocialLearn has the potential to sit significantly enough outside of traditional educational infrastructure and pedagogy, to serve as one of the ways that the OU can influence and accommodate the changing needs and economic models of higher education.</para>
+    <para id="id5386086">Finally, Martin points to the phenomena of disaggregation in higher education, leaving out there the question of its prudence.</para>
+    <section id="id5381395">
+      <title>Comments</title>
+      <para id="id5421338">The dominant theme of the comments had to do with the potential of open learning and the impact of projects like SocialLearn. Responsive Online Learning Environments (ROLE) was introduced, which support not only personal learning, but provide for inter-institutional flexibility, enhancing access. Our fixation with technology was also raised along with questions about what we have done (and not done) with what we already have available and the organizational challenges of openness that we have not yet embraced.</para>
+      <para id="id5470242">Thanks again to Martin for his interesting and insightful post and responses. I also want to extend a big thank you to plefrere, Andreas Meiszner, and David Mcquillan for adding to the post, and other folks who have been reading along. On November 5th, Cole Camplese will be making a post to the Series. Cole serves as the Director of Education Technology Services at the Pennsylvania State University, and in his post he will investigate the changing role of the web as a platform and he will ask some critical questions about our own future. I have had the opportunity now to work in the same organization with Cole for over two years and always find his conversation, line of questions, and various shenanigans, stimulating. I am looking forward to what will surly be a thought provoking and entertaining post!</para>
+      <para id="id5386050">The schedule for the series can be found on <link url="http://www.wikieducator.org/Open_Source_Software_in_Education_Series_on_Terra_Incognita" window="new">WikiEducator</link>.</para>
+    </section>
+    <section id="id5386170">
+      <title>Comments on Summary</title>
+      <section id="id5358453">
+        <title>1. GMC - November 25th, 2008 at 2:38 am </title>
+        <para id="id4753874">I really am looking forward to seeing where the Open Learning concept and technology take us in years to come.</para>
+      </section>
+      <section id="id5442002">
+        <title>2. myclass - February 5th, 2009 at 5:08 pm </title>
+        <para id="id5286894">I like the Open Source World. Would you consider Google Apps open source?</para>
+        <para id="id5286900">I have also used OpenOffice.</para>
+        <para id="id5252526">Richmond Virginia</para>
+      </section>
+    </section>
+  </content>
+</document>

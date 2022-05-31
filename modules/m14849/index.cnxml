@@ -1,0 +1,31 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Dick Moore - Summary - In-source, out-source, open-source, right-source</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>b317a666-7126-4b44-aac0-87552aae184f</md:uuid>
+</metadata>
+  <content>
+    <section id="id-550394429497">
+      <title>Summary - Running a Service Not a System</title>
+      <para id="id6556824">“Running a Service Not a System,” the eleventh installment of the Impact of Open Source Software Series, was posted on July 25th, 2007, by Dick Moore who serves as Director of Technology at Ufi, where he looks after four teams that design, build and maintain learndirect’s IT infrastructure. Thanks Dick for a great posting!</para>
+      <para id="id7497269">In his posting Dick provided some background on Ufi and learndirect, and then turned his attention to what it takes to “run a service” rather than just running a system. He then described some of his experiences with proprietary and open source tools and some of the rationale behind selecting OSS monitoring tools. Much of Dick’s posting addressed the drivers and rationale for learndirect to in-source much of their IT infrastructure and to use OSS to perform appropriate mission critical functions. Dick sums-up his posting with the following key points:</para>
+      <list list-type="bulleted" id="id7865775">
+        <item>Don’t confuse running a Service and running an application. Monitoring and non-functional requirements such as usability, supportability, maintainability, availability make the difference.</item>
+        <item>Monitoring and its application is critical in running a service</item>
+        <item>Getting a technology strategy that supports the business and recognizes that once started it’s often expensive to change.</item>
+        <item>In-sourcing /out-sourcing right-sourcing will impact what you have control of.</item>
+        <item>Open source tools can be used to run world-class infrastructure.</item>
+      </list>
+    </section>
+    <section id="id-0198983529104">
+      <title>Comments</title>
+      <para id="id4924578">The comments spanned a few areas including:</para>
+      <list list-type="bulleted" id="id3432288">
+        <item>the impact of OSS on strategy,</item>
+        <item>organizational drivers that influenced learndirect’s use of OSS,</item>
+        <item>the nature of customization that learndirect requires in its course management system,</item>
+        <item>evaluation criteria used for selecting OSS, and</item>
+        <item>the advantages and challenges associated with adopting OSS.</item>
+      </list>
+      <para id="id7392424">Thanks again to Dick, for his insightful post and excellent responses to all questions, and other folks who have been reading along. We are taking the month of August off, but will be starting the series again on September 5th. </para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,26 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Summary</title>
+  <metadata>
+  <md:content-id>m19879</md:content-id><md:title>Summary</md:title>
+  <md:abstract>Summary of Steve Foerster's post on the American legal system’s concept of fair use of copyrighted materials as it relates to education.</md:abstract>
+  <md:uuid>aa6f5f2c-a78c-45c9-a6f4-e84587ba0dd7</md:uuid>
+</metadata>
+
+<content>
+    <para id="id20688539">“Fair Use as a Complement to Open Licensing,” the seventeenth installment of the Impact of Open Source Software Series, was posted on November 14th, 2007, by Steve Foerster who currently serves as the Director of E-Learning at Marymount University in Arlington, Virginia, where he oversees distance learning, instructional technology, and technical training. He is also on the Advisory Board of WikiEducator, a Commonwealth of Learning funded project to develop a complete set of open educational resources for all disciplines at the primary, secondary, and tertiary level by 2015. Thanks Steve for a great posting!</para>
+    <para id="id23458307">In his posting Steve provides an overview description of the US doctrine of Fair Use, which points to the issue of appropriate use of copyrighted materials for educational purposes. In his post Steve:</para>
+    <list id="id22130954" list-type="bulleted">
+      <item>Provides some background,</item>
+      <item>Identifies the factors that the court will use when considering the application of Fair Use,</item>
+      <item>Identifies some of the challenges and limitations of Fair Use, and</item>
+      <item>Points to a method to help reduce the ambiguity associated with using Fair Use as a defense against copyright infringement.</item>
+    </list>
+    <para id="id23590396">The thrust of Steve’s post is that Fair Use, by its nature, carries significant ambiguity causing some confusion and anxiety for actors who would like to rely on it as a means to enhance education through the use of copyrighted materials. He then points to a potential solution that reduced ambiguity around Fair Use, which was used by several documentary film organizations. The documentary filmmakers drafted a Statement of Best Practices in Fair Use for their industry, which provided context for others interested in applying Fair Use and to serve as guidance for court interpretations. Steve suggested that we might consider the same approach for teachers and professors.</para>
+    <section id="id23895406">
+      <title>Comments</title>
+      <para id="id22142754">Steve engaged in some dialog about the use and limitations of Fair Use. It was pointed out the Fair Use is a US doctrine, but although this is true, there is a related doctrine in the Commonwealth referred to as <link url="http://en.wikipedia.org/wiki/Fair_dealing" window="new">Fair Dealing</link>, which might also be a good starting point. The Teach Act was also raised and clarification was provided about its strengths and limitations. In the end, the idea of creating some documentation about best practice was raised as a sound method to develop clarity on the use of Fair Use, Guidance for the Courts, and preservation of the doctrine itself.</para>
+      <para id="id20314248">I think that it is worth pointing out that the last posts, Fair Use as a Complement to Open Licensing and Coase’s University: Open Source, Economics, and Higher Education, have resulted in recommendations for projects designed to provide clarity of practitioners. I believe that Fair Use, in the case of Steve Foerster’s posting, and Commons Based Peer Production (CBPP), in the case of Michael Feldstein’s posting are both potentially important enablers for teachers and more generally for education organizations. It is my hope that projects are pursued.</para>
+      <para id="id24030007">Thanks again to Steve for his interesting and insightful post and responses, and Wayne for making this a great exchange, and other folks who have been reading along. Please join in again on November 28th when Leigh Blackall outlines the steps that Otago Polytechnic has taken in developing new capacity with Open Educational Resources, as well as some of the challenges being faced, and the vision for their future. The schedule for the series can be found on <link url="http://www.wikieducator.org/Open_Source_Software_in_Education_Series_on_Terra_Incognita" window="new">WikiEducator</link>.</para>
+    </section>
+  </content>
+</document>

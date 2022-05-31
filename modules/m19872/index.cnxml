@@ -1,0 +1,19 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Introduction - Stuart Sim</title>
+  <metadata>
+  <md:content-id>m19872</md:content-id><md:title>Introduction - Stuart Sim</md:title>
+  <md:abstract>Introduction to Stuart Sim's post. He shares some of his experiences with open source software from the perspective of a system architect and his activities in the business of supporting and growing open source applications.</md:abstract>
+  <md:uuid>abfb1bad-aa60-41e8-a720-6f7d89b9f161</md:uuid>
+</metadata>
+
+<content>
+    <para id="id19035940">I want to welcome Stuart Sim and thank him for agreeing to contribute to the Impact of Open Source Software and Open Educational Resources on Education series on Terra Incognita. Although his post was scheduled to appear on April 1st, 2008 (eastern U.S.), Stuart has run into problems that have delayed the posting. We will delay the posting by about a week. Stuart will be sharing some of his experiences with open source software from the perspective of a system architect and his activities in the business of supporting and growing open source applications.</para>
+    <figure id="id20326474"><media id="id20326474_media" alt="Stuart Sim">
+        <image mime-type="image/jpg" src="../../media/graphics1-7fb8.jpg" id="id20326474__onlineimage" height="133" width="115"/>
+      </media>
+    <caption>Stuart Sim</caption></figure>
+    <para id="id21692933">Stuart Sim serves as the Chief Technology Officers and Chief Architect of <link url="http://www.moodlerooms.com/" window="new">Moodlerooms</link>, which provides comprehensive technical support services to the <link url="http://moodle.org/" window="new">Moodle</link> course management system open source software. Stuart has spent the past 15 years developing enterprise solutions around the world in the education and financial sectors. His core expertise is in the design and delivery of large-scale implementations using combinations of classic and innovative development methodologies in distributed multi-disciplinary environments.</para>
+    <para id="id22201442">Prior to joining Moodlerooms, Stuart served as the Chief Architect of the Education Business Solutions group at Sun Microsystems. At Sun, he was involved with the development and promotion of open standards in education systems design to drive down the barrier of adoption of practical technical solutions using open source projects.</para>
+    <para id="id22220609">I met Stuart while I was working at the SUNY Learning Network and he was at Sun. Since then Stuart’s work has started to addresses some of the traditional concerns at universities about deploying an open source learning management system, opening opportunities for schools of varying capacity. Please feel free to comment (early and often!), ask questions, build on the conversation, and enjoy.</para>
+  </content>
+</document>

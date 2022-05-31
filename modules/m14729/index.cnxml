@@ -1,0 +1,580 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>FLOSS, OER, Equality and Digital Inclusion</title>
+  <metadata>
+  <md:content-id>m14729</md:content-id><md:title>FLOSS, OER, Equality and Digital Inclusion</md:title>
+  <md:abstract>Kim Tucker's contribution to the "OSS and OER in Education Series." In this post, he touches on a number of related topics that integrate Free Libre Open Source Software (FLOSS) and free knowledge and equality in education, while also posing questions about what we mean by equality in education and the implications for digital inclusion. The term “libre” distinguishes freeware (gratis software) from free software, which encompasses use, modification, and distribution.</md:abstract>
+  <md:uuid>a55dfd3c-97b9-4ff5-ade9-5b12ddadf739</md:uuid>
+</metadata>
+
+<content>
+<para id="eip-675"><note id="eip-id5653187" type="Author Information">Author - Kim Tucker, "FLOSS, OER, Equality and Digital Inclusion". Originally submitted May 2nd, 2007 to the OSS and OER in Education Series, Terra Incognita blog (Penn State World Campus), edited by Ken Udas.</note></para><section id="Introduction">
+<title>FLOSS, OER, Equality and Digital Inclusion</title>
+    <para id="element-529">This posting is intended to direct the discussion towards the rationale
+      for <link url="http://en.wikipedia.org/wiki/Software_libre">software libre</link> in education
+      and the broader impact on <link url="http://en.wikipedia.org/wiki/Sustainable_development">sustainable development</link>.</para>
+    <para id="element-987">I start by revisiting the topic for the series, and share some
+      experiences to re-emphasise a few of the points made in previous postings. I move on to
+      recontextualise the discussion with respect to the big picture, pose some questions for
+      discussion and invite participants to suggest additional questions which may arise</para>
+</section>    
+    <section id="topic_revisited">
+      <title>Topic Revisited</title>
+      
+    <para id="element-479">Regarding the topic, “Impact of OSS on Education,”
+      I suspect that both education and software development are subject to similar influences as
+      technology enables connections among people with common interests and learning needs.</para>
+    <para id="element-462">For example, it is difficult to determine the impact of <link url="http://en.wikipedia.org/wiki/FOSS">FLOSS</link> (Free Libre Open Source Software) on
+      education - the context is enabling educators and learners to benefit from the connectedness
+      FLOSS communities have enjoyed and made good use of for more than a decade. Knowledge sharing
+      across FLOSS and <link url="http://en.wikipedia.org/wiki/Open_educational_resources">OER</link> communities seems to have streamlined (stimulated, facilitated and catalysed)
+      FLOSS adoption and technology-assisted collaborative learning in the education space. Several
+      FLOSS projects have been pedagogically inspired (e.g. <link url="http://www.moodle.org">Moodle</link>, <link url="http://fle3.uiah.fi">Fle3</link>, <link url="http://avoir.uwc.ac.za">Kewl.NextGen</link>, etc.), while others have been orientated
+      (initially or primarily) towards administration (e.g. <link url="http://www.sakaiproject.org/">Sakai</link>, <link url="http://www.schooltool.org/">SchoolTool</link>, etc.).</para>
+    <para id="element-692">FLOSS communities, and more recently Wikipedia communities, have been
+      inspirational in demonstrating what can be achieved through <link url="http://en.wikipedia.org/wiki/Commons-based_peer_production">commons-based peer
+        production</link>. We are rising to the challenge of realising this level of success in
+      education through libre and open resources for education. Efforts in this direction include
+        <link url="http://cnx.org">Connexions</link>, <link url="http://wikieducator.org">Wikieducator</link> and <link url="http://exelearning.org">eXe</link>, <link url="http://lemill.net/">Le Mill</link>, <link url="http://educommons.org">EduCommons</link>, <link url="http://www.wikiversity.org">Wikiversity</link>, and many more.</para>
+    <para id="element-302">All of these run on FLOSS platforms, all have followed open (transparent)
+      development processes, and all carefully consider open standards and reusability of learning
+      components (variously called learning objects, iDevices, etc, …).</para>
+    <para id="element-388">However, for reusability in education, “localisation/
+      recontextualisation is always required.” The educational and learning needs vary
+      across contexts. Interestingly, agile software development teams seldom code for re-use unless
+      development of re-usable components is core to their business (Alistair Cockburn, late 1990s,
+      Cape Town; see for example <link url="http://c2.com/xp/DoTheSimplestThingThatCouldPossiblyWork.html">DoTheSimplestThingThatCouldPossiblyWork</link>).</para>
+    <para id="element-811">Note that this type of peer production activity has been most evident in
+      the “developed” world. <link url="http://www.benkler.org">Yochai
+      Benkler</link> emphasizes that most of his research on peer production has focused on the more
+      powerful economies.</para>
+    <list id="element-619" list-type="enumerated">
+      <item>Is the learning from and between FLOSS, OER and other peer production case studies
+        applicable in “developing” economies?</item>
+      <item>What are the priorities for education, and how could FLOSS have an impact?</item>
+      <item>What are the motivators and barriers to FLOSS adoption?</item>
+      <item>If we were to overcome those barriers and provide physical access to the
+        world’s knowledge resources (via FLOSS), would we achieve
+        “equality”?</item>
+    </list>
+    </section>
+    
+    <section id="A1">
+      <title> A1. Is the learning about FLOSS, Open Content and peer production applicable in
+        developing economies?</title>
+    <para id="element-871">Most of the population does not have access to the facilities that enable
+      peer-production (personal computers, the Internet and high bandwidth). However, the cultures
+      seem well disposed towards collaborative knowledge production.</para>
+    <para id="element-993">“Developing” countries typically include
+      “developed” areas functioning as part of the global knowledge economy.</para>
+    <para id="element-157">Conversely, some “developed” countries face
+      challenges normally associated with “developing” countries (such as
+      poverty, health issues, unemployment, unequal access to education and public services, etc.) -
+      though the scales may be vastly different.</para>
+    <para id="element-865">Developing countries are generally not entrenched in set ways of using
+      ICT in education. This is an opportunity to develop, adopt and adapt new and contextually
+      appropriate approaches, and to build innovative supporting software infrastructures to address
+      local/regional needs. FLOSS, free/open content, open standards, and <link url="http://en.wikipedia.org/wiki/Free_file_format">free file format</link>s permit this
+        <link url="http://www.ftisa.org.za">freedom to innovate</link>.</para>
+    <para id="element-757">By addressing the issues where they can be addressed, we will be better
+      prepared to service new areas and people when they become connected (for example, if software
+      and learning resources are already localised)</para>
+    </section>
+    
+        <section id="A2">
+      <title>A2. What are the priorities for education, and how could FLOSS have an
+      impact?</title>
+    <para id="element-915">In many schools, the priorities are for buildings, water supply,
+      electricity, nutrition for the learners, health, etc.. These needs mirror those of the
+      communities. If <link url="http://searchsmb.techtarget.com/sDefinition/0,,sid44_gci928405,00.html">ICT</link>
+      (Information Communications Technology) is indeed an enabler for meeting development needs,
+      then the priority software and knowledge resources are those which facilitate access to
+      knowledge on sustainable agriculture, primary health care, technical/vocational and
+      entrepreneurial skills, and survival in the relevant context.</para>
+    <para id="element-406">There is a worldwide shortage of teachers, and learners do not
+      necessarily have parents available to support them in doing what it takes to get an education.</para>
+    <para id="element-399">HIV AIDS is having an impact on the age pyramid in developing countries,
+      eroding not only the aged cohorts, who form a key part of the extended family support systems,
+      but of the current adult generations. The result is a lack of leadership from the aged, a lack
+      of income and parental care, and care for the aged - a lost generation “Beyond
+      Thunderdome.”</para>
+    <para id="element-371">Institutions might (initially) prioritise administrative software over
+      pedagogically inspired technology and resources. Learners the reverse, and educators need
+      both. FLOSS packages for both of these functions are gradually being integrated.</para>
+    <para id="element-129">Efforts to localise software may lead to redesign and development of
+      completely new systems after analysing the local needs.</para>
+    <para id="element-56">Creating one’s own educational resources, relevant to the local
+      context, may prove easier and more effective than re-using resources obtained from elsewhere.</para>
+    <para id="element-922">Priorities may be viewed from a global level. For example, FLOSS and open
+      content show great promise towards the “Education for All” goal (<link url="http://en.wikipedia.org/wiki/UNESCO">UNESCO</link> and others), and are key enablers
+      towards achieving the <link url="http://www.un.org/millenniumgoals/">Millennium Development
+      Goals</link>.</para>
+          </section>
+        <section id="A3">
+<title>A3. What are the motivators and barriers to FLOSS adoption?</title>
+    <para id="element-205">
+      <emphasis>Motivators</emphasis>
+    </para>
+    <para id="element-367">In South Africa, after some lobbying by technical people with an
+      understanding of the broader implications, the motivation for FLOSS adoption in government was
+      driven top-down. The intention is to release funds previously earmarked for software licensing
+      for use in capacity development and for addressing other development needs, while developing
+      the local ICT industries and effecting self-determination (at least in terms of the software
+      we use). The following documents were produced as part of the process:</para>
+    <list id="element-773" list-type="bulleted">
+      <item>2002 Open Software &amp; Open Standards in South Africa: A Critical Issue for
+        Addressing the Digital Divide <link url="http://www.naci.org.za/floss/">http://www.naci.org.za/floss/</link></item>
+      <item>2003 Using open source software in the South African government: a proposed strategy
+        compiled by the Government Information Technology Officers’ Council <link url="http://www.oss.gov.za/">http://www.oss.gov.za/</link></item>
+      <item>2004 Free/Libre and Open Source Software and Open Standards in South Africa: A Critical
+        Issue for Addressing the Digital Divide <link url="http://www.naci.org.za/floss/">http://www.naci.org.za/floss/</link></item>
+      <item>2005 Declaration on the South African National Strategy on Free and Open Source Software
+        and Open Content (“National Open Source Strategy”) <link url="http://wiki.go-opensource.org/taskforce/">http://wiki.go-opensource.org/taskforce/</link></item>
+      <item>2007 Policy on Free and Open Source Software use for South African government <link url="http://www.oss.gov.za/">http://www.oss.gov.za/</link></item>
+    </list>
+    <para id="element-316">However, some government departments have gone ahead of this process and
+      conducted partial FLOSS migrations of their own. I expect this type of “do what is
+      needed” will continue with innovative individuals leading in response to the needs
+      of the communities they serve.</para>
+    <para id="element-866">Motivation at other levels typically relate to improved software
+      development processes, greater flexibility and reduced licensing costs.</para>
+    <para id="element-11">A key motivator implicit in this posting is to do the right thing.</para>
+    <para id="element-875">
+      <emphasis>Barriers</emphasis>
+    </para>
+    <para id="element-704">The barriers to FLOSS adoption were discussed previously (see posting by
+      Pat Masson). More generally, in terms of participation in the knowledge society, using current
+      technology, there are several building blocks which reflect part of the challenge we face for
+      maximum impact:</para>
+    <list id="element-877" list-type="enumerated">
+      <item>Basic literacy - learn to read, ideally in one’s own language.</item>
+      <item>Computer literacy - e.g. mouse, keyboard, files and folders, …, or the
+        equivalent features on a cell phone, etc.</item>
+      <item>Using office software - for employability.</item>
+      <item>Content (co-)creation - localisation and creation of multimedia knowledge resources.</item>
+      <item>Sharing resources.</item>
+
+      <item>Engaging in decision making processes at higher levels.</item>
+    </list>
+    <para id="element-996">What opportunities do these present to FLOSS and OER developers, and to
+      the communities of users? Which initiatives exist already providing or developing such
+      building blocks? What should be prioritised to streamline participation in the global
+      knowledge society?</para>
+          </section>
+        <section id="A4">
+      <title>A4. If we could provide access to all the world’s knowledge and
+        educational resources, would we have “equality in education”? What
+        does that mean? </title>
+    <para id="element-62">Equality does not end at “access” unless we define
+      “access” to mean physical access (to a computer or some other device)
+      with sufficient bandwidth, and the ability to use the resources effectively. Relevance of the
+      resources is important, as is the freedom to adapt/modify and share alike.</para>
+    <para id="element-966">The barriers alluded to previously apply.</para>
+    <para id="element-364">
+      <emphasis>Some General Comments</emphasis>
+    </para>
+    <para id="element-895">
+      <emphasis>Early Adoption of FLOSS by the OER Community</emphasis>
+    </para>
+    <para id="element-346">The OER community is quick to adopt FLOSS and develop and integrate
+      features to support their learners. Recently, this has been incorporation of Web 2.0 features
+      (mashups, use of resources such as <link url="http://del.icio.us">del.icio.us</link>, <link url="http://flickr.com/">Flickr</link>, <link url="http://youtube.com/">YouTube</link>,
+        <link url="http://maps.google.com/">GoogleMaps</link>, etc.). This is all great - where
+      sufficient bandwidth is available at all times.</para>
+    <para id="element-141">
+      <emphasis>Bandwidth and Learning Resources</emphasis>
+    </para>
+    <para id="element-652">Recognising the bandwidth issue in much of the developing world, a group
+      of people came up with the idea of “Education in a Box” which later
+      became “Education out of the Box” - a collection of CDs containing FLOSS
+      and free/open content for Education. The intention was to set up a web site with resources
+      from which one could select and download for use in a local setting. The recipients would be
+      free to use, copy, learn with, adapt, improve and share - i.e. take control of their own
+      destinies and offer professional services (such as localisation, redistribution, support,
+      etc.) enhancing the potential impact of these resources on meeting local needs.</para>
+    <para id="element-296">The project did not receive direct funding but was supported indirectly
+      by the Developer Roadshows (OSI, <link url="http://www.osisa.org/">OSISA</link> and <link url="http://www.osiwa.org/en/node">OSIWA</link>). It is a “libre
+      project” - anyone is free to take <link url="http://www.developer-roadshow.org/wa/wiki/CurrentContentOfEducationOutofTheBox">the
+        idea</link> further in their own way.</para>
+    <para id="element-450">Initiatives in South Africa which provide FLOSS and free/open content,
+      which have exchanged notes, include the <link url="http://www.digitaldoorway.co.za">Digital
+        Doorway</link> (minimally invasive education), the <link url="http://www.freedomtoaster.org">FreedomToaster</link>, and <link url="http://www.tuxlabs.co.za">tuXlabs</link>. The latter
+      started out deploying FLOSS computer labs in schools, developing an effective methodology for
+      doing this. At last count there were over 240 schools with tuXlabs. <link url="http://www.schoolnet.na">SchoolNet Namibia</link> has done something similar with over
+      340 schools so far. The FreedomToaster provides FLOSS and some free educational content to
+      anyone who arrives with blank CDs/DVDs. The digital doorway provides access to people in
+      environments not normally suitable for computers (on account of crime and vandalism for
+      example).</para>
+    <para id="element-778">For connectivity within a community, the <link url="http://wirelessafrica.meraka.org.za">WirelessAfrica</link> project suggests ways in
+      which a community may set up a network. If there is high bandwidth to the Internet available
+      somewhere in the community, everyone may gain access via the mesh.</para>
+    <para id="element-42">Computer labs may not be a great way to support learning with ICT in
+      schools with limited resources. <link url="http://www.laptop.org">One laptop per child</link>
+      is one alternative poised to be launched in several countries in the near future. Mobile phone
+      penetration tends to be much higher in developing countries than for personal computers. <link url="http://mobiled.uiah.fi">MobilED</link> is one project exploring use of mobile phones in
+      education.</para>
+    <para id="element-276">In terms of language barriers, there are research projects looking at
+      tools to help with translation, text to speech, etc. See for example, the work of the <link url="http://www.meraka.org.za/hlt">Meraka Institute’s HLT group</link></para>
+    <para id="element-314">Regarding FLOSS capacity building see <link url="http://openicdl.org">Open ICDL</link> and <link url="http://learnlinux.tsf.org.za/">Learn Linux</link> as two
+      examples in South Africa. More broadly, a new project is starting to gain momentum: <link url="http://www.wikieducator.org/FLOSS4Edu">FLOSS4Edu</link>.</para>
+    <para id="element-85">The golden thread running through all the initiatives above is the
+      emphasis on FLOSS and sharing the learning - libre knowledge.</para>
+    <para id="element-449">I hope the trend generalises towards a vision such as
+      “Enabling individuals and communities to empower themselves with knowledge, towards
+      wisdom, for a sustainable world”.</para>
+    <para id="element-569">Defining “equality” is difficult, and the
+      challenges around achieving it are significant. It seems to me that best we can do is
+      endeavour to maximise the options and opportunities for individuals and the freedoms to take
+      these opportunities, whatever their context.</para>
+    <para id="element-809">The reading list below is indicative of the perspective of this posting.</para>
+      </section>
+      <section id="Reading_list">
+        <title>Reading List and Links</title>
+        <list id="element-817" list-type="bulleted">
+      <item>Yochai Benkler - <link url="http://www.benkler.org">The Wealth of Networks</link></item>
+
+      <item>Lawrence Lessig - <link url="http://www.free-culture.cc/">Free culture</link></item>
+      <item>Richard Stallman - <link url="http://www.gnu.org/doc/book13.html">Selected Essays</link></item>
+      <item>Eric von Hippel - <link url="http://web.mit.edu/evhippel/www/books.htm">Democratising
+          Innovation</link></item>
+      <item>Amartya Sen - <link url="http://en.wikipedia.org/wiki/Development_as_Freedom">Development as Freedom</link></item>
+      <item>
+        <link url="http://en.wikipedia.org/wiki/Libre_knowledge">Libre Knowledge</link>
+      </item>
+      <item>
+        <link url="http://www.gnu.org">Free Software</link>
+      </item>
+      <item>FLOSS research: <link url="http://www.flossworld.org">FLOSSWorld</link>, <link url="http://www.flosspols.org;">FLOSSpols</link> and other projects linked at these sites.</item>
+
+      <item><link url="http://www.iosn.net/foss-primers/">UNDP FOSS Primers</link>.</item>
+      <item><link url="http://www.singazenzela.org">Singazenzela</link> - an isiZulu Word meaning
+        ‘we can do things for ourselves’.</item>
+      <item><link url="http://www.meraka.org.za">Meraka</link> - contributing to the digital meraka
+        (a word used in Sesotho, Sesotho sa Leboa and Setswana to refer to an area of shared land
+        most commonly used for cattle grazing - a commons).</item>
+        </list>
+        </section>
+      <section id="comments">
+        <title>Comments</title>
+    <para id="element-972">
+      <emphasis>7 Responses to “FLOSS, OER, Equality and Digital
+      Inclusion”</emphasis>
+    </para>
+    <para id="element-471"><emphasis>1. Ken Udas - May 3rd, 2007 at 4:55 am</emphasis>
+
+    </para>
+    <para id="element-911">Kim, I have found this to be a very thought provoking and information
+      rich posting. As I read through the questions that you asked and the abbreviated responses
+      that you provided, I kept returning to a number of related questions of my own. The principal
+      question being:</para>
+    <para id="element-43">Is there the need to develop curriculum around commons-based peer
+      development?</para>
+    <para id="element-882">That is, would treating commons-based peer development through the formal
+      educational curriculum in primary, secondary, and tertiary education across an array of topics
+      and subject areas strike at equity issues associated with access? Would it help to generate a
+      culture that supports and actively promotes peer development, investment in technologies that
+      support collaborative creation, law that favors (reduces barriers and creates incentives)
+      community production, etc?</para>
+    <para id="element-849">If so, it would seem natural for FLOSS and OER to be used as practical
+      applications areas within a curriculum and also serve as sources of examples (artifacts) to be
+      studied and refined. If it were possible to integrate commons-based peer development into an
+      action-oriented curriculum, following for example a participatory action research approach to
+      facilitated teaching and learning, a virtuous cycle could develop in which FLOSS and OER
+      production and use impacts education, formal education becomes directly relevant to societal
+      change, and societal change in turn promotes and is fueled by the use of FLOSS and OER in
+      education. Eventually the application of the skills and patterns developed through the active
+      study of commons-based peer development are also applied to the production of other
+      intellectual capacity (work flows, processes, physical artifacts, etc.).</para>
+    <para id="element-6">In partial response to your first question, “<cite><cite-title>Q1. Is the
+        learning from and between FLOSS, OER and other peer production case studies applicable in
+        “developing” economies?</cite-title></cite>” I believe that a curriculum
+      that includes commons-based peer development principles would be more likely to thrive in
+      “developing” economies than in developed economies that have a whole
+      value system based on deformed information markets (artificial barriers that impede the free
+      flow of information and ideas).</para>
+    <para id="element-271"><emphasis>2. Wayne Mackintosh -May 4th, 2007 at 12:03 am </emphasis>
+    </para>
+    <para id="element-86">Hey Kim, Its always a pleasure to read your postings on libre content!
+      Your coverage of cutting edge projects across the globe is impressive and you always provide a
+      wealth of resources and links to what is going on in the field - particularly from the
+      developing world perspective. South Africa is becoming a global leader in FLOSS and free
+      content adoption, and I can assure you that we are learning much from your experiences. Thanks
+      for an informative and challenging post!</para>
+    <para id="element-496">The general public may not be aware of this — but your
+      leadership thinking around the concept of “free knowledge communities'’
+      which evolved to libre communities was an instrumental catalyst in the foundation of
+      WIkiEducator. Thanks for the inspiration!</para>
+    <para id="element-600">I’m very pleased that you raised the issue of bandwidth in
+      your post. Sadly most of the industrialized world uses bandwidth as an excuse to focus on
+      legacy technologies for development at the expense of the potential of digital technologies
+      for creating development futures.</para>
+    <para id="element-567">For example - it’s relatively easy to develop wiki ==&gt;
+      pdf technologies that would provide access to learners in Africa who do not have connectivity.
+      At COL we are working on funding solutions (with a very restricted budget ..;-( ) to achieve
+      these objectives.</para>
+    <para id="element-860">So I guess my question is how do we lobby the donor community and free
+      content projects to collaborate on the technological solutions that will make a difference in
+      Africa?</para>
+    <para id="element-72">In other words - how do we make the future happen for Africa using free
+      content?</para>
+    <para id="element-44">I can assure you that we’ll be collaborating with you to
+      achieve these ideals</para>
+    <para id="element-307">Cheers, Wayne </para>
+    <para id="element-312"><emphasis>3. Kim Tucker - May 7th, 2007 at 7:09 am </emphasis>
+    </para>
+    <para id="element-730">Response to Ken:</para>
+    <para id="element-727">I am glad you raise additional questions. Drawing out “good
+      strategic questions” is one of the most significant things we can do in this
+      process.</para>
+    <para id="element-745">Questions draw us towards the future (”which will be different
+      from the past” to quote Wayne) … sowing the seeds of action in the now
+      …. </para>
+    <para id="element-648">This is what we tried to do while discussing a research agenda for OER -
+        <link url="http://oerwiki.iiep-unesco.org/index.php?title=OER_research_agenda">http://oerwiki.iiep-unesco.org/index.php?title=OER_research_agenda</link>&gt;</para>
+    <para id="element-971">Re: Is there the need to develop curriculum around commons-based peer
+      development?</para>
+    <para id="element-84">Certainly include cbpp-like learning activities (among others) for most
+      curriculi (learn by doing) - reminiscent of progressive inquiry and social constructionist
+      activities highlighted in FLOSS such as <link url="http://fle3.uiah.fi">http://fle3.uiah.fi</link> and <link url="http://www.moodle.org">http://www.moodle.org.</link> [In both of these, developments in the software were inspired
+      by learning theory (and not the other way round)].</para>
+    <para id="element-576">For teacher training curriculi … yes! - facilitating learning
+      via cbpp. If learners have access, collaboration with peers will occur, the challenge for
+      teachers is to become facilitators and keep the learners “productive”
+      towards common goals. In South Africa, it has been our experience that it is difficult to
+      convince teachers to change their ways (another challenge) - building this into teacher
+      training will ensure that the new crop of teachers is well primed.</para>
+    <para id="element-741">I agree it would strike at equity issues: enabling people to empower
+      themselves with knowledge and to be able to engage in cbpp.</para>
+    <para id="element-431">One of Yochai Benkler’s claims is that “when you
+      have the kind of information/cultural production system that wikipedia represents, injected
+      into modern complex democracies, you can see significant improvements in autonomy, democracy
+      and, to a limited extent but with some probability, social justice or at least a more just
+      form of global development.” (YB, Wikimania 2006).</para>
+    <para id="element-820">My concern is that most people in developing countries do not have
+      access, so such benefits will not be as pronounced or immediate. In the interim, it might be
+      better to assemble connected experts in the countries to produce base educational content of
+      high quality and get that out there however possible (e.g. in printed form as Wayne suggests)
+      - perhaps including peer production-type or social construction activities which do not
+      require Internet access. Again, skilled facilitation may be necessary to achieve inclusiveness
+      among participants.</para>
+    <para id="element-200">Re: would it help to generate a culture that supports and actively
+      promotes peer development, … [and] … law that favors …
+      community production, etc?</para>
+    <para id="element-122">One thing we must do is question our assumptions, and I suspect there are
+      some in the implicit affirmative answer to this question. Would it help what? (reduce
+      inequalities of access to knowledge/learning?). Whom would it help in what way? (those that
+      are ahead already may simply move further ahead together at a faster rate). When? (only after
+      people have physical access to computers and the Internet?). Why do we think this is
+      important? (will it lead to a sustainable planet and world peace?).</para>
+    <para id="element-386">A question which arises for me (which might help map out intermediate
+      objectives) is “Why do we not have such a culture right now?” - Perhaps
+      we do, but behaviour is modified by the restrictive legal and economic climate created by
+      those with a vested interest in outdated business models (Wikipedia, Apache and GNU/Linux
+      exist in spite of the dominant economic models and legal climate). The Creative Commons offers
+      a way round the legal restraints, and we see a blossoming of new business models in the open
+      source world (http://www.opensourcestrategies.org/ ) and in publishing (e.g. <link url="http://icommons.org/2007/03/29/new-business-models-are-catching-on-%e2%80%93-lethem-gives-away-film-rights/">http://icommons.org/2007/03/29/new-business-models-are-catching-on-%e2%80%93-lethem-gives-away-film-rights/</link>).</para>
+    <para id="element-375">However, there is still a need to counter the pervading overly
+      restrictive copyright regime.</para>
+    <para id="element-146">So, I agree, it would help to embed cbpp activities across the
+      curriculum, and to use FLOSS and free/libre/open resources for education as examples, etc.</para>
+    <para id="element-980">Re: the virtuous cycle you described:</para>
+    <para id="element-805">The chain might well work. It reminds me of what sounded to me like an
+      empassioned plea from Larry Lessig at Wikimania last year: to demonstrate the benefits of
+      cbpp, sharing of knowledge and a read-write Internet to society in areas beyond Wikipedia.
+      Efforts in the education space (such as Wikieducator, LeMill, Connexions, Wikiversity,
+      Educommons, OCW, etc.) may turn out to be particiularly significant in this regard.</para>
+    <para id="element-55">Some education systems are moving in compatible directions. In South
+      Africa there has been a move towards “outcomes-based education (and
+      training)” - OBE(T). <link url="http://www.saqa.org.za/show.asp?main=structure/nqf/docs/curricul2005.html&amp;menu=docspol">http://www.saqa.org.za/show.asp?main=structure/nqf/docs/curricul2005.html&amp;menu=docspol</link></para>
+    <para id="element-845">One would assume that once the required outcomes are defined, there is
+      some freedom permitted in the approach to achieving those objectives. The materials produced
+      in this process are released to the public domain. However, the process seems bogged down in
+      bureaucracy and the complexities of gaining approval from SAQA. It has also proved difficult
+      to convince educators to change their ways towards becoming facilitators of technology
+      assisted learning (rather than fountains of knowledge).</para>
+    <para id="element-385">The Thutong portal <link url="http://www.thutong.org.za/">http://www.thutong.org.za/</link> is becoming “freedom-friendly” by
+      including a meta-data field for the license of learning objects along with a host of others to
+      enable effective search. It is not a wiki environment however, and cbpp is not yet
+      accommodated within the portal itself.</para>
+    <para id="element-591">The (world-wide) challenge is to go ahead and create learning resources
+      which embed cbpp among the learning activities, encourage wide use of the resources and the
+      approach, to evaluate and demonstrate the effectiveness. In a Wiki environment (e.g.
+      Wikieducator, Wikiversity, etc.) this is likely to be almost automatic.</para>
+    <para id="element-565">Another question that arises is “How do we integrate software
+      development into this process?”</para>
+    <para id="element-570">Not everyone can or desires to develop software. I recall learning a lot
+      about ecological processes through modelling. At the time, we mostly used spreadsheets and the
+      programmers in the class were happy to share their knowledge in exchange for ecological
+      insights. Together we produced models which seemed plausible. Although these models were not
+      capable of quantitative prediction, they did illustrate the effects of variables on the
+      systems under investigation, and helped us understand the processes. The key to this is either
+      deskilling software development, or collaboration across disciplines. Raise awareness among
+      FLOSS developers of the needs in education and encourage them to work with educators and
+      learners. This is a good way to demonstrate the value of shared knowledge in problem solving.</para>
+    <para id="element-953">[A project I encountered some time ago intended to do something similar
+      for non-profit organisations, though it seems more general now: <link url="http://www.socialsourcecommons.org/">http://www.socialsourcecommons.org/</link> ]</para>
+    <para id="element-839">One of the take-home messages from the modelling exercise above was that
+      the real value of modelling is in the learning and insight gained through the modelling
+      process (i.e. as opposed to the models produced or their qualitative predictions).</para>
+    <para id="element-395">Here is a useful set of models for learning physics I discovered some
+      time ago: <link url="http://phet-web.colorado.edu/">http://phet-web.colorado.edu/</link></para>
+    <para id="element-202">Would it make sense to construct learning activities with incomplete
+      versions of such software – students could then develop the programs (e.g. define
+      formulae) their own way as part of the learning. The complete source code would represent a
+      solution to the exercise?</para>
+    <para id="element-942">In a wiki environment, I can imagine pages on specific needs for a piece
+      of software, describing new use cases which software developers might like to implement in
+      collaboration with the learners etc. as part of their software engineering programmes.</para>
+    <para id="element-548">In terms of content development, I recently heard of a project using
+      collaborative video production as a means of “crossing cultural
+      borders”.</para>
+    <para id="element-171">The great thing about software development and video co-production, is
+      that they are sufficiently complex to require some co-planning, role and design negotiation,
+      critical thinking and technical skill. Here is a project which emphasises a general ability
+      which all learners should acquire through school: “… the skill of
+      analysis. … the ability to break a complex problem into pieces, identify familiar
+      patterns in the pieces, solve them using existing tools, and synthesize the results into a
+      view or answer.” <link url="http://www.kusasa.org/">http://www.kusasa.org/</link></para>
+    <para id="element-270">“We want to ensure that learners graduate with this ability,
+      making them effective, successful, productive and fulfilled members of society.”</para>
+    <para id="element-454">It might be useful to extend some of the ideas here into other levels of
+      education and introduce social constructionist learning and cbpp in the development of the
+      tool</para>
+    <para id="element-45">For content production, see also <link url="http://www.elephantsdream.org/">http://www.elephantsdream.org/</link> as an example of
+      an open movie built with FLOSS (www.blender.org) and with production files freely available. </para>
+    <para id="element-218">Much of the above type of activity is happening already (links welcome),
+      we are not short of ideas and encouraging such activities can only help - even if it is done
+      in low/no connectivity environments, and is seen as nurturing the existing culture of
+      collaboration and sharing in readiness for cbpp when access for all becomes a reality. </para>
+    <para id="element-714">I think we agree that the people in Africa are likely to take to cbpp
+      quite naturally on account of the traditional cultures, and by being less affected by the
+      artificial barriers.</para>
+    <para id="element-78">In summary, embedding cbpp across curricular is recommended, and
+      generating a culture of collaborative learning is a good idea, though the impact may be
+      delayed and less pronounced in places where access is limited. FLOSS and collaborative
+      free/libre/open content development may serve as good vehicles to promote cbpp, though the
+      required culture of sharing may be nurtured even without the Internet.</para>
+    <para id="element-924">Speaking of peer production, it might be useful to share:</para>
+    <list id="element-879" list-type="bulleted">
+      <item>links to sites and papers of relevance to this discussion.</item>
+      <item>research questions</item>
+      <item>software – FLOSS for Education. </item>
+    </list>
+    <para id="element-775"><emphasis>4. Kim Tucker - May 7th, 2007 at 7:49 am </emphasis>
+    </para>
+    <para id="element-112">Response to Wayne:</para>
+    <para id="element-287">It is great to see so much happening around libre and open resources for
+      education.</para>
+    <para id="element-528">As you have pointed out before, there are special needs in Africa, and
+      the context calls for innovation.</para>
+    <para id="element-71">Part of the answer to your question is to facilitate communication across
+      initiatives, and develop a common vision and a common understanding of the context and the way
+      forward.</para>
+    <para id="element-940">The context is constantly changing and we need a realistic plan leading
+      towards a desired future.</para>
+    <para id="element-777">Here are two perspectives:</para>
+    <list id="element-440" list-type="enumerated">
+      <item>ALL investment should go into enabling access. Only then do we even think about content,
+        and enable this via the local communities. Actually, it is not about content - it is about
+        learning activities which will be greatly enhanced when it is possible to engage with the
+        global knowledge society. </item>
+      <item>Focus on developing (libre) learning resources among those who have access. These
+        automatically become a foundation as soon as new communities gain access. Moreover, in this
+        process, local skills will be developed to take it forward. </item>
+    </list>
+    <para id="element-873"><emphasis>5. Wayne Mackintosh - May 7th, 2007 at 11:58 am </emphasis>
+
+    </para>
+    <para id="element-353">Hey Kim - Enabling access is a strategic priority in Africa -
+      couldn’t agree more. In addition to enabling access - I would like to add a
+      left-brain strategy, namely projects which generate universal demand for access - in other
+      words generating the need for access in parallel to technical infrastructure.</para>
+    <para id="element-999">For this reason I believe that libre content is a missing link in the
+      chain. Learning activities are derived from our pursuit of knowledge and I suggest that the
+      more free content we can produce - the greater the need for access.</para>
+    <para id="element-177">Conceptually it is possible to provide access to the 1.7 million free
+      content articles of Wikipedia by creating wiki ==&gt; pdf functionality. This could be a
+      foundation for billions of learners - especially those without textbooks to high quality
+      content, even though they may not have access to the web themselves.</para>
+    <para id="element-562">I was playing around with a use case scenario - still needs a little
+      work, but you’ll get the gist of my thinking. See: <link url="http://www.wikieducator.org/Metawikieducator/Print_web_service">Thinking creatively
+        about access to free content</link></para>
+    <para id="element-414">Chat to you soon. Wayne</para>
+    <para id="element-24"><emphasis>6. Ken Udas - May 9th, 2007 at 5:12 am </emphasis>
+    </para>
+    <para id="element-564">Response to Kim</para>
+    <para id="element-95">Thank you for your thoughtful reply. I appreciate the links you have
+      provided and the questions that you have posed. Together we are generating a lot of questions,
+      and I would like to focus on a small group of them that flowed from a question that I asked in
+      my first comment, in which I asked:</para>
+    <para id="element-889">
+      <cite><cite-title>Would it help to generate a culture that supports and actively promotes peer
+        development, investment in technologies that support collaborative creation, law that favors
+        (reduces barriers and creates incentives) community production, etc?</cite-title></cite>
+    </para>
+    <para id="element-405">And you followed up with these other questions:</para>
+    <para id="element-615">
+      <emphasis>Kim: </emphasis>
+      <cite><cite-title>Would it help what? (reduce inequalities of access to knowledge/learning?).</cite-title></cite>
+    </para>
+    <para id="element-945">Yes, it seems that complex problems are not well suited to centralized
+      and authoritarian solution generation and decision-making. Traditional “top of the
+      pyramid” oriented decision making tends to disproportionably (sometimes
+      exclusively) respect and reflect the values of the decision maker or the group that he or she
+      represents. This will frequently result in marginalizing, to varying degrees (sometimes
+      extremely), the values held by other less powerful groups. By definition, the decision maker
+      is in some sort of local power position, which might extend to a global scale depending on the
+      nature of the political and economic organization that the decision-maker is representing. I
+      see commons-based peer development as a method to normatively balance concentration of power
+      with the investment of communal decision-making. I was really pointing to commons-based peer
+      development as a way of seeding values in organizations. Education is an important area
+      because of its impact on the development and transmission of values. These values are then
+      imbued, ala Freire, in the cultural artifacts that are created, which could include learning
+      materials, technologies, organizational structure, governance, etc. There is a positively
+      reinforcing cycle that starts with applying principles of commons-based peer development to
+      OER and FLOSS, including the methods in teacher education, and the general curriculum, keeping
+      in mind that curriculum extend outside of the “schoolhouse”.</para>
+    <para id="element-467">
+      <emphasis>Kim:</emphasis>
+      <cite><cite-title>Whom would it help in what way? (those that are ahead already may simply move further
+        ahead together at a faster rate).</cite-title></cite>
+    </para>
+    <para id="element-234">I might have at least partially responded to this question above, while
+      also perhaps exposing a certain naivety and idyllic notion of how things work, or at least
+      might work. A culture that supported the underlying values of commons-based peer development
+      would benefit everybody because it would, I think, lead to a sustainable society. This of
+      course assumes that as individual and societies we never really have enough resources to meet
+      everybody’s appetites. That is, if left to market forces we will always have
+      unlimited wants and needs and limited resources. On a societal scale wealth and resources are
+      concentrated creating inequity, which is not a humane or sustainable way to manage a society
+      or planet. Everybody feels the consequences eventually. This obviously is not only about
+      social change, it is also about effective teaching and learning and basic access to quality
+      and locally relevant educational resources, but if we can move mountains in the process, why
+      not?</para>
+    <para id="element-970">
+      <emphasis>Kim:</emphasis>
+      <cite><cite-title>When? (only after people have physical access to computers and the Internet?).</cite-title></cite>
+    </para>
+    <para id="element-515">Great question, no, I do not think that this starts only after everybody
+      has access to computers and the Internet. I will follow your and Wayne’s lead on
+      this. Commons-based peer development, OER, FLOSS, CIT, education, crime, economic development,
+      etc. are all part of an ecosystem that that will develop together, systemically, and
+      holistically. Investment in developing paper-based OER using commons-based peer development
+      will create demand for CIT, and CIT will become more impactful when they are made available if
+      a process and culture of commons-based peer development is already in place. This will be
+      particularly true if commons-based peer development is already being taught as part of the
+      curriculum and being modeled in educational environments including schools</para>
+    <para id="element-891">
+      <emphasis>Kim:</emphasis>
+      <cite><cite-title>Why do we think this is important? (will it lead to a sustainable planet and world
+        peace?).</cite-title></cite>
+    </para>
+    <para id="element-846">Oops, I responded to this above.</para>
+    <para id="element-476"><emphasis>7. Kim Tucker - May 23rd, 2007 at 3:29 am </emphasis>
+    </para>
+    <para id="element-916">A link of interest to this discussion (apologies if this is
+      duplication): <link url="http://oedb.org/library/features/how-the-open-source-movement-has-changed-education-10-success-stories">http://oedb.org/library/features/how-the-open-source-movement-has-changed-education-10-success-stories</link>
+    </para>
+        </section>
+  </content>
+
+</document>

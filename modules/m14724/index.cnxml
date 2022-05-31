@@ -1,0 +1,42 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Kim Tucker - Summary - FLOSS, OER, Equality and Digital Inclusion</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>8ba8bd06-935b-41c3-bbea-e965ce3bbe58</md:uuid>
+</metadata>
+  <content>
+<section id="Summary">
+<title>Summary</title>
+    <para id="element-413">“FLOSS, OER, Equality and Digital Inclusion,” the fifth installment of the Impact of Open Source Software Series, was posted on May 2, 2007, by Kim Tucker, a researcher at the <link url="http://www.meraka.org.za/">Meraka Institute</link>. Thanks Kim!</para><para id="element-460">Kim took an active approach to posting, reviewing, and contextualizing the topics of libre software and <link url="http://en.wikipedia.org/wiki/Commons-based_peer_production">commons-based peer production</link> (CBPP) in education. The topic was framed largely enough to include educational resources in addition to software. He then posed a number of questions, and provided brief responses intended to lead to further discussion and an iterative cycle of question development.</para><para id="element-574">Kim tied technology and education together with the notion of CBPP, pointing to connectedness, social networking, and knowledge sharing as critical features of both sustainable technology development and education. Although CBPP has worked well in the development of Free and Libre Open Source Software (FLOSS) and to develop content in communities like Wikipedia, the agile development processes used in much FLOSS production tends not to generate artifacts that are easily localized, which is a critical characteristic for reusability in educational materials. CBPP has been most evident in the developed world, and reusability through localization of educational content is particularly important in the developing world. To further develop the dialog, Kim posed the following questions:</para><para id="element-846"><emphasis>Is the learning from and between FLOSS, OER, and other peer-production case studies applicable in “developing” economies?</emphasis></para><list id="element-995" list-type="bulleted"><item>Developing economies frequently do not support the necessary infrastructure for peer development.</item>
+<item>Wealth capacity is not equally distributed in either developed or developing countries. There are parts of developed economies that have the characteristics of developing economies, and visa versa.</item>
+<item>Developing countries are generally not entrenched in set ways of using ICT in education, providing an opportunity to instill patterns that support CBPP.</item>
+</list><para id="element-735"><emphasis>What are the priorities for education, and how could FLOSS have an impact?</emphasis></para><list id="element-494" list-type="bulleted"><item>In many schools, the priorities are for buildings, water supply, electricity, learner nutrition, health, and other physical assets. ICT and knowledge resources that enable sustainable development of capacity to provide for needed assets are critical.</item>
+<item>Educators need both software for teaching and learning and administrative support.</item>
+<item>There is a global shortage of teachers.</item>
+<item>FLOSS and open educational resources (OER) can go a long way in addressing some of these priorities.</item>
+</list><para id="element-235"><emphasis>What are the motivators and barriers to FLOSS adoption?</emphasis></para><list id="element-25" list-type="bulleted"><item><emphasis>Motivators:</emphasis> Kim indicated that in South Africa the government created motivators by reallocating priorities and resources from investment in licensing fees to commercial software for use with FLOSS.</item>
+<item><emphasis>Barriers:</emphasis> Kim referred to some of the barriers highlighted in Pat Masson’s earlier post, but also identified factors such as (a) basic literacy, (b) computer literacy, (c) use of office software, (d) co-creation and localization of educational resources, (e) resource sharing, and (f) shared decision making, as building blocks to overcome barriers.</item>
+</list><para id="element-319"><emphasis>If we were to overcome those barriers and provide physical access to the world’s knowledge resources (via FLOSS), would we achieve “equality?”</emphasis></para><list id="element-936" list-type="bulleted"><item>Equity extends beyond access.</item>
+</list><para id="element-185">Kim finished his posting with some observations about:</para><list id="element-756" list-type="bulleted"><item>How the OER community seems to have readily adopted FLOSS tools;</item>
+<item>The need to address bandwidth, connectivity, and computer access issues in Africa;</item>
+<item>The importance of sharing ideas around FLOSS and OER projects;</item>
+<item>Projects addressing other issues relating to language and general FLOSS capacity.</item>
+</list><para id="element-661">The golden thread running through all the initiatives cited here is the emphasis on FLOSS and sharing the learning–libre knowledge.</para><para id="element-659">Kim also listed excellent resources with links that provide a context for his posting.</para>
+</section>
+<section id="Comments">
+<title>Comments</title>
+<para id="element-974">This posting could have led in a number of directions. Kim seeded a direction when he indicated that it would be productive to discuss some of the motivators for development and use of FLOSS based on just doing “the right thing.” I believe that we did pursue his suggestion, but obviously not fully.</para><para id="element-946">The two principal directions that I saw the comments in this posting take were around how to make OER and FLOSS an important feature in African development, and how might commons-based peer production be used to impact education and society?</para><para id="element-748"><emphasis>How do we make the future happen for Africa using free content?</emphasis> There are significant access issues. How can OER communities be engaged in such a way that they develop content so they are coherent with the development of positive use patterns in Africa? Kim pointed to two perspectives on how to approach this issue:</para><list id="element-430" list-type="enumerated"><item>ALL investment should go into enabling access. Only then do we even think about content, and enable this via the local communities. Actually, it is not about content—it is about learning activities, which will be greatly enhanced when it is possible to engage with the global knowledge society.</item>
+<item>Focus on developing (libre) learning resources among those who have access. These automatically become a foundation as soon as new communities gain access. Moreover, in this process, local skills will be developed to take it forward.</item>
+</list><para id="element-627"><emphasis>Is there the need to develop curriculum around commons-based peer development? </emphasis>Kim responded positively to this question, but drilled down into another related question that pointed directly to the larger potential of impact CBPP.</para><para id="element-400">Would it help to generate a culture that supports and actively promotes peer development, investment in technologies that support collaborative creation, law that favors (reduces barriers and creates incentives) community production, etc?
+Kim responded with the following questions:
+</para><list id="element-269" list-type="bulleted"><item>Would it help what? (Reduce inequalities of access to knowledge/learning?)</item>
+<item>Whom would it help in what way? (Those that are ahead already may simply move further ahead together at a faster rate.)</item>
+<item>When? (Only after people have physical access to computers and the Internet?)</item>
+<item>Why do we think this is important? (Will it lead to a sustainable planet and world peace?)</item>
+
+</list>
+</section>
+<para id="delete_me">
+       <!-- Insert module text here -->
+    </para>   
+  </content>
+  
+</document>

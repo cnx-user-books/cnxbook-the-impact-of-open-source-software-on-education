@@ -1,0 +1,25 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Summary</title>
+  <metadata>
+  <md:content-id>m19811</md:content-id><md:title>Summary</md:title>
+  <md:abstract>Summary of contribution by Gary Schwartz who posted from the perspective of a open source project manager.</md:abstract>
+  <md:uuid>79961072-2e59-46d7-bbfc-ddd70d552dde</md:uuid>
+</metadata>
+
+<content>
+    <para id="id10206557">Leading a University Open Source Project,” the fifteenth installment of the Impact of Open Source Software Series, was posted on October 17th, 2007, by Gary Schwartz who currently serves as Director of Communications &amp; Middleware Technologies at Rensselaer Polytechnic Institute and is also serving as project manager and spokesperson for <link url="http://www.bedework.org/bedework/" window="new">Bedework</link>, the open source, enterprise calendaring system for Higher Education. Thanks David for a great posting!</para>
+    <para id="id11363132">In his posting Gary starts off by providing some background on the Bedework project highlighting its roots in University of Washington’s UWCalendar project. Much of the posting was flowed from the project requirements, which included:</para>
+    <list id="id11120604" list-type="enumerated" number-style="arabic">
+      <item>Implementation is consonant with our core competencies in Java/J2EE programming, XML, and web interface design and construction.</item>
+      <item>Open source – no license or usage fees</item>
+      <item>The ability to distribute administration and control to the event owners themselves is crucial in a university environment.</item>
+      <item>The code must provide complete, well-defined APIs which are scrupulously honored, with no local dependencies (authentication, policies, etc.) The packaging must allow competent professionals to easily install the package and to get a demo version running with minimal confusion and frustration.</item>
+    </list>
+    <para id="id11349174">Gary treats these requirements in terms of how well they were articulated and the challenges they posed the organization. For example, he talks a bit about struggles with IP issues (letting go of concerns around commercial activity), establishing a development community, managing competing demands, and meeting release dates. Gray wraps up the posing by indicating that the Bedework team has benefited from the relationships developed with other institutions.</para>
+    <section id="id11382587">
+      <title>Comments</title>
+      <para id="id10237213">Gary’s posting is quite well developed and has a lot of content. It served as a great platform to strike at the theme of the Series, which is the impact that OSS and OER has on higher education. The comments centered around the impact of the Bedework project on RPI, as opposed to larger impact on education or the functioning of higher education.</para>
+      <para id="id10269070">Thanks again to Gary, for his interesting and insightful post and responses, and Pat for making this a great exchange, and other folks who have been reading along. Please join in again on October 31st when Michael Feldstein posts with perspectives. The schedule for the series can be found on <link url="http://www.wikieducator.org/Open_Source_Software_in_Education_Series_on_Terra_Incognita" window="new">WikiEducator</link>.</para>
+    </section>
+  </content>
+</document>

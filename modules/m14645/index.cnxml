@@ -1,0 +1,36 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Ruth Sabean - Summary - UCLA Selects Open Source Solution</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>7a25fe4f-b8b5-4b39-93f2-6530e99499a5</md:uuid>
+</metadata>
+  <content>
+    <section id="id-996783119408">
+      <title>Ruth Saban Interview Summary</title>
+
+      <para id="id2951266">The first installment in the Impact of Open Source Software Series was an interview with Ruth Sabean, assistant vice provost for educational technology in UCLA’s College of Letters and Science and director of educational technology in the university’s Office of Information Technology. We discussed UCLA’s adoption of Moodle. Some of the major points and themes of the interview included:</para>
+      <list id="element-948" list-type="bulleted"><item>The prime mover for UCLA’s decision to evaluate and select a new learning management environment was to help provide a common infrastructure to promote sharing and innovation across units at UCLA. The selected technology was offered on an opt-in basis for academic units.</item>
+	<item>The process started with a commitment to adopting an Open Source technology and the field of applications was quickly reduced to Moodle and Sakai</item>
+	<item>UCLA committed to Open Source because they wanted to benefit through contributing to and learning from a global partnership that holds values of access and cooperation matching those of UCLA.</item>
+	<item>UCLA had little interest in being tied to large commercial vendors who are guided by larger market forces that have little to do with UCLA teaching, learning, and collaboration needs.</item>
+	<item>UCLA fully anticipates contributing actively to the Moodle community and to the larger dialog around interoperability.</item>
+	<item>Ruth saw some of the challenges to contributing to Moodle as UCLA’s independent streak and lack of experience contributing to an Open Source community, but felt that Moodle was an inviting community.</item>
+	<item>Ruth indicated that when making a good decision about Open Source or commercial software, you need to understand your requirements, understand how the software will meet them, and evaluate your options based on those criteria.</item>
+	<item>Although Sakai and Moodle had both advantages and disadvantages, it was product maturity, community strength, and progress during the past 5 years, that swayed the evaluation committee to select Moodle.</item>
+<item>Ruth suggested that some of the most important factors in a successful evaluation and selection process is to really understand your organization, have faculty drive the process, and actively seek feedback from colleagues at other institutions.
+</item></list>
+      
+      
+      
+      
+      
+      
+      
+      
+      <para id="id10025865">There were a number of comments and responses made during the days following Ruth’s post. There were at least two central themes that were generated from the comments.</para>
+      <list id="element-545" list-type="enumerated"><item>There was a fair amount of discussion about some of the perceived trade-offs between Sakai and Moodle and a larger set of issues about the potential for a service-oriented architecture sitting at the center of a learning management environment. The UCLA and SUNY experience suggested that at least conceptually Sakai offered a fair amount of promise for tool interoperability, but that it failed to deliver in some critical ways and lacked much of the community involvement that is one of the remarkable achievements of Moodle. Some discussion about Moodle’s architectural flexibility was offered during the dialog. The discussion rests within the context of universities seeking a learning environment that best meets the needs of teachers and learners within unique contexts.</item>
+	<item>There was a second theme that focused on cultural acceptance of Open Source software within UCLA and UCLA’s interest in and ability to contribute to the Moodle community</item>
+</list>
+      
+      <para id="id3825191"/>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,16 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Richard Wyles - Introduction - Innovation for Education: OSS and Infrastructure for NZ’s Education System</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5de1f11d-fddc-4df0-a78b-7dc4b5a5e03b</md:uuid>
+</metadata>
+  <content>
+    <section id="id-983317498665">
+      <title>Richard Wyles - Introduction</title>
+      <figure id="id12111051">
+        <media id="idm3616576" alt=""><image src="../../media/graphics1-9c05.jpg" mime-type="image/jpeg" height="182" width="139"/></media>
+      </figure>
+      <para id="id10465913">Richard’s OSS series contribution focused around innovation for education and the infrastructure of New Zealand’s education system.</para>
+      <para id="id13273979">Richard Wyles is a director and co-founder of <link url="http://www.flexible.co.nz/">Flexible Learning Network</link> Ltd, a private company focused on flexible learning solutions for the education, corporate training and public sectors. For the past four years Richard has been leading national eLearning infrastructure projects in New Zealand, underpinned by open source and particularly <link url="http://moodle.org/">Moodle</link>. A full-time development team, now numbering around 10 programmers has been working continuously on Moodle and related open source projects since May 2004. Within a short period of time, Moodle is now the most widely used Learning Management System in New Zealand, particularly in the post-secondary vocational educational sector and increasingly within government sector departments.</para>
+      <para id="id2974304">To coordinate these efforts and provide a place for stakeholders to contribute, Richard co-founded <link url="http://eduforge.org/">Eduforge</link>. He currently leads several NZ Government funded projects including piloting a national eLearning Network in New Zealand - this work has led to a single-sign-on framework or Moodle Networks, and the NZ Open Educational Resources project.</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,61 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>The Business of Open Source</title>
+  <metadata>
+  <md:content-id>m19880</md:content-id><md:title>The Business of Open Source</md:title>
+  <md:abstract>Stuart Sim's contribution to the OSS and OER in Education Series. In this post, he shares some of his experiences with open source software from the perspective of a system architect and his activities in the business of supporting and growing open source applications.</md:abstract>
+  <md:uuid>feeaf2b3-fb43-4962-b4e8-366092f22990</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-734"><note id="eip-id45527084" type="Author Information">Author - Stuart Sim, "The Business of Open Source". Originally submitted April 11th, 2008 to the OSS and OER in Education Series, Terra Incognita blog (Penn State World Campus), edited by Ken Udas.</note></para><para id="id42760303">First off let me state the obvious and say that building a business that depends on open source is not an easy thing to do. If it was, there would a great deal more success stories out there.</para>
+    <para id="id47507707">Offering services around Intellectual Property (IP) you own, manage and control that no one else can replicate - or not easily any way, is a well understood model if not always executed in the best way. Grabbing hold of ‘free’ software and wrapping services in a completely transparent way means really understanding operational risk. Given that the same IP is available for anyone to do exactly the same thing and compete in your marketplace means your always fighting to innovate faster than the next guy and that can only be a good thing.</para>
+    <para id="id42847777">Personally, I love the idea of forcing my competitors to innovate.</para>
+    <para id="id43196305">The goal of course is to build a value proposition to the market that provides the highest quality of service at the lowest cost. The transparent nature of open source projects allow you to develop your own risk model where you can identify exposure and price your services competitively.</para>
+    <para id="id42918856">Visibility into the underlying source code is the first step. Those organizations that participate in the project community gain a much greater advantage than those listening from the outside. By contributing to the development of the code and gathering feedback from both the software users and fellow developers, a more refined risk model can be developed with lower risk premiums and therefore a greater competitive pricing model can be offered to the market.</para>
+    <para id="id42918860">The more obvious benefits that are more widely presented include reduced internal costs in two significant areas: research and development and support.</para>
+    <para id="id43113944">There are companies that invest nothing in R&amp;D and, generally speaking, history has not been kind to them. This is especially true of software companies where very tight competition forces constant innovation. In a closed model that innovation has to be paid for by the customer and is often non-transparent so the true value is hard to assess.</para>
+    <para id="id43113948">The other major cost in a closed environment is the end user support where the model has to be developed and maintained internally and paid for entirely by the customer. Without the ability to share any proprietary material, the market is forced to accept whatever inefficient support model the supplier can offer.</para>
+    <para id="id42917806">Thankfully, we’re rapidly moving from the old days of having two extreme options. The first option is working in a world with locked down commercial licenses and no access to source code, while the second option on the other side was having all the code to play with and no support number to call for help or guidance.</para>
+    <para id="id43061161">Many companies sell software solutions under a commercial license where their customers get access to the source code for analyzing performance issues using their own profiling tools. For any organization that has their own technology team capable of compiling the application from source and inserting monitoring hooks, this can be a nice compromise where infrastructure risks can be managed internally but with the safety of external support should things go wrong.</para>
+    <para id="id43197764">It comes down to decomposition and transparency. The winners will be the ones that understand the market will reward companies offering choice of platform, services, support and leadership - none of which are dependent on each other.</para>
+    <para id="id43849487">Again, I love forcing people to innovate through disruption. If the game is not working for you then simply change the rules of the game.</para>
+    <section id="id42759470">
+      <title>Comments</title>
+      <section id="id45020336">
+        <title>1. Ken Udas -April 11th, 2008 at 1:18 pm </title>
+        <para id="id42536257">Stuart, First, thank you very much for this direct posting on such a relevant topic. It provides a lot of hooks to talk about. I have two questions to start out with:</para>
+        <para id="id43166359">You are a leader at MoodleRooms, can you tell me a little about the MoodleRooms model, which it value add is, and what types or organizations can benefit from the business/service model that you are using?</para>
+        <para id="id43156272">and</para>
+        <para id="id43093857">Are there qualities to Moodle that make it a good open source application to support your model? That is, what are the qualities of OSS applications that make then better for the “Business of Open Source?”</para>
+        <para id="id42938176">We can start here, and expand out a bit more later. Ken</para>
+      </section>
+      <section id="id48173135">
+        <title>2. Stuart Sim - April 17th, 2008 at 8:19 pm </title>
+        <para id="id42740473">Hi Ken, The Moodlerooms model is simply to offer the best hosted platform for Moodle services on the planet. Moodle already has a strong functional and pedagogic focus and our mission is to complement that success with the introduction of world class enterprise qualities.</para>
+        <para id="id42937077">We aim to disrupt the market by sharing the design of the hosting platform with our partners and competitors and therefore forcing better service from all the service providers.</para>
+        <para id="id43149785">Cheers, Stuart</para>
+      </section>
+      <section id="id46430936">
+        <title>3. Stuart Sim - April 18th, 2008 at 12:27 pm </title>
+        <para id="id45418034">The openness and active collaboration of the Moodle community highlight the best properties of an open source project needed for anyone to develop competitive services in support of the code.</para>
+        <para id="id43156921">The community is also very welcoming of experiences shared by commercial service providers from the field and supports healthy discussion on the issues related to operating and supporting the code base.</para>
+      </section>
+      <section id="id42938743">
+        <title>4. Ken Udas - April 22nd, 2008 at 5:39 pm </title>
+        <para id="id42674958">Stuart, I see what you are doing from the Moodlerooms perspective, but what do you think that larger impact services like Moodlerooms is having on higher education and the use or acceptance of open source applications in the LMS space?</para>
+        <para id="id42746946">Thanks, Ken</para>
+      </section>
+      <section id="id43196236">
+        <title>5. Steve Foerster - April 23rd, 2008 at 11:19 am </title>
+        <para id="id43197112">Hi Stuart, thanks for your interesting post. How do you compare the services that you and other open source providers offer with those from closed source competitors? For example, my university uses Blackboard, which offers integration with student records systems like Datatel.</para>
+      </section>
+      <section id="id44800955">
+        <title>6. Kim Tucker - May 20th, 2008 at 7:30 am </title>
+        <para id="id43157902">In Africa and other parts of the “developing” world some have recognised the importance of free/libre and open source software in terms of cost and (more importantly) empowerment - i.e. rather than being passive consumers of highly restrictive software, being able to adapt and develop the software further and offer services to make a living (e.g. distribution, training, support, configuration and customisation, software development, etc.).</para>
+        <para id="id42938528">There is a project starting up which may be of interest to readers, and we invite participation: <link url="http://wikieducator.org/FLOSSBusiness" window="new">http://wikieducator.org/FLOSSBusiness</link></para>
+        <para id="id42553245">I have started by including a link to this blog posting on one of the Curriculum pages.</para>
+        <para id="id42759542">Thanks! :-)</para>
+      </section>
+    </section>
+  </content>
+</document>

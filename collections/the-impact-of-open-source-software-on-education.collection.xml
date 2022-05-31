@@ -1,0 +1,240 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10431</md:content-id>
+    <md:title>The Impact of Open Source Software on Education</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>f6522dce-7e2b-47ac-8c82-8e2b72973784</md:uuid>
+<md:slug>the-impact-of-open-source-software-on-education</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Introduction</md:title>
+      <col:content>
+        <col:module document="m19806"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Author Profiles</md:title>
+      <col:content>
+        <col:module document="m14773"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>UCLA Selects Open Source Solution (Ruth Sabean)</md:title>
+      <col:content>
+        <col:module document="m14639"/>
+        <col:module document="m14640"/>
+        <col:module document="m14641"/>
+        <col:module document="m14645"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>OSS and Infrastructure for NZ’s Education System (Richard Wyles)</md:title>
+      <col:content>
+        <col:module document="m14642"/>
+        <col:module document="m14647"/>
+        <col:module document="m14646"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>WikiEducator: Memoirs, Myths, Misrepresentations and the Magic (Wayne Mackintosh)</md:title>
+      <col:content>
+        <col:module document="m14648"/>
+        <col:module document="m14687"/>
+        <col:module document="m14688"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Barriers to the Adoption of Open Source: Personal and Professional Observations (Pat Masson)</md:title>
+      <col:content>
+        <col:module document="m14708"/>
+        <col:module document="m14709"/>
+        <col:module document="m14710"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>FLOSS, OER, Equality and Digital Inclusion (Kim Tucker)</md:title>
+      <col:content>
+        <col:module document="m14713"/>
+        <col:module document="m14729"/>
+        <col:module document="m14724"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Learning Design and Open Source Teaching (James Dalziel)</md:title>
+      <col:content>
+        <col:module document="m14732"/>
+        <col:module document="m14733"/>
+        <col:module document="m14734"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Lifelong Learning in Knoweldge Society (Farideh Mashayekh)</md:title>
+      <col:content>
+        <col:module document="m14752"/>
+        <col:module document="m14754"/>
+        <col:module document="m14755"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Not IT, not Business Processes, but Organizational Culture (Craig Perue)</md:title>
+      <col:content>
+        <col:module document="m14751"/>
+        <col:module document="m14749"/>
+        <col:module document="m14750"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>UNESCO’s Activities in FOSS For Education, Past, Current and Future Activities (Jean-Claude Dauphin)</md:title>
+      <col:content>
+        <col:module document="m14756"/>
+        <col:module document="m14757"/>
+        <col:module document="m14758"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Open Source Software and the User Experience in Higher Education (Mara Hancock)</md:title>
+      <col:content>
+        <col:module document="m14761"/>
+        <col:module document="m14762"/>
+        <col:module document="m14811"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Running a Service Not a System (Dick Moore)</md:title>
+      <col:content>
+        <col:module document="m14819"/>
+        <col:module document="m14838"/>
+        <col:module document="m14849"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Summary - Year 1 (Ken Udas)</md:title>
+      <col:content>
+        <col:module document="m19768"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Open Access Journal Literature is an Open Educational Resource (Gavin Baker)</md:title>
+      <col:content>
+        <col:module document="m19771"/>
+        <col:module document="m19770"/>
+        <col:module document="m19773"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Open Source and Open Standards (Rob Abel)</md:title>
+      <col:content>
+        <col:module document="m19772"/>
+        <col:module document="m19809"/>
+        <col:module document="m19812"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Content is Infrastructure (David Wiley)</md:title>
+      <col:content>
+        <col:module document="m19807"/>
+        <col:module document="m19813"/>
+        <col:module document="m19810"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Leading a University Open Source Project (Gary Schwartz)</md:title>
+      <col:content>
+        <col:module document="m19808"/>
+        <col:module document="m19774"/>
+        <col:module document="m19811"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Open Source, Economics, and Higher Education (Michael Feldstein)</md:title>
+      <col:content>
+        <col:module document="m19870"/>
+        <col:module document="m19875"/>
+        <col:module document="m19883"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Fair Use as a Complement to Open Licensing (Steve Foerster)</md:title>
+      <col:content>
+        <col:module document="m19871"/>
+        <col:module document="m19878"/>
+        <col:module document="m19879"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Educational Development at Otago Polytechnic (Leigh Blackall)</md:title>
+      <col:content>
+        <col:module document="m19869"/>
+        <col:module document="m19874"/>
+        <col:module document="m19876"/>
+        <col:module document="m19877"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Can OER Really Impact Higher Education and Human Development? (Christine Geith)</md:title>
+      <col:content>
+        <col:module document="m19866"/>
+        <col:module document="m19864"/>
+        <col:module document="m19881"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>On Doing OER (Amee Godwin)</md:title>
+      <col:content>
+        <col:module document="m21189"/>
+        <col:module document="m21186"/>
+        <col:module document="m21192"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Business of Open Source (Stuart Sim)</md:title>
+      <col:content>
+        <col:module document="m19872"/>
+        <col:module document="m19880"/>
+        <col:module document="m19884"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Role of University Faculty in the OER World (Joel Thierstein)</md:title>
+      <col:content>
+        <col:module document="m19868"/>
+        <col:module document="m19873"/>
+        <col:module document="m19885"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Evolution to Education 3.0 (Derek Keats)</md:title>
+      <col:content>
+        <col:module document="m19867"/>
+        <col:module document="m19865"/>
+        <col:module document="m19882"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Exploring new ways of being open (Martin Weller)</md:title>
+      <col:content>
+        <col:module document="m19891"/>
+        <col:module document="m19892"/>
+        <col:module document="m19894"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Embedding Student Expectations (Cole Camplese)</md:title>
+      <col:content>
+        <col:module document="m19890"/>
+        <col:module document="m19888"/>
+        <col:module document="m19893"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Systems for Supportive Open Teaching (Andy Lane)</md:title>
+      <col:content>
+        <col:module document="m19889"/>
+        <col:module document="m19886"/>
+        <col:module document="m19887"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

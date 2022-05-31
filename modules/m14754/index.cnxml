@@ -1,0 +1,223 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Lifelong Learning in Knowledge Society</title>
+  <metadata>
+  <md:content-id>m14754</md:content-id><md:title>Lifelong Learning in Knowledge Society</md:title>
+  <md:abstract>Dr. Farideh Mashayekh contribution to the "OSS and OER in Education Series." In this post, she shares share some of her thoughts about the importance and nature of adult learning in a knowledge society, opening ample opportunities for the rest of us to connect these topics with open source software and open educational resources.</md:abstract>
+  <md:uuid>5efb3e98-5f2f-4768-823b-8ff5e6169232</md:uuid>
+</metadata>
+  <content>
+    <para id="id9604573"><note id="eip-id14370076" type="Author Information">Author - Dr. Farideh Mashayekh (Bazargan), "Lifelong Learning in Knowledge Society". Originally submitted May 29th, 2007 to the OSS and OER in Education Series, Terra Incognita blog (Penn State World Campus), edited by Ken Udas.</note>    </para>
+    <section id="id-410784225039">
+      <title>Prelude</title>
+      <list id="id9604588" list-type="bulleted">
+        <item>The new millennium requires new vision and understanding of learning.</item>
+        <item>Transition from Industrial Society to Information and Knowledge Society has its impacts on social, economic and cultural aspects of life.</item>
+        <item>What are the impacts of the transition to <link url="http://en.wikipedia.org/wiki/Information_Age">Information Age</link> regarding:<list id="id9604619" list-type="bulleted"><item>personal fulfillment</item><item>citizenship</item><item>employability</item></list></item>
+        <item>What are the implications of this transition on learning?</item>
+        <item>What is the vision of future learning?</item>
+        <item>How can we be prepared for an Information Age and a <link url="http://en.wikipedia.org/wiki/Knowledge_society">Knowledge Society</link>?</item>
+        <item>In a technology-enabled, lifelong learning environment, digital literacy (e-skills), scientific literacy, cultural literacy, in addition to key competencies, are the critical perquisites for access, participation, and learning to live together in peace.</item>
+        <item>With the advent of “e-learning,” some believed that the panacea for learning had been discovered. But without a holistic approach to learning, technology by itself can’t bring any change.</item>
+        <item>In a world of active lifelong learning, an individual’s skills portfolio will be built and documented based on a mix of real-life experiences, achievements, and formal learning certifications.</item>
+        <item>While classroom-based learning will continue, especially with early phases of education, it will play a decreased role during an individual lifetime.</item>
+        <item>In knowledge society, individuals of every age and background are invited to join in logical analysis, technical dissertations, rich and wide knowledge of diverse subject matters. “Intellectual activity is anywhere and everywhere, whether at the frontier of knowledge or in a third-grade class-room.” (Jerome Brunner)</item>
+      </list>
+    </section>
+    <section id="id-920406222591">
+      <title>Definition of Key Concepts</title>
+      <section id="id-941971984765">
+        <title>Lifelong Learning</title>
+        <para id="id9287824">A cradle to grave process designed to provide any citizen with a constantly updated personal and professional development. A tool which enables him/her to face change, to adapt to the requirements of the labor market, to take responsibility for his or her own life, to attain personal fulfillment and to assume the responsiveness of an active citizen.</para>
+      </section>
+      <section id="id-748389935124">
+        <title>Knowledge Society</title>
+        <list id="id8538644" list-type="enumerated">
+          <item>Is a society that creates, shares, and uses knowledge for the prosperity and well-being of its people.</item>
+          <item>Is what we should be seeking to build in the 21st century through networking, and acquisition of higher level cognitive skills.</item>
+        </list>
+      </section>
+      <section id="id-312219627941">
+        <title>New Approaches to Knowledge</title>
+        <list id="id8538670" list-type="enumerated">
+          <item>The new approach will strike a better balance between purely formal knowledge, applied knowledge and meta-knowledge.</item>
+          <item>At the present time knowledge is conveyed through speech and the written word. In the future, there will be an extraordinary diversification of its representations, particularly through the new information and communications technology (ICT).</item>
+          <item>Cross-cutting themes, interdisciplinary approach will become more important than disciplinary one.</item>
+          <item>Knowledge will be inclusive and it will involve “higher-level” of cognitive domain:<list id="id9287828" list-type="bulleted"><item>Analyses</item><item>Synthesis</item><item>Evaluation</item></list></item>
+          <item>Learners will be more closely associated with the creation of knowledge and more involved in the learning process.</item>
+        </list>
+      </section>
+      <section id="id-869185959597">
+        <title>Learning in Knowledge Society</title>
+        <para id="id8131785">Implies to differentiate between:</para>
+        <list id="id8131789" list-type="enumerated">
+          <item>superficial learning (reception/understanding/application)</item>
+          <item>deep learning (analysis/synthesis/evaluation)</item>
+        </list>
+        <para id="id8131805">Implies to construct knowledge, to make meaning, and continuous improvement of mental representation.</para>
+      </section>
+    </section>
+    <section id="id-239318636137">
+      <title>Constructivist’s definition of learning</title>
+      <list id="id8131822" list-type="bulleted">
+        <item>Learning is the process of adjusting our mental models to accommodate new experiences.</item>
+        <item>Learning is a search for meaning.</item>
+        <item>Meaning making requires wholes as well as parts.</item>
+        <item>Parts must be understood in the context of wholes.</item>
+        <item>Therefore, the learning process focuses on primary concepts not isolated facts.</item>
+      </list>
+    </section>
+    <section id="id-597465831003">
+      <title>Four pillars of lifelong learning in 21st century</title>
+      <list id="id8131865" list-type="bulleted">
+        <item>Learning to know</item>
+        <item>Learning to do</item>
+        <item>Learning to be</item>
+        <item>Learning to live together</item>
+      </list>
+      <para id="id9884281"><emphasis>Learning to know</emphasis> by mastering cognitive skills &amp; collaboration.</para>
+      <para id="id9884291"><emphasis>Learning to do</emphasis> by mastering skills &amp; production.</para>
+      <para id="id9884302"><emphasis>Learning to be</emphasis> by admitting multiple intelligent (MI) and sustainable human development.</para>
+      <para id="id9884312"><emphasis>Learning to live together</emphasis> by dialogue and tolerance.</para>
+    </section>
+    <section id="id-973587532229">
+      <title>Main objectives of lifelong learning</title>
+      <list id="id9884329" list-type="bulleted">
+        <item>Personal fulfillment and development throughout life (cultural capital)</item>
+        <item>Active citizenship and inclusion (social capital)</item>
+        <item>Employability (human capital)</item>
+      </list>
+    </section>
+    <section id="id-991383887495">
+      <title>Lifelong learning and Competencies</title>
+      <para id="id9884358">There are three broad types of competencies to be acquired through lifelong learning process:</para>
+      <list id="id9884364" list-type="enumerated">
+        <item>Communicative competencies: the ability to speak, listen, write, negotiate, and mediate.</item>
+        <item>Analytical competencies: the ability to operate within systems of formal logic, to create models, and to display a sociological imagination.</item>
+        <item>Personal competencies - the ability to display “emotional balance,” to accept diversity, to tolerate.</item>
+      </list>
+    </section>
+    <section id="id-40314035963">
+      <title>Key competencies</title>
+      <para id="id8131929">The key competencies mentioned above are neither school nor university topics, but are acquired in social groups or in the family. These competencies could be considered as tangible contribution to the lifelong learning process and to the construction of a knowledge–based society.</para>
+      <list id="id8131943" list-type="bulleted">
+        <item>Key competencies enable people to pursue individual objectives in a life driven by personal interests, aspirations, and the desire to continue learning throughout life (cultural capital).</item>
+        <item>Key competencies allow everybody to participate as an active citizen in society (social capital).</item>
+        <item>Key competencies upraise the capacity of each and every person to obtain a decent job in the labor market (human capital).</item>
+      </list>
+    </section>
+    <section id="id-90644451806">
+      <title>Dimensions of a Knowledge Society</title>
+      <para id="id8131977">The three specific dimensions of knowledge society are:</para>
+      <list id="id8131982" list-type="enumerated">
+        <item>The political dimension</item>
+        <item>The operational dimension</item>
+        <item>The dimension related to the development of Human Beings</item>
+      </list>
+      <para id="id8132002">The <emphasis>political dimension</emphasis> implies developing a “learning culture” &amp; “learning spaces” in civil society and in a work place.</para>
+      <para id="id8132013">The <emphasis>operational dimension</emphasis> implies all players in the lifelong learning process (institutions, NGO’s, companies, trade- unions, education and training authorities, practitioners, municipalities, local communities, museums,…) in order to build strategic lifelong learning partnerships and networks to analyze learning requirements and remove barriers to access to learning.</para>
+      <para id="id10030080">The <emphasis>dimension related to the development of human beings</emphasis> is the heart of the matter, since it implies a focus on people and citizens rather than abstract terms, such as “human resources” or “end-users.”</para>
+    </section>
+    <section id="id-1015348266">
+      <title>Best GLOBAL practices in lifelong learning</title>
+      <para id="id10030104">The best innovative practices in a European community are categorized under the following factors:</para>
+      <list id="id10030110" list-type="bulleted">
+        <item>Process-oriented innovation</item>
+        <item>Goal-oriented innovation</item>
+        <item>Context-oriented innovation</item>
+      </list>
+    </section>
+    <section id="id-241779732688">
+      <title>Implications of best innovative practices in lifelong learning</title>
+      <list id="id10030138" list-type="bulleted">
+        <item>Process-oriented innovation implies development of new methods, tools, or approaches, or improvement of existing methods.</item>
+        <item>Goal-oriented innovation implies formulation of new objectives. For example, active involvement of local communities in the development of basic competencies.</item>
+        <item>Context-oriented innovation are concerned with system(s) development and implies political and institutional structures and holistic approaches to integrate to sustainable human development.</item>
+      </list>
+    </section>
+    <section id="id-684603669174">
+      <title>Priorities for Action</title>
+      <list id="id9444655" list-type="enumerated">
+        <item>Valuing learning</item>
+        <item>Information guidance &amp; counseling</item>
+        <item>Investing time &amp; money in learning</item>
+        <item>Bringing together learners and learning opportunities</item>
+        <item>Applying innovative pedagogy</item>
+      </list>
+      <para id="id9444688"><emphasis>Valuing learning</emphasis> by, for example, developing tools for assessing competencies and methodologies.</para>
+      <para id="id9444699"><emphasis>Information guidance and counseling</emphasis> by orienting people to manage their knowledge.</para>
+      <para id="id9444709"><emphasis>Investing time and money in learning</emphasis> by collaboration between public &amp; private bodies.</para>
+      <para id="id9444719"><emphasis>Bringing together learners and learning opportunities</emphasis> by showing how “normal” instruments such as TV, popular music and theater, rituals, arts, books and reading can be used as powerful levers for inclusion through lifelong learning.</para>
+      <para id="id9444736"><emphasis>Innovative and critical pedagogy</emphasis> by adaptability to contexts and constructing knowledge through Constructive socio-cultural and holistic approaches to learning.</para>
+    </section>
+    <section id="id-770674595332">
+      <title>Epilogue</title>
+      <para id="id8867533">A knowledge–based society is a promising and challenging Global scenario with the advent of ICT in the 21st century. It carries both opportunities for personal advancement and the threat of being ‘left behind.” Opportunities provided to citizens through lifelong learning are a potential tool for empowerment. As pro-active lifelong learners we need to be equipped with new competencies as we construct knowledge personally through social processes and culture. To be equipped with the key competencies for lifelong learning in a knowledge society could be considered as a right and obligation of every human being.</para>
+    </section>
+    <section id="id-993326170117">
+      <title>Concluding point</title>
+      <para id="id8867556">
+        <emphasis>It is high time to consider lifelong learning as a moral duty and/or ethical value of the Citizen of the world.</emphasis>
+      </para>
+    </section>
+    <section id="id-512706572951">
+      <title>References</title>
+      <list id="id8867574" list-type="enumerated">
+        <item>Binde, Jerome. (2001). Keys to the 21st century. Unesco, Paris.</item>
+        <item>Delors, Jacques. (1996).Learning: The treasure within. Unesco, Paris.</item>
+        <item>European Civil Society. (2004).Developing key competences: report of 25 best practices. Directorate General of Education and Culture.</item>
+        <item>Bransford, John D. &amp; others. (2000). How people learn: Brain, Mind, Experience, and school. National Academy Press. Washington, D.C.</item>
+        <item>Architecture for Implementation of a Lifelong Online Learning Environment (LOLE) - Caron, P., Beaudoin, G., Leblanc, F. &amp; Grant, A. - International Journal on E-Learning. 6 (3), 2007, pp. 313-332, Chesapeake, VA: AACE. Online: [PDF]</item>
+        <item><link url="http://www.pedagogy.ir/">http://www.pedagogy.ir</link>, Lifelong Learning - Pedagogy.ir - Pedagogy, Lifelong learning, Learning Environment &amp; Performance &amp; More</item>
+      </list>
+      <section id="id-959210095535">
+        <title>Responses</title>
+        <para id="id9189780">
+          <emphasis>5 Responses to “Lifelong Learning in Knowledge Society Introduction”</emphasis>
+        </para>
+        <section id="id-48436931657">
+          <title>1. Ken Udas - May 29th, 2007 at 9:47 pm </title>
+          <para id="id9189804">
+            <emphasis/>
+          </para>
+          <para id="id9189810">
+            <emphasis/>
+          </para>
+          <para id="id9189817">Farideh, First, thank you for this very interesting posting. I must admit that I have a rather special place for life long learning and I like your approach. Although I do understand that you are referring to all activities in which we engage as learning opportunities, I am wondering of you see a special role for formal educational institutions such as schools and universities in lifelong learning? What would schools and universities have to do to become more relevant to lifelong learning in the knowledge society that you describe? Are there organizations that are better suited to lifelong learning than are schools and universities? Ken</para>
+        </section>
+        <section id="id-143772883974">
+          <title>2. Farideh Mashayekh (Bazargan) - May 31st, 2007 at 3:01 pm </title>
+          <para id="id9189844">Ken, Thank you for your comment about Lifelong Learning in Knowledge Society.</para>
+          <para id="id9189850">Yes, I see a very special role for formal educational institutions such as schools and universities.</para>
+          <para id="id9189856">As you may have noticed in <link url="http://www.pedagogy.ir/">pedagogy.ir</link> site logos, LLL. starts from cradle to grave .Therefore, formal educational institutions are supposed to prepare learners (from early ages up to graduation and after) with generative skills and key competencies. Such as: communication and research skills ,information and scientific literacy. These skills and competencies are either included in existing curriculum or should be included and strengthened. Farideh</para>
+        </section>
+        <section id="id-969313240135">
+          <title>3. Ken Udas - June 1st, 2007 at 12:38 pm </title>
+          <para id="id9965754">Farideh, Thank you. I think that there is a lot here. I am interested in hearing your thoughts about some of the relationships between life long learning in formal institutions like schools, universities, trade schools, corporate training, etc., and the type of life long learning that happens in very informal contexts. For example, the learning that occurs when your first birthday is celebrated, your first contact</para>
+          <para id="id9965765">with a computer, your first experience with the police, etc.</para>
+          <list id="id9965771" list-type="bulleted">
+            <item>Can informal and formal life long learning experiences inform each other?</item>
+            <item>How can curriculum in formal learning organizations support the healthy development of life long learning?</item>
+            <item>How do we capture our learning so it can be shared with others? That is, what types of artifacts can be generated and shared?</item>
+          </list>
+          <para id="id9965795">Thanks Ken</para>
+        </section>
+        <section id="id-358071637116">
+          <title>4. Farideh Mashayekh (Bazargan) - June 1st, 2007 at 2:01 pm </title>
+          <para id="id9965817">Ken, Thank you. Following are answers to your interesting questions:</para>
+          <list id="id9965823" list-type="enumerated">
+            <item>Yes, formal and informal lifelong learning experiences can inform each other through the adoption of constructive approach to learning.</item>
+            <item>The curriculum in formal learning institution can support the development of LLL.through mastery of deep learning and critical thinking.</item>
+            <item>We can capture our learning through the improvement of our mental representation.</item>
+          </list>
+          <para id="id9797827">regards, Farideh</para>
+        </section>
+        <section id="id-676334157833">
+          <title>5. Ken Udas - June 4th, 2007 at 4:55 am</title>
+          <para id="id9797839">Farideh,</para>
+          <para id="id9797844">Thank you. I would like to follow up a little more about how you see the sharing of learning through “mental representations.” Clearly, life long learning (LLL), as you have described it, has an active component in which learners engage with each other and their environments. I assume that LLL does not necessarily happen in isolation and that it can be quite social. Frequently part of active learning is the generation of artifacts, things that have some information content that can be shared. I am wondering if you can describe some of this in terms of your conception of LLL and the potential usefulness of open educational resources.</para>
+          <para id="id9797862">I am very interested in learning your thoughts about the types of things that are typically created through LLL and how we will share them. Is there an opportunity to network life long learners and the LLL process across cultures and boarders, at a distance, perhaps using technologies to connect learners? If so, could you describe this? Ken</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

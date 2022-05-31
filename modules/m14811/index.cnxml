@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Summary</title>
+  <metadata>
+  <md:content-id>m14811</md:content-id><md:title>Summary</md:title>
+  <md:abstract>Summary of Mara Hancock's contribution to the "OSS and OER in Education Series." In this post, she asks some questions and shares some insights about the changing nature of OSS in teaching and learning and relates it to its impact on user experience and teaching and learning methods.</md:abstract>
+  <md:uuid>4a22df64-3cf2-4e92-adf4-085fe10f60c1</md:uuid>
+</metadata>
+  <content>
+    
+    <section id="id-403140833751">
+      <title>Summary - Open Source Software and the User Experience in Higher Education</title>
+      <para id="id12335962">“Open Source Software and the User Experience in Higher Education,” the tenth installment of the Impact of Open Source Software Series, was posted on July 11th, 2007, by Mara Hancock who is with the Educational Technology Services at UC Berkeley. Thanks Mara for a great posting!</para>
+      <para id="id4551991">In her posting, Mara uses her direct experience with some community source projects and involvement with the Fluid project. She starts off my discussing the nature of usability and user experience, and makes clear that usability is not an issue exclusive to OSS, but OSS presents some fantastic opportunities and some significant challenges. The remainder of Mara’s post addresses some of these challenges. The challenges raised (and opportunities) of OSS as they relate to user experience and usability included:</para>
+      <list id="id4699698" list-type="bulleted">
+        <item>Distributed Teams: Although it is one of the powerful attributes of OSS, it also has the tendency to result in fragmentation of requirements based on local needs, and the creation of development silos.</item>
+        <item>Code-Centric Culture: The currency of value in OSS is code and many usability professionals do not write code.</item>
+        <item>Right People for the Right Job: User Interface and pedagogical expertise is not frequently hired into development teams.</item>
+        <item>Flexibility of OSS: The flexibility that Open Code provides allows for incremental improvement based on local conditions, but that flexibility can also result in poor and inconstant user interface making testing very challenging.</item>
+        <item>User-Friendly Architectures and Technologies: It is critical that an OSS application is friendly to the end user, but it must also be friendly to designers, developments, administrators, and other stakeholders.</item>
+      </list>
+      <para id="id4600859">To varying degrees, the Fluid project is addressing these challenges. In addition to providing a very engaging post, Mara also provided us with a number of useful links.</para>
+    </section>
+    <section id="id-357050565049">
+      <title>Comments</title>
+      <para id="id8397015">The comments concentrated principally on Mara’s insights around the relationships between software developers and lend users including learning designers and teachers. Open Source provides opportunities for better design for usability, but managers have to take advantage of the opportunities by hiring appropriate professionals and then providing time to actually work on usability. Additional questions were raised about the characteristics of open source communities that might produced better user experiences based on user engagement in the community. Finally, an observation was made about how the opportunities OSS offers for customization, and the desire for localization among many user groups, challenges usability testing.</para>
+      <para id="id3316498">Thanks again to Mara, for her engaging post and excellent responses to all questions, and to Michael Feldstein and other folks who have been reading along. Our next posting will be by Dick Moore, who serves as the Director of Technology at Ufi, on July 25, 2007. I am very much looking forward to Dick’s post. </para>
+    </section>
+  </content>
+</document>

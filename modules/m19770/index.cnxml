@@ -1,0 +1,364 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Open Access Journal Literature is an Open Educational Resource </title>
+  <metadata>
+  <md:content-id>m19770</md:content-id><md:title>Open Access Journal Literature is an Open Educational Resource </md:title>
+  <md:abstract>Gavin Baker's contribution to the OSS and OER in Education Series. In this post, he writes about linkages between open access journal literature and open educational resources, arguing that free education needs free scholarship.</md:abstract>
+  <md:uuid>0103a215-af27-419e-a302-a4981351ebdd</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-854"><note id="eip-id6012519" type="Author Information">Author - Gavin Baker, "Open Access Journal Literature is an Open Educational Resource". Originally submitted September 5th, 2007 to the OSS and OER in Education Series, Terra Incognita blog (Penn State World Campus), edited by Ken Udas.</note></para><para id="id9091314">In addition to FOSS and OERs, there is another phenomenon which is having a marked impact on education – in particular, on higher education. This movement shares a similar philosophy, focuses on making content available online gratis, uses open copyright licenses, and most of the noteworthy software used by the movement is FOSS. I’m writing about the movement for open access to peer-reviewed scholarly journal literature.</para>
+    <para id="id9091332">Advocates of OERs should seek to understand the open access movement – not only out of curiosity over the linkages or similarities between the two movements (and there are many) but because, as I will argue, free education needs free scholarship.</para>
+    <para id="id12069408">(Readers already familiar with OA may wish to skip ahead to the section entitled “<link target-id="id12069854">Why free education needs free scholarship</link>”.)</para>
+    <section id="id12069417">
+      <title>Open access: low-hanging fruit of free culture</title>
+      <para id="id12069424">The OA movement deals with (in the words of the <link url="http://www.soros.org/openaccess/" window="new">Budapest Open Access Initiative</link>), “that which scholars give to the world without expectation of payment” – namely, peer-reviewed scholarly journal articles.</para>
+      <para id="id12069435">To borrow <link url="http://www.earlham.edu/~peters/fos/newsletter/07-02-07.htm">the words of Peter Suber</link>, open access is a response both to problems and to opportunities. OA tries to solve real problems: readers have limited access to knowledge, authors have limited impact for their scholarship, libraries have limited budgets for journal subscriptions. On the other hand, OA also aims to capitalize on opportunities: the potential for non-rivalrous, low cost distribution on the Internet, along with the information processing capacity of computers.</para>
+      <para id="id12069455">There is not complete consensus on the precise definition of an open access work (I understand this is a similar situation with OERs). However, two influential statements provide definitions: the <link url="http://www.soros.org/openaccess/">Budapest Open Access Initiative</link> and the <link url="http://www.earlham.edu/~peters/fos/bethesda.htm">Bethesda Statement on Open Access Publishing</link>.<sup><link target-id="id12070300">1</link></sup></para>
+      <para id="id12069491">Generally speaking, according to these definitions, open access literature is:</para>
+      <list id="id12069497" list-type="bulleted">
+        <item>Made available <emphasis effect="italics">gratis</emphasis>, or “free as in ‘free beer’”, on the public Internet. There is no cost to access the content, aside from any costs incidental to access the Internet itself. Stated differently, access barriers to the content are removed.</item>
+        <item><emphasis effect="italics">Libre</emphasis>, or “free as in ‘free speech’”. Permission barriers to use of the content are removed. The definitions of Budapest and Bethesda differ slightly on the details here, but both require the freedom to use and redistribute, subject to attribution of authorship. The biggest discrepancies between the two definitions are on the subjects of derivative works and commercial use:<list id="id12069538" list-type="bulleted"><item>Bethesda includes the right to make and distribute derivative works, but is silent on the right to make commercial use.</item><item>Budapest states that authors should have “control over the integrity of their work”, which restricts the ability to make derivative works. The declaration further states that integrity of the work and attribution of authorship should be “the only constraint[s] on reproduction and distribution”, which implies the right to make commercial use.</item></list></item>
+      </list>
+      <para id="id12069563">Those familiar with FOSS and OERs will note the striking similarities in how the three movements define their work.</para>
+      <para id="id12069570">What does this look like? The first condition, free online availability, is usually satisfied one of two ways<sup><link target-id="id12070323">2</link></sup>:</para>
+      <para id="id12069581"><title>Archiving, usually by the article’s author</title>Archiving, usually by the article’s author. This is known as the “green” road to open access. Articles are typically archived by deposit in one of two types of Web sites:<list id="id12069592" list-type="bulleted"><item>An institutional repository, provided by the author’s institution to host the scholarship of authors affiliated with the institution. For an example, see <link url="http://dspace.mit.edu/">DSpace at MIT</link>.</item>
+        <item>A subject repository, provided to host scholarship in a particular field. For an example, see <link url="http://arxiv.org/">arXiv </link>(for physics and related fields).</item></list>
+An author may provide open access to his own articles by archiving them, regardless of whether the journals in which the articles were published are open access (subject to journal policies and copyright, but almost all journals allow this in one form or another).</para>
+      
+      
+      <para id="eip-899"><title>Publishing in open access journals</title>Publishing in open access journals, which provide open access to their complete scholarly content immediately upon publication. This is known as the “gold” road to open access. For an example, see the <link url="http://www.plos.org/journals/">Public Library of Science journals</link>.</para>
+      <para id="id12069664">The second condition, free licensing, is usually satisfied by way of a <link url="http://www.creativecommons.org/">Creative Commons</link> license. Befitting the disagreement regarding which rights to grant and which to reserve, this condition has wide variance in implementation, from the <link url="http://www.plos.org/journals/">PLoS journals</link> which use the <link url="http://creativecommons.org/licenses/by/3.0/">CC Attribution</link> license, to most self-archived papers which contain no specific grant or waiver of any rights whatever (but are nonetheless commonly referred to as “open access”).</para>
+      <para id="id12069707">Both archiving and journals are facilitated by widely-used FOSS packages, e.g. <link url="http://pkp.sfu.ca/ojs/">Open Journal Systems</link> for journals and <link url="http://www.eprints.org/software/">EPrints</link> for archives.</para>
+      <para id="id12069731">It should be noted that open access has no connection with the quality of scholarship in an article or a journal. The same quality controls, such as peer review, are present in the publication process, whether or not the reader will need a subscription to access the output.</para>
+      <para id="id12069740">So where are we? A brief snapshot of the OA movement:</para>
+      <list id="id12069745" list-type="bulleted">
+        <item>71% of journal publishers on the <link url="http://www.sherpa.ac.uk/romeo.php">SHERPA/RoMEO</link> list formally allow some form of self-archiving.</item>
+        <item>2818 journals are listed in the <link url="http://www.doaj.org/">Directory of Open Access Journals</link>.</item>
+        <item><link url="http://arxiv.org/">arXiv</link>, the preeminent repository in physics and related fields, includes the full text of nearly half a million articles.</item>
+        <item><link url="http://www.eprints.org/openaccess/policysignup//">A number</link> of public and charitable research funders have mandated that grant recipients provide open access to publications resulting from the organization’s funding. Other funders are considering adopting similar mandates, including the U.S. National Institutes of Health, the Canadian Institutes of Health Research, and the European Commission.</item>
+      </list>
+      <para id="id12069828">(In preparing this entry, I wrote a bit more about linkages and similarities between FOSS, OA, and OERs. I decided to excise that section from this post, but if you’re interested in further musings on the subject, I invite you to my blog <link url="http://www.gavinbaker.com/2007/09/04/open-access-open-education-and-foss/">to read and comment there</link>.)</para>
+    </section>
+    <section id="id12069854">
+      <title>Why free education needs free scholarship</title>
+      <para id="id12069860">Here are four reasons why advocates of OERs should support OA journal literature:</para>
+      <list id="id12069866" list-type="enumerated" number-style="arabic"><item><link target-id="id12069894">As direct learning content in tertiary education</link></item>
+<item><link target-id="id12070022">As “outside-the-classroom” learning content</link></item>
+<item><link target-id="id12070078">As learning content for self-learners</link></item>
+<item><link target-id="id12070245">As “raw materials” for re-use in free learning content</link></item></list>
+      <section id="id12069894">
+        <title>1. Journal literature as direct learning content, particularly in tertiary education</title>
+        <para id="id12069902">As long as professors assign readings from scholarly journals, learning content will not be fully free if the journal literature is not free.</para>
+        <para id="id12069909">For the user (the student), the costs of accessing this learning content are non-trivial.<sup><link target-id="id12070349">3</link></sup> The student pays these costs in the purchase of coursepacks, also known as sourcebooks. Coursepacks assemble readings from disparate sources, frequently including journal articles as a significant portion. Unlike a textbook, though, a coursepack is custom-assembled for each class. This gives a professor greater flexibility in selecting readings for her class, but this ability to change the contents of the coursepack destroys the resale market: nobody wants to buy an old coursepack with the wrong readings. Conversely, a student can often hope to recover 50% of the cost of textbooks in resale when the course is completed.</para>
+        <para id="id12069930">Who profits when students pay these access costs? The copy center or book store will receive a portion. Another portion may go to a rights licensing middleman, such as the <link url="http://www.copyright.com/">Copyright Clearance Center</link>. But most of the revenue will go to the article’s copyright holder – which, as a rule, is the journal publisher, not the article’s author.</para>
+        <para id="id12069950">Open access cuts out these middlemen: once peer review and editing have been performed, and the article has been published, the article is forever free to the world for educational use.</para>
+        <para id="id12069957">Other approaches to circumventing the middlemen will not prove as sustainable a solution as OA:</para>
+        <list id="id12069963" list-type="bulleted"><item>Relying on fair use as legal grounds to distribute copies of the articles to students is a <link url="http://fairuse.stanford.edu/Copyright_and_Fair_Use_Overview/chapter7/7-a.html">perilous position</link>.</item>
+          <item>E-reserves are <link url="http://www.libraryjournal.com/article/CA601047.html?display=NewsNews&amp;industry=News&amp;industryid=1986&amp;verticalid=151">similarly problematic</link>.</item>
+          <item>“Virtual coursepacks,” which link to copies of the articles in electronic databases via the institution’s library subscriptions, only shift the cost from students to libraries. At a time when libraries have struggled with surging serials costs<sup><link target-id="id12070441">4</link></sup>, this cannot be a sustainable solution, either.</item>
+        </list>
+      </section>
+      <section id="id12070022">
+        <title>2. Journal literature as indirect or “outside-the-classroom” learning content</title>
+        <para id="id12070031">Journal literature is often encountered in educational contexts other than where an article has been assigned for reading.</para>
+        <para id="id12070037">Most commonly, a tertiary student will consult journal literature as a source for coursework. Tertiary students are frequently assigned to write research papers which cite articles from scholarly sources, including peer-reviewed journals. The process of conducting this search, filtering and reviewing relevant literature is an educational process. Broad access to this literature enhances the student’s education. Unfortunately, as long as scholarship is disseminated on a “toll-access” basis, some students will be priced out of access. This is particularly notable for students at educational institutions in developing countries<sup><link target-id="id12070462">5</link></sup>.</para>
+        <para id="id12070068">Another educational context for journal literature is as optional reading for secondary or tertiary students. An interested student may (perhaps for extra credit in the course) volunteer to read journal articles related to class topics. Again, here broad access enriches the educational experience.</para>
+      </section>
+      <section id="id12070078">
+        <title>3. Journal literature as learning content for self-learners</title>
+        <para id="id12070086">If one considers education as <link url="http://blog.worldcampus.psu.edu/index.php/2007/05/29/lifelong-learning-in-knowlege-society/">lifelong learning</link>, then journal literature must be acknowledged as learning content with great value for self-learners.</para>
+        <para id="id12070104">Many parents of children with uncured diseases have an unquenchable thirst for information about the condition – particularly for rare diseases which receive little coverage in the mainstream press. Journal articles which report original research are of incredible value to help parents understand their child’s condition. Unfortunately, many of these parents express frustration with obtaining access to relevant literature. (Many organizations which represent these parents are members of the <link url="http://blog.worldcampus.psu.edu/index.php/2007/05/29/lifelong-learning-in-knowlege-society/">Alliance for Taxpayer Access </link>for this very reason.)</para>
+        <para id="id12070135">Less dramatically, newspapers report daily on the latest findings of scientists and health research. Usually, the coverage reports findings originally published in a peer-reviewed journal. But the curious reader who desires to read the original paper himself is frequently stymied, not having a subscription to the journal. (For a light-hearted example to the contrary, see <link url="http://www.news-journalonline.com/NewsJournalOnline/News/EastVolusia/evlEAST03082707.htm">this recent article</link> from the Daytona Beach News-Journal, which points readers to an <link url="http://www.arxiv.org/abs/0707.1167">article deposited in the arXiv</link>.)</para>
+        <para id="id12070169">Going a step further, consider that prized tool of self-learners, <link url="http://www.wikipedia.org/">Wikipedia</link>. Imagine if each Wikipedia article on a scientific subject was fully referenced (a <link url="http://en.wikipedia.org/wiki/Wikipedia:Verifiability">goal</link> of the project). Imagine further that each citation linked to a freely-available copy of a relevant journal article. Those links would prove tremendously valuable to the self-learner who aspires to deepen his understanding of the topic.<sup><link target-id="id12070481">6</link></sup></para>
+        <para id="id12070208">Beyond access barriers, removing permission barriers opens even more possibilities: <link url="http://dx.doi.org/10.1371/journal.pbio.0020025">translation</link>, <link url="http://www.icommons.org/node/acawiki">summary</link>, <link url="http://www.plosone.org/">annotation and commentary</link>, to name a few.</para>
+      </section>
+      <section id="id12070245">
+        <title>4. Journal literature as “raw materials” for re-use in free learning content</title>
+        <para id="id12070254">OA journal articles can be cited in free textbooks, listed as recommended reading at the end of a textbook chapter, included as learning modules (with or without annotation, translation, summary, etc.), or repurposed for use in other learning content (need a graph or illustration? Just borrow it!).</para>
+        <para id="id12070263">OA journal literature represents a broad body of scholarly-quality content, without price or permission barriers, available for re-use to enrich OERs.</para>
+      </section>
+    </section>
+    <section id="id12070272">
+      <title>Conclusion</title>
+      <para id="id12070279">I hope this post sparks a lively discussion to inaugurate the fall series of contributors. I look forward to discussing these issues with you.</para>
+    </section>
+    <section id="id12070286">
+      <title>Footnotes</title>
+      <para id="id12070293">[0] By way of disclaimer, the opinions in this post (and in any commentary that follows) are not those of my client or anyone else, and I claim sole responsibility for them.</para>
+      <para id="id12070300">[1] A third notable statement on OA, the <link url="http://oa.mpg.de/openaccess-berlin/berlindeclaration.html">Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities</link>, uses largely the same definition as the Bethesda Statement. Together, these statements are referred to as the “three B’s” of open access.</para>
+      <para id="id12070323">[2] In The Access Principle, John Willinsky identifies not two but ten “flavors” of open access, six of which comply with the Bethesda Definition. John Willinsky, “Ten Flavors of Open Access”, <link url="https://mitpress.mit.edu/books/willinsky/TheAccessPrinciple_TheMITPress_0262232421.pdf">The Access Principle: The Case for Open Access to Research and Scholarship</link> (Cambridge, Mass.: MIT Press, 2006), 211-6.</para>
+      <para id="id12070349">[3] On the cost of textbooks and supplies for college students in the U.S.:</para>
+      <para id="id12070354"><quote id="eip-id45609181">According to data from [the U.S. Department of] Education’s Integrated Postsecondary Education Data System, first-time, full-time students attending 4-year private, nonprofit colleges were estimated to spend $850 for books and supplies in their first year, or 8 percent of the cost of tuition and fees during academic year 2003-2004 … In contrast, first-time, full-time students paying in-state tuition at 4-year public colleges or universities were estimated to spend 26 percent of the cost of tuition and fees on books and supplies, or $898, during the same period. At 2-year public colleges, where low-income students are more likely to begin their studies and tuition and fees are lower, first-time, full-time students are estimated to spend 72 percent of the cost of tuition and fees on books and supplies. Specifically, 2-year public colleges estimated that their first-time, full-time students would spend about $886 in 2003-2004 on books and supplies.</quote></para>
+      <para id="id12070393">source: U.S. Government Accountability Office, <link url="http://www.gao.gov/new.items/d05806.pdf">College Textbooks: Enhanced Offerings Appear to Drive Recent Price Increases</link> (Washington, DC: Government Accountability Office, 2005).</para>
+      <para id="id12070412">For anecdotal evidence on the cost of coursepacks specifically, see:</para>
+      <para id="id12070418">“<link url="http://www.thecrimson.com/article.aspx?ref=505822">Attack of the Wallet Killers</link>”, editorial, The Harvard Crimson (18 February 2005).</para>
+      <para id="id12070435">Personal observation: When I was a student (not long ago), I had classes where the coursepack cost more than the textbook!</para>
+      <para id="id12070441">[4] Scholarly Publishing and Academic Resources Coalition, “Book and Journal Costs, 1986-2002″, <link url="http://www.createchange.org/createchange2003.pdf">Create Change</link> (Washington, DC: Scholarly Publishing and Academic Resources Coalition, 2003), 3.</para>
+      <para id="id12070462">[5] See e.g. Willinsky, “Development”, <link url="https://mitpress.mit.edu/books/willinsky/TheAccessPrinciple_TheMITPress_0262232421.pdf">The Access Principle</link>, 93-110.</para>
+      <para id="id12070481">[6] Disclosure: For these reasons, I am involved in an effort to write a <link url="http://en.wikipedia.org/wiki/Wikipedia:Open_Access">guideline for Wikipedia</link> on the subject.</para>
+    </section>
+    <section id="id12070500">
+      <title>Comments</title>
+      <section id="id12070506">
+        <title>1. steelgraham - September 5th, 2007 at 1:25 pm </title>
+        <para id="id12070523">Dear Gavin Baker,</para>
+        <para id="id12070530">Many thanks for preparing, writing and sharing this most splendid blog.</para>
+        <para id="id12070539">I for one hope this gets the readership that it deserves.</para>
+        <para id="id12070547">Kind regards,</para>
+        <para id="id12070556">Graham Steel</para>
+      </section>
+      <section id="id12070564">
+        <title>2. Ken Udas - September 6th, 2007 at 7:39 am </title>
+        <para id="id12070577">First, I would like to thank Gavin for this great post. It really provides a nice foundation for discussion. In addition to providing some great background, it also provides the following 4 reasons why advocates of OERs should support OA journal literature:</para>
+        <list id="eip-859" list-type="enumerated" number-style="arabic"><title>quoted text</title><item>As direct learning content in tertiary education</item>
+<item>As “outside-the-classroom” learning content</item>
+<item>As learning content for self-learners</item>
+<item>As “raw materials” for re-use in free learning content</item></list><para id="eip-596">Refocusing from the learner to the academy, I would assume that an organizational argument for publication in OA journals is that it facilitates part of the information and knowledge dissemination mission that strikes at the core purpose of many universities. Through reducing access barriers (not necessary peer review and quality assurance), would act as a catalyst for contributing to the development of disciplinary and interdisciplinary knowledge.</para><para id="eip-690">What are some of the arguments against OA journals? That is, have you (anybody) heard rationale from particular groups inside the academy or outside that challenge publication in OA journals? I would imagine that concerns about OA journals are different from OER Courseware.</para>
+        
+        
+        
+        
+        
+      </section>
+      <section id="id12070641">
+        <title>3. RedSevenOne - September 6th, 2007 at 3:16 pm </title>
+        <para id="id12070654">First off the mark, this post has receive the much coveted, even by those who don’t know it exists yet, 10/10++ rating on the Camp One Way Cool Scale.</para>
+        <list id="id12070664" list-type="enumerated" number-style="arabic"><item>Camp One exists because of the largess and profound understanding that exist and is growing for the need, we say, to put the joy back in learning.</item>
+          <item>Camp One exists as a sanctuary for a group of knowledge seeker who have made it back from the abyss that is Chrystal Meth addiction, who have discovered there is something out there an the Highway of Light to learn and moreover, enjoy learning.</item>
+          <item>Camp One exists because of a shared vision by a group of people who have ‘Made It’, yet who realized that there is a very fine line between the life they enjoy and the dark abyss just a hair thin line away.</item>
+        </list>
+        <para id="id12055656">Allow me to share what the profound power of Open Access can achieve –</para>
+        <para id="id12055665">‘When ‘Dave’ first asked me for help, I suggest to people that asking me for help is a bad decision if they expect to fail, he had a $250.00/Day Meth habit. I introduced him to the Zome tool and hooked him up to my network. In time he became interested in High Energy Physics and devoured everything available from the folks at SLAC, Fermilab, and CERN. He the discovered arXiv and more recently Eprintweb at Cornell and read every dispatch, sometimes sent running to our data miner to find out more on topics he could not grasp.</para>
+        <para id="id12055692">‘He discovered he could Email the authors of the reports and started asking questions about things he could not understand. A sort of Adhoc support group formed around the questions he asked because he had asked questions they had not thought of. This relationship as grown to the point that ‘Dave’ has been invited to the first firing of the LHC next Spring at CERN. All this from a young man who I was told by the local Judicial authorities was a dead loss.’</para>
+        <para id="id12055715">Open Access has a thus affected the people I have contact with and as I have said in a few other venues, anyone who opposes it, can either Lead, Follow or Get out of the way, for change, it comes.</para>
+        <para id="id12055725">Martin G. Smith Ph.D – Coordinator</para>
+        <para id="id12055734">RedSeven Services – MATH Not METH</para>
+        <para id="id12055742">ABOTA*-ONAMISSION</para>
+        <para id="id12055750">[*A Bridge Over The Abyss]</para>
+        <para id="id12055757">Camp One – Hesquait</para>
+        <para id="id12055764">PO Box 201</para>
+        <para id="id12055771">Hesquait [Gold River]</para>
+        <para id="id12055778">V0P 1G0</para>
+        <para id="id12055786">British Columbia,</para>
+        <para id="id12055793">Canada</para>
+      </section>
+      <section id="id12055801">
+        <title>4. Gavin Baker - September 6th, 2007 at 4:26 pm </title>
+        <para id="id12055816">Graham and Ken, thanks for the kind words.</para>
+        <para id="id12055823">Ken, at the institution level, most of the momentum has been for OA archiving: the author publishes in whatever journal, open or not, and simply posts a copy of his paper online. A great deal of universities have opened an institutional repository in which faculty can deposit their papers. From the institution’s perspective, it can create a place to showcase its scholarly output and help to disseminate it.</para>
+        <para id="id12055844">With regard to OA journals, there are some detractors.</para>
+        <para id="id12055852">I will not waste breathe on the PR pitbulls who shriek that OA journals spell the death of peer review; that is simply false. <link url="http://www.earlham.edu/~peters/fos/newsletter/09-02-07.htm">Peter Suber </link>and <link url="http://www.arl.org/bm~doc/issue-brief-aap-pr-prism.pdf">ARL</link> have thoroughly rebutted this claim.</para>
+        <para id="id12055888">I am sure there many other dumb arguments against OA journals, but I try to mentally filter out such noise.</para>
+        <para id="id12055897">Any good arguments against OA journals will focus on the only way in which they are different from toll-access journals: i.e. that their content is made freely available online, that their content uses open licenses, and that (because they give away their content) a subscription-based business model will be very difficult to sustain.</para>
+        <para id="id12055910">On the first point: There are no good arguments that free online access is undesirable. Some may argue that the benefit is not worth the cost, but no reasoned argument will deny that there are indeed significant benefits. Some question how much demand there is for free online access, but my experience suggests the demand is quite real.</para>
+        <para id="id12055923">On the second point: Again, some question the necessity of open licensing, but I find there are many reasons why it is desirable.</para>
+        <para id="id12055932">The biggest question with open licensing, I would think, is allowing derivative works, out of quality control concerns. (There are no valid reasons, in my opinion, to preserve the “integrity” of a journal article, other than quality control concerns.) But, as I address in <link url="http://www.gavinbaker.com/2007/09/04/whos-journal-has-backwards-approach-to-open-access/">a post on my blog</link>, there is nothing to fear; at least, what little there is to fear is worth the opportunities it opens.</para>
+        <para id="id12055964">The other sort of uses that one might want to prevent via copyright, such as commercial use or redistribution, are only concerns insofar as they imperil a particular business model. I will address this further below.</para>
+        <para id="id12055975">To the final point, that the preceding two necessitate a shift in business models: It’s true. If you can no longer extract rent from access or permission barriers, you’ll need to find a new business model. What are these models? I’ll copy Willinsky here:</para>
+        <para id="id12055991"><emphasis effect="bold">Author fee:</emphasis> Author fees support immediate and complete access to open access journals (or, in some cases, to the individual articles for which fees were paid), with institutional and national member-ships available to cover author fees. e.g. BioMed Central</para>
+        <para id="id12056007"><emphasis effect="bold">Subsidizied:</emphasis> Subsidy from scholarly society, institution and/or government/foundation enables immediate and complete access to open access journal. e.g. <emphasis effect="italics">First Monday</emphasis></para>
+        <para id="id12056021"><emphasis effect="bold">Dual-mode</emphasis>: Subscriptions are collected for print edition and used to sustain both print edition and online open access edition. e.g. <emphasis effect="italics">Journal of Postgraduate Medicine</emphasis></para>
+        <para id="id12056031"><emphasis effect="bold">Cooperative: </emphasis>Member institutions (e.g., libraries, scholarly associations) contribute to support of open access journals and development of publishing resources. e.g. German Academic Publishers</para>
+        
+        <para id="id12056050">To elaborate a bit on the author fee model, I would break this down into two: full and hybrid. Full author fee journals are fully OA, with no subscription revenue. Hybrid journals charge subscriptions, but also offer <emphasis effect="italics">individual</emphasis> authors the opportunity to pay to make their own articles OA; the theory is, the author fee offsets the loss in subscription revenue.</para>
+        <para id="id12056064">So, put differently, there are three fundamental publishing models for scholarly journals in a non-rivalrous digital environment:</para>
+        <para id="id12056073"><emphasis effect="bold">Reader pays.</emphasis> (Where “reader” is a user online, not necessarily in print) If you don’t pay, you can’t have access. This is the subscription or “paywall” model used by toll-access journals. The journal’s incentive, then, is to publish content that readers are most willing to pay for (or demand that their library pay for it). This has been a good incentive structure for high publication quality, but obviously provides a counter-incentive to provide the widest access (the incentive is to widen access only towards the point where number of subscribers and revenue per subscriber are optimized).</para>
+        <para id="id12056095"><emphasis effect="bold">Author pays.</emphasis> If you don’t pay, your article can’t be published. It sounds a bit like a vanity press when you put it that way, but reputable author-pays journals don’t collect until after an article has been accepted, so there’s no “pay-to-play”. (Reputable author-pays journals also have discounts or waivers for researchers who truly can’t afford it.) The journal’s incentive is to publish content that authors are most willing to pay for (usually from their research grants). This might sound like the journal’s incentive will be to publish anything, and thus collect the most article processing fees. No doubt there will be a few journals that do this (as there have always been vanity presses), but I don’t think most will go down this path. The publication process for an academic is all about prestige; if a journal is known to publish junk, it will have no prestige, and thus few academics interested in publishing there. So I think the incentive structure here, too, will support scholarly quality. If anything, the author pays incentive structure will support a change in quantity, I think, not in quality. Particularly if authors pays journals are completely electronic, whereas reader pays journals continue to publish a print edition, the reader pays journals are bound to a certain size (additional “Web only” content would be seen as having less prestige), whereas the author pays journals can publish as many or as few articles as they wish. In this case, I think the incentive for the author pays journals is to publish as many articles are of high quality and high interest, i.e. toward the optimal equilibrium between number of articles published and prestige per article. This might suggest that author pays journals will tend toward less journals with more articles per journal; or, since quantity is serialized, toward less-frequent issues with more articles per journal. Or, given that author pays journals mostly operate in electronic-only format, they might publish on a rolling schedule… At this point, I refer the reader to a game theorist, and will simply say that I don’t think the author pays model will be the death of scholarly quality.</para>
+        <para id="id12056179"><emphasis effect="bold">Third-party pays.</emphasis> If the sponsor doesn’t pay, the author can’t be published and the reader can’t have access. This model has all the problems typically associated with the patron/donation/advertising/merchandising/promotional/what-have-you model. (Mitigated somewhat by the fact that your editors, referees, authors, etc. are still academics, and won’t give their time to something with no prestige; if a journal starts printing nude centerfolds as ads for <emphasis effect="italics">Playboy</emphasis>, I would expect defection from the academic labor, and so the journal would lose value. This is the essentially the same theory that the <emphasis effect="italics">New York Times</emphasis> won’t print bad journalism because it would make the paper less valuable.) On the other hand, if the cost of publishing is very low, this model may be very promising; so this could be a good fit for “no-frills” journals.</para>
+        
+        <para id="id12056223">There may be separate issues that people mistaken attribute to OA, such as print vs. electronic, publication schedules, commercial vs. non-commercial publishers, etc. But, considering the diversity of business models for OA journals, none of them jumps out as a fundamentally flawed model; and if any of them are, I see no reason to think the market will be unable to self-correct. In OA publishing as it was with toll-access, I think there will be many different business models for journals, which will be operated by many different types of organizations. Some people have a problem with that uncertainty and say that OA publishing has no business model; I see the evolutionary benefits of diversity, and expect therefore that OA publishing will be with us for some time to come.</para>
+        <para id="id12056244">This is not to say there aren’t many, many challenges, but I don’t think of these will prove fatal.</para>
+      </section>
+      <section id="id12056255">
+        <title>5. steelgraham - September 6th, 2007 at 5:00 pm </title>
+        <para id="id12056269">To quote Stevan H:-</para>
+        <para id="id12056277"><title>quoted text</title><cite>“I wait patiently for someone to explain to me how and why, if all 2.5 million annual articles, in all 25K journals, were accessible free for all online, webwide, it would make the slightest difference whether copyright had been transferred to the publisher or retained by the author. The author remains the author either way; and the paper is freely accessible (i.e. OA) either way.</cite></para>
+        <para id="id12056297">Paradoxically, it is in recognizing and supporting OA’s much more general mission that we can also best support its health-related aspects.”</para>
+        <para id="id12056309">Graham</para>
+      </section>
+      <section id="id12056317">
+        <title>6. RedSevenOne - September 6th, 2007 at 5:56 pm </title>
+        <para id="id12056331">Graham – Stevan is a has major hero status around here. Your quote hits the mark and misses the one point often yelled about and then tacitly ignored. The long established publishing houses, the ones who create the journal which we then read in print, fear the loss of their power, read Income, if Open Access is embraced universally. It is like so many other industries who have suddenly seen the ‘Gravy train leavin’ the station without them’ to quote the late Huey P. Long. Will the industry rationalize itself? Yes it will. Will the dissemination of knowledge survive and prosper? Yes it will. Will the status quo prevail? No, it will not.</para>
+        <para id="id12056360">The only question of any relevance is, as I see it, who collects the money and how will it be distributed. We have a massive Print on Demand system coming on line before the end of the year. We would hope the there is a royalty system in place by that time so we can pay our way. We will consume enough material to keep at least one service running. I have my doubts, however whether the arguing will end by then.</para>
+        
+        <para id="id12056379">I am not suggesting at the end of the day it should be about money, but that we need to get that issue resolved so that everyone can get on with the Real Work</para>
+        <para id="id12056389">Martin G. Smith Ph.D – Coordinator</para>
+        <para id="id12056397">RedSeven Services – MATH Not METH</para>
+        <para id="id12056406">ABOTA*-ONAMISSION</para>
+        <para id="id12056413">[*A Bridge Over The Abyss]</para>
+        <para id="id12056421">Camp One – Hesquait</para>
+        <para id="id12056428">PO Box 201</para>
+        <para id="id12056435">Hesquait [Gold River]</para>
+        <para id="id12056442">V0P 1G0</para>
+        <para id="id12056449">British Columbia,</para>
+        <para id="id12056457">Canada</para>
+      </section>
+      <section id="id12056465">
+        <title>7. Gavin Baker - September 6th, 2007 at 10:16 pm </title>
+        <para id="id12056479">Martin, thanks for your comments.</para>
+        <para id="id12056486">Graham, in response to Stevan’s comments, I agree with his statement but not with the stated reason:</para>
+        <para id="id12056497">If an article is licensed under a free license, e.g. the Creative Commons license as used by PLoS, BMC, et al., then it makes little practical difference whether the journal or the author holds the copyright. Either way, the article is free, irrevocably.</para>
+        <para id="id12056509">Getting the article online is not the only useful action one can make with the article copyright. Permission barriers, not just access barriers, are important. I discuss this at some length in <link url="http://www.gavinbaker.com/2007/09/04/whos-journal-has-backwards-approach-to-open-access/">a recent post on my blog</link>; Peter Suber’s <link url="http://www.earlham.edu/~peters/fos/2007_09_02_fosblogarchive.html#8806061328862375250">comments on that post</link> are a good companion.</para>
+        <para id="id12056546">I have a great deal of sympathy for Stevan. To have seen this coming for over 10 years, and see how far we still are from the goal, even though the infrastructure is there and it takes so little of a researcher’s time, must be terrifically frustrating. But, in my most humble opinion, he has a habit of confusing priority with importance. He seems to routinely dismiss any other goals or implementations of open access, saying in effect, “That’s not important; just archive already!” And he’s right: self-archiving should be the priority. But that doesn’t mean the other goals aren’t important.</para>
+        <para id="id12056570">Frankly, I would find open access boring if it were only about getting scholarship online for other scholars to find. There’s so much more we can do with it, and there’s no good reason not to.</para>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </section>
+      <section id="eip-875"><title>8 Ken Udas- September 7th, 2007 at 7:06 am </title><para id="eip-395">Hello, Gavin, thank you for the thorough response to my question. You know, I have had a few interesting conversations lately and you struck on one of the themes – sustainability, which is frequently couched in terms of a business model. You provided what I think could be the start of a useful taxonomy that could grow significantly. I think that part of this is about motivation. We can take this in all sorts of ways, but I am thinking a bit about some dialog that followed from <link document="m14687">Wayne Mackintosh’s post</link> last April when Richard Wyles wrote a bit about OER and some demand and supply issues that related to motivations, In part of one of his comments he included the following quote:</para><para id="eip-707">Part of the problem I see is that the cost of course materials is, more often than not, borne by the student in the form of text-books or course fees when digital library resources come into play.</para><para id="eip-698">Pointing out that there is little motivation on the part of faculty to assign AO/Fee Free resources to support their classes. This might relate to two other conversations that I have had this week. One was with a colleague here at Penn State, who is a local leader in OER. We were talking a bit about your (this) post and he raised an issue of conflict. Although his department sees no problem with OA journals per se, there are no OA journals in his discipline area with a high enough selectivity index to be seen as valuable within the tenure and promotion review process. You could imagine too that a graduate student who is interested in an academic career would consider this factor as she considers how search and selection committees review curriculum vita. I guess that the connection that I am trying to make is that if universities tend to bias faculty and students to publish in highly prestigious journals, and a majority of those journals are not OA will they (faculty) be predisposed to think of quality in these terms also and assign course materials from closed publications?</para><para id="eip-410">Please note that I am not suggesting that OA journals and journal articles are of lower quality than other publication types, or that there is anything inherent in the OA model that dictates that this must be the case. I am simply suggesting that the academic culture as reflected in its reward system could perpetuate this perception.</para><para id="eip-647">Is what I described above a common experience? And, if so, does anybody know of a department or institution that has activity promoted publication in OA journals? Perhaps there are examples of academic units that put some sort of additional weight on use of low barrier publication vehicles?</para><para id="eip-737">This is really an area that I have very little experience, but would like to learn more. Just a little desktop research indicates that Thompson Scientific’s ISI <link url="http://scientific.thomson.com/free/essays/journalcitationreports/impactfactor/">http://scientific.thomson.com/free/essays/journalcitationreports/impactfactor/</link> uses citation in other journals as the primary indicator of impact, which strikes me as a bit self-referential. I also came across the Eigenfactor method <link url="http://www.eigenfactor.org/whyeigenfactor.htm">http://www.eigenfactor.org/whyeigenfactor.htm</link> for journal ranking, which seems a bit more sophisticated that ISI. For example, it take into account a value factor, described as follows:</para><para id="eip-350">In collaboration with journalprices.com, Eigenfactor provides information about price and value for thousands of scholarly periodicals. While the Eigenfactor and Article Influence scores do not incorporate price information directly, the Cost-Effectiveness Search orders journals by a measure of the value per dollar that they provide.</para><para id="eip-5">Although this would factor in some access issues, the service <link url="http://www.journalprices.com/">http://www.journalprices.com/</link> used for “Cost-Effectiveness” does not seem to include the few OA journals that I search for. Perhaps this is just a feature of how recent the OA phenomena is.</para><para id="eip-798">Any thoughts, stories, insights??</para></section><section id="id12056797">
+        <title>9. RedSevenOne - September 7th, 2007 at 11:24 am </title>
+        <para id="id12056811">Ken and All - We have integrated Eigenfactor with a data mining Beta we have acquire from the folks at FAST [<link url="http://www.fastsearch.com/">http://www.fastsearch.com/</link>] who were the originators to the AllTheWeb Search Engine [<link url="http://alltheweb.com/">http://alltheweb.com/</link>] service now owned by Yahoo. We rarely used Google and never since it became a verb.</para>
+        <para id="id12056845">Our agreement is that once the testing is complete, it will be freely available both as a frestanding service and as an adjunct to Eigenfactor.</para>
+      </section>
+      <section id="id12056856">
+        <title>10. Ken Udas - September 7th, 2007 at 11:58 am </title>
+        <para id="id12056870">Hello,</para>
+        <para id="id12056877">I just wanted to mention that Martin’s last post got caught by the Spam filter. The comments for this blog are not moderated so we have to have a reasonably strong filter. I am not sure why it caught Martin’s but it did. This is the first comment posting that was filtered. I will keep an eye on this, so if your post does not show up immediately, it might have been caught, but I will stay on top of it.</para>
+        <para id="id12056895">Thanks!</para>
+        <para id="id12056902">Ken</para>
+      </section>
+      <section id="id12056911">
+        <title>11. RedSevenOne - September 7th, 2007 at 12:10 pm </title>
+        <para id="id12056925">Ken – I suspect my last post may have been caught because of the the brackets I used around the web references, I will refrain from doing that, at least that is what my hackers think. I appreciate your diligence, this is a very important subject around here and as we explore the capabilities that U-Penn has brought on line, this is a very exciting resource.</para>
+      </section>
+      <section id="id12056944">
+        <title>12. Gavin Baker -September 7th, 2007 at 8:44 pm </title>
+        <para id="id12056958">Ken, what you describe is very common. The incentive structure for academics is to publish in the journals of greatest prestige, which are generally not OA. A prestigious journal can generate a good deal of revenue for its publisher, which the publisher will understandably be concerned about losing. There are certainly other business models that work besides the subscription model, but I won’t argue that the other models are as profitable – at least at this time.</para>
+        <para id="id12056981">Luckily, open access can be acheived even without OA journals. The vast majority of publishers allow authors to self-archive their articles, in some cases even with a Creative Commons license. If authors choose to publish in prestigious, toll-access journals, they can still make the article available gratis online. Educators, then, can point their students to the free online copy, rather than licensing reprint permissions from the publisher and buying a printed copy.</para>
+      </section>
+      <section id="id12056998">
+        <title>13. ossguy - September 9th, 2007 at 11:46 am </title>
+        <para id="id12057011">When I tell people that academic papers (or other content) should be freely available, they almost always counter, “But how will the authors be compensated?” The four alternative business models you mentioned help answer that sort of question. I’ve written about a model similar to the Cooperative model which I call the Educator Donation Model. You can read about it on my blog at <link url="http://ossguy.com/?p=20">http://ossguy.com/?p=20</link>.</para>
+        <para id="id12057043">I’ve also written an article on some of the philosophical, economical, and practical reasons that educational materials should be open, which parallels some of the ideas expressed in your article. You can read it at <link url="http://ossguy.com/?p=19">http://ossguy.com/?p=19.</link></para>
+        <para id="id12057068">Keep up the good work!</para>
+      </section>
+      <section id="id12057076">
+        <title>14. steelgraham - September 9th, 2007 at 12:13 pm </title>
+        <para id="id12057090">Gavin, you’re spot on with your comments about archiving.</para>
+        <para id="id12057099">Two excellent resources spring to mind:-</para>
+        <para id="id12057106">1) BioMed Central’s Summary of funding agency policies on open access:- <link url="http://www.biomedcentral.com/info/authors/funderpolicies">http://www.biomedcentral.com/info/authors/funderpolicies</link></para>
+        <para id="id12057129">2) Repository 66 Global Map of Institutional Repositories:- <link url="http://maps.repository66.org/">http://maps.repository66.org/</link></para>
+      </section>
+      <section id="id12525744">
+        <title>15. SteveFoerster - September 9th, 2007 at 12:16 pm </title>
+        <para id="id12525757">I couldn’t agree more that OA is a related issue to open educational resources. As the OER movement moves closer to drafting a declaration of commonalities, it’s my hope that this will include an expression solidarity with open access.</para>
+        <para id="id12525773">In the meantime, I wanted to respond to Gavin’s saying that journals will often allow authors to self-archive to add that conference organizers often are also fine with this when it comes to papers that are to be presented and be published in the proceedings. Recently I was deciding whether to submit an abstract and present at a particular conference, my only hesitation being the stated requirement to transfer copyright. I called the organizers and asked whether this were a negotiable point. It turned out that so long as they were able to publish the paper they were not concerned about anything else, and so my wish to dedicate the paper to the public domain wasn’t a problem for them. In other words, it’s worth asking, even if a call for papers doesn’t initially seem friendly on the issue.</para>
+      </section>
+      <section id="id12525810">
+        <title>16. Ken Udas - September 13th, 2007 at 4:06 am </title>
+        <para id="id12525823">Hello. There have been some great comments and insights provided, and lots of linked resources (enough to take up a few evenings). It is apparent that OA Journals and Open Archives are building momentum and entering into the mainstream of academic culture.</para>
+        <para id="id12525835">What are the types of things that could happen or ought to happen to further fuel the momentum? And, as a follow-up, what do you think that the impact will be on education and/or education providers?</para>
+        <para id="id12525846">I am thinking about this a bit from the perspective of there being differential impact on independent life long learners, continuing education, formal and traditional, etc.</para>
+      </section>
+      <section id="id12525857">
+        <title>17. Gavin Baker - September 13th, 2007 at 6:22 pm </title>
+        <para id="id12525871">(I posted this a few days ago but it never showed up. Ken, easy on the trigger finger with that spam filter!)</para>
+        <para id="id12525880">ossguy, Thanks for the comments.</para>
+        <para id="id12525887">steelgraham, <link url="http://openaccess.eprints.org/">Stevan Harnad</link> is of course the authority on author archiving. <link url="http://www.opendoar.org/">OpenDOAR (Directory of Open Access Repositories)</link> and the <link url="http://roar.eprints.org/">Registry of Open Access Repositories (ROAR)</link> also have lists of repositories.</para>
+        <para id="id12525932">Steve, thanks again for the introduction. I hope this post will be circulated among participants in the upcoming Joburg meeting for their consideration. Unfortunately I won’t be able to attend, but consider this an open offer to draft any language that would be useful.</para>
+        <para id="id12525948">On the topic of conferences: Conference papers and presentations are definitely a valuable type of non-journal content (along with e.g. working papers, theses, dissertations).</para>
+        <para id="id12525958">For conference organizers: The Public Knowledge Project develops companion software to its <link url="http://pkp.sfu.ca/ojs">Open Journal Systems</link>, named appropriately <link url="http://pkp.sfu.ca/ocs/">Open Conference Systems</link>, which conferences can use to manage submissions, make papers publicly available, apply <link url="http://www.creativecommons.org/">Creative Commons</link> licenses, provide metadata compliant with the <link url="http://www.openarchives.org/">Open Archives Initiative</link>, etc.</para>
+        <para id="id12526015">If you’re not using OCS, you should still ask (maybe even require) permission from presenters to post their paper for gratis access and under the terms of a libre license. You don’t need the presenter’s copyright: If they agree to a CC license, you’ve got all you need.</para>
+        <para id="id12526031">For conference presenters: Seek to retain at least enough rights to post the paper online and apply a CC license. Science Common’s <link url="http://scholars.sciencecommons.org/">Scholars Copyright</link> (including the <link url="http://www.arl.org/sparc/author/addendum.html">SPARC Author Addendum</link>, here called “Access - Reuse”) will be useful here, but obviously you’ll want to change the terms from “journal” to “conference”, etc. I don’t know of boilerplate addenda for conferences specifically. OwnTerms, via Siva Vaidhyanathan, has a <link url="http://ownterms.pbwiki.com/Speaker-Agreement">Speaker Agreement</link> which may be of use.</para>
+        <para id="id12526088">As long as you have the rights, you can archive your own paper, even if the conference doesn’t. Preferably, archive your paper in your institutional repository and/or a relevant subject repository; at worst, you can archive on your own Web site or the <link url="http://www.archive.org/">Internet Archive</link>.</para>
+      </section>
+      <section id="id12526117">
+        <title>18. Gavin Baker - September 13th, 2007 at 6:46 pm </title>
+        <para id="id12526131">Ken: The momentum for open access seems to be in research funder mandates. For instance, the U.S. government spends billions of dollars each year funding academic research, resulting in thousands of journal articles published. There is a movement for such research funders to attach, as a condition of funding, the requirement that published articles must also be made available gratis online. A number of public and private funders have adopted such policies (details vary slightly), and more have been proposed; see t<link url="http://www.eprints.org/openaccess/policysignup/">his list </link>and look for funder mandates. Note that usually, these mandates do not require open access per the Bethesda or Budapest definitions, but only toll-free online access. Still, there’s a lot of momentum there.</para>
+        <para id="id12526166">If the <link url="http://www.taxpayeraccess.org/NIH.html">U.S. National Institutes of Health</link> mandate could finally get passed, that’d be a very notable accomplishment. NIH is funds a whopping amount of research. It would be the first mandate for a public agency in the U.S., which makes it easier to argue for the policy to apply to other agencies, as well.</para>
+        <para id="id12526194">The impact of improving access will be greatest where access is currently poorest. For individuals affiliated with large, wealthy, first-world research institutions, there are still limitations on access to the literature, but much less so than with students at a community college, say, or with no academic affiliation. Open access will level the playing field here somewhat — the rising tide lifts all ships. (Except for those without a boat, which in this metaphor are people without Internet access or literacy, but those are much larger questions. People without Internet access can still reap some benefit of open access literature, since the lower permission barriers make reprints much more attractive.)</para>
+      </section>
+      <section id="id12526225">
+        <title>19. RedSevenOne - September 13th, 2007 at 9:12 pm </title>
+        <para id="id12526239">The ‘Except for those without a boat,’ argument has been a long standing one in many fields. ‘We can not’, more often ‘Will not’ help ‘X’ until ‘Y’ happens. I have always practiced the ‘Build it and they will come. . .’ model which has served our whole endeavor well.</para>
+        <para id="id12526256">As an analogy, allow me to relate a story which occurred some years ago: There was a toxic spill on the Fraser River in British Columbia which result in a major fish kill. When the situation got to court two years later it was at a time when a large number of the plaintiffs in the case were out on the fishing grounds and could not attend the hearing. The counsel for the defense attempted to delay the proceedings which did not sit well with the judge who heard about, and the ordered the implementation of a very unique, for its time, 1975, solution. A network was set up using the the Environment Canada Weatherfax network which distributed the daily reports from the court and allowed the plaintiffs to then advise counsel.</para>
+        <para id="id12526276">While this example is not directly related to Open Access, it illustrates that if the initiative is taken on one end, it will be met on the other. As I said before, Camp One exist because Open Access exists and not having a level field of access is no reason for not providing it, as the ROARMAP is a testament to.</para>
+      </section>
+      <section id="id12526289">
+        <title>20. Gavin Baker - September 13th, 2007 at 9:32 pm </title>
+        <para id="id12526303">RedSevenOne, to be clear, I wasn’t suggesting that because open access doesn’t solve every problem in the world, it’s not important. Just noting that we should not let enthusiasm get the better of our perspective and conflate open access to be the ticket to all knowledge and understanding. Open access is necessary, but not sufficient, for access to knowledge.</para>
+      </section>
+      <section id="id12526322">
+        <title>21. RedSevenOne - September 13th, 2007 at 10:00 pm </title>
+        <para id="id12526336">Gavin – I am in complete agreement with you. Open Access is one of many tools developed out of the maturing of the ‘net.</para>
+        <para id="id12526349">What I have a continuing issue with is the constant rehashing of ‘Who Pays. . .’</para>
+        <para id="id12526359">In our own context, we are massive consumers of Open Access material and will be the first ones to embrace any Fee Service System that develops or support through donation any other system which is put in place. I advocate neither, but will gladly contribute to either when the time comes. For us it will simply be another incurred cost.</para>
+        <para id="id12526372">We are going to list our effort with ROARMAP as soon as we can compose wording which best describes what we do. We don’t exactly fit any standard educational/research model.</para>
+        <para id="id12526385">I have represented Camp One as a signatory on every petition which has come along and the Berlin Declaration is on the ‘Required’ reading list, right next to the full text of Alice’s Restaurant, which holds as the source testament for the MATH Not METH movement. Knowledge is Power, as the old slogan says, anything which advances the general literacy of the world is a positive thing.</para>
+      </section>
+      <section id="id12526406">
+        <title>22. Ken Udas - September 15th, 2007 at 10:54 am </title>
+        <para id="id12526420">Hello, I think that there are a number of reasons to move forward regardless of the fact that we do not have universal access. This issue also came up in Kim Tucker’s posting on the series. Here are a few reasons off the top of my head.</para>
+        <list id="id12526436" list-type="bulleted">
+          <item>The more content that is available the more demand that will exist for investing in creating pockets of access.</item>
+          <item>The more content that it available, the more raw source materials there are to support the OER ecosystem.</item>
+          <item>The more digital materials are available them more content there is available to convert to useable media (video, paper, CD, etc.) in the meantime.</item>
+        </list>
+        <para id="id12526461">What are some of the other reasons to push forward?</para>
+      </section>
+      <section id="id12526470">
+        <title>23. RedSevenOne - September 15th, 2007 at 12:03 pm </title>
+        <para id="id12526484">Dwelling on the somewhat esoteric for a moment</para>
+        <para id="id12526492">OA allows current thinking to be CURRENT for everyone.</para>
+        <para id="id12526500">OA allows greater collaboration by greater numbers of people interested or with expertise in the topic presented</para>
+        
+        <para id="id12526513">OA contributes to the general literacy of the community and with the benefits of the distribution enabled by the Highway of Light, the World has become the community.</para>
+        <para id="id12526523">OA knows no boundaries, whether they are Political, Territorial, or Profit Generating which while being a continuing argument against it, is a compelling reason for it.</para>
+        <para id="id12526534">As I a have said, and has now been repeated in other venues, Camp One exists because Open Access exist and that for us, is reason enough to fight for it.</para>
+        <para id="id12526543">Dare I suggest that if we take the profit out of access in the first instance, everyone will profit in the second.</para>
+      </section>
+      <section id="id12526554">
+        <title>24. Ken Udas - September 16th, 2007 at 8:25 am </title>
+        <para id="id12526567">Martin, thank you for the additional items. I think that they point to a larger social good. That is the good that goes beyond reducing access barriers. Do you see any arguments for “waiting” until we have more technology parity? I am wondering if there is a legitimate “digital divide” type of argument. If all of the great content is differentially available, will to allow for the global “haves” to further their economic and political advantage over the “have nots?” If that is even a possibility, how would we address it?</para>
+      </section>
+      <section id="id12526592">
+        <title>25. Ken Udas - September 16th, 2007 at 8:33 am </title>
+        <para id="id12526606">Gavin, first, I appreciate the amount of time and thought that you have put into your post and discussion. I have one last question/request. I am wondering if you would be willing to take a few minutes and write about what you think the longer-term impact of freeculture.org will be on the academy, AO, publishing, etc. Earlier in the Series there was a lot of discussion about the “freedom culture,” which subscribed to a broad view of free and libre resources (FLOSS, OSS, Research, AO, etc.) and behaviors. I would think that it is within student organizations that the seeds of change will have the best likelihood of taking root.</para>
+      </section>
+      <section id="id12526635">
+        <title>26. Gavin Baker - September 16th, 2007 at 5:58 pm </title>
+        <para id="id12526649">w/r/t to the digital divide, I absolutely don’t think it’s a reason to wait for open access. Open access reduces inequality of access, even with the digital divide, because Internet access is far less differential than subscriptions to academic journals. Also, as Ken notes, it’s more likely that someone without Internet access will know someone who has access, than that someone without a journal subscription will know someone who has a subscription. In other words, it’s easier to find someone who will print you a copy, or put it on a disk, if necessary.</para>
+        <para id="id12526668">My mention of the digital divide was meant to suggest that OA advocates not make the mistake of conflating OA with other issues. I’ll crib from Peter Suber’s “<link url="http://www.earlham.edu/~peters/fos/overview.htm">Open Access Overview</link>”:</para>
+        <para id="id12526694"><quote id="eip-id23917190">Open access is not synonymous with universal access. Even after OA has been achieved, at least four kinds of access barrier might remain in place: Filtering and censorship barriers … Language barriers … Handicap access barriers … Connectivity barriers</quote></para>
+        <para id="id12526710">(I’ve suggested another, specialization barriers, which limits not access per se but comprehension.)</para>
+        <para id="id12526721">Open access is separate from those other problems. It doesn’t solve them; it doesn’t seek to, at least not directly. Indirectly, open access facilitates work-arounds for the other problems, as we’ve been discussing: e.g., lowering permission barriers lowers the cost of translation (to overcome language barriers). So, OA doesn’t help much (though it does help a little), but it doesn’t hurt, either.</para>
+        <para id="id12526740">There may be good reasons to work on the digital divide rather than on open access (e.g. you find it a more interesting problem, you find it a more important problem), just as there might be good reasons to work on any other issue (raising one’s children well, stopping the genocide in Darfur, cleaning trash from a local waterway). But I don’t know of a good reason not to work on open access, or to delay working on open access.</para>
+      </section>
+      <section id="id12526763">
+        <title>27. RedSevenOne - September 17th, 2007 at 12:28 pm </title>
+        <para id="id12526777">Ken - I don’t think there is a need to wait, it is somewhat akin to waiting to reinforce a dam while the engineers do another study as to why a crack has developed, in the meantime an unexpected storm comes along and wipe the dam out leaving a bigger problem.</para>
+        <para id="id12526793">I have had the experience in another venue, where when we built a system to serve an under served population, the ability to access to the system was found. This can not be a ‘All or Nothing’ situation once people learn the information is available, they will find a way to access it.</para>
+        <para id="id12526810">I built a system called Camp One, deliberately made it hard to get to knowing that the people who really wanted the solution offered would find a way to get there. Shortly we will have Camp One v.II, with greater capacity and greater capability, simply because the desire for access has outstripped the ability to provide.</para>
+        <para id="id12526823">I suggest the same will occur with Open Access. From our point of view, we are looking at a Print On Demand model and charging what the market will bear, around 2X cost, with a provision for subsidized access where there is no ability to pay. The system we are studying has a net cost of US$0.03/page in Colour based on an output of 100+ Pages per week.</para>
+      </section>
+      <section id="id12526838">
+        <title>28. Ken Udas - September 17th, 2007 at 12:52 pm </title>
+        <para id="id12526852">Gavin and Martin, thanks. I very much agree with your thoughts regarding the access/digital divide issue. Although OA is not intend to solve a number of barriers, it enhances the value proposition of doing so.</para>
+        <para id="id12526862">If anybody sees this differently, please feel free to chime in.</para>
+      </section>
+      <section id="id12526872">
+        <title>29. RedSevenOne - September 17th, 2007 at 1:50 pm </title>
+        <para id="id12526886">Awe – Ken are inviting dissension just when everyone was learning to get along. But really, we have a saying at Camp One, when an issue comes up and no one knows where it is going, we say ‘Let it run’, that is it as very much a work in progress and as long as we all agree that is is progress, there is no need for argument.</para>
+        <para id="id12526903">One of the interventions I use is a 1000 Piece puzzle that arrives in an Ice Cream pail. You know there is a picture there, but have no reference to go by.</para>
+        <para id="id12526913">I suggest OA is very much like the puzzle with no box, we have points of reference, but no clear idea yet of how they will connect together, only the will to achieve that connection.</para>
+      </section>
+      <section id="id12526924">
+        <title>30. Web2 In Research: Tender/CVs/GavinBaker - November 26th, 2008 at 4:19 am </title>
+        <para id="id12526939">[...] Open Educational Resource”, Terra Incognita - A Penn State World Campus Blog, 5 September 2007. &lt;http://blog.worldcampus.psu.edu/index.php/2007/09/05/open-access-journal/&gt; page_revision: 0, last_edited: 1227690432|%e %b %Y, %H:%M %Z (%O ago) edittags history [...]</para>
+      </section>
+      <section id="id12526947">
+        <title>31. jeimson - January 28th, 2009 at 9:56 am </title>
+        <para id="id12526974">very good</para>
+      </section>
+    </section>
+  </content>
+</document>

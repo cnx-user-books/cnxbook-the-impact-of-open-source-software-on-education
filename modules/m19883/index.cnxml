@@ -1,0 +1,25 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Summary</title>
+  <metadata>
+  <md:content-id>m19883</md:content-id><md:title>Summary</md:title>
+  <md:abstract>Summary of Michael Feldstein's post about how open source projects work from an economic perspective.</md:abstract>
+  <md:uuid>9da32d20-86fc-4c94-9aea-62dd514420af</md:uuid>
+</metadata>
+
+<content>
+    <para id="id46832682">“Coase’s University: Open Source, Economics, and Higher Education,” the sixteenth installment of the Impact of Open Source Software Series, was posted on October 31st, 2007, by Michael Feldstein who maintains a high profile in the education technology community a member serving on the eLearn Magazine’s Editorial Advisory Board and is a current participant in the IMS. Thanks, Michael, for a great posting!</para>
+    <para id="id46265888">In his posting Michael addresses, or at least pokes at, some of the conceptual challenges that Yochai Benkler’s Commons Based Peer Production (CBPP) model creates for us while thinking about the viability of open source software. He sets up the substance of his post by asking, “Sure, open source works in practice, but does it work in theory?”</para>
+    <para id="id44290271">Michael responds to this question by providing some personal and practical examples of CBPP. He points to the roles of friction and inertia in the economics of producing value in an information-based environment, and by extension the creation of digital assets.</para>
+    <para id="id44685978">Michael wrap’s up his post by suggesting that CBPP is important because it helps explain the success of OSS and OER. He indicates that the model reduces the counter-intuitive nature of OSS and OER because it helps us examine all of the forces at play. Finally, he points out that the academy is a good and potentially fertile environment to support production of information and knowledge assets as described by CBPP.</para>
+    <section id="id46887064">
+      <title>Comments</title>
+      <para id="id44495873">Michael’s posting generated an interesting conclusion. Basically, it would be great to be able to develop additional resources that help connect CBPP in a practical way with OSS, FOSS, and OER activities in education. That is, resources that help us better understand the forces at play in CBPP and to make decisions about creating an ecosystem that supports OSS, FOSS, and OER. We have developed some momentum and as activity develops, it will be open. Two very broad questions were posed in the last comment. They are:</para>
+      <list id="id44118297" list-type="enumerated" number-style="arabic">
+        <item>Practically, how do you see practitioners using the CBPP model to make decisions?</item>
+        <item>Do you think the distinction that many posters in this series have made between OSS and FOSS (Open &amp; Free) is important to CBPP?</item>
+      </list>
+      <para id="id46622420">They remain open for dialog, and you are invited to do so.</para>
+      <para id="id44456631">Thanks again to Michael, for his interesting and insightful post and responses, and Gavin for making this a great exchange, and other folks who have been reading along. Please join in again on November 14th when Steve Foerster posts on the topic of Fair Use as an alternative and complement to open licensing. The schedule for the series can be found on <link url="http://www.wikieducator.org/Open_Source_Software_in_Education_Series_on_Terra_Incognita" window="new">WikiEducator.</link></para>
+    </section>
+  </content>
+</document>

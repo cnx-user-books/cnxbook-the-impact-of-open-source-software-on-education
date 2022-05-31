@@ -1,0 +1,26 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Summary</title>
+  <metadata>
+  <md:content-id>m19810</md:content-id><md:title>Summary</md:title>
+  <md:abstract>Summary of David Wiley's post about the role of open content in open education.</md:abstract>
+  <md:uuid>585f9e5c-03ce-444b-8973-3969743bf42f</md:uuid>
+</metadata>
+
+<content>
+    <para id="id13727849">“Content Is Infrastructure,” the 14th installment of the Impact of Open Source Software Series, was posted on October 3rd, 2007, by David Wiley who currently serves as an Associate Professor of Instructional Technology and also the Director of the <link url="http://cosl.usu.edu/" window="new">Center for Open and Sustainable Learning</link>, (C()SL), at Utah State University. Thanks David for a great posting!</para>
+    <para id="id18141331">In his posting David starts by suggesting that “Content is Infrastructure,” and then makes three related statements (relative to the development of education):</para>
+    <list id="id17770086" list-type="enumerated" number-style="arabic">
+      <item>I wish to point out that content is absolutely critical.</item>
+      <item>I want to suggest that we must understand that content is infrastructure before we can see radical improvements in education.</item>
+      <item>We have to understand that content is infrastructure to see current “open educational resources” projects and initiatives from the proper perspective.</item>
+    </list>
+    <para id="id11462554">David used physical infrastructure in the form of public roads as an analogy for content as digital education infrastructure. He suggested that as roads allow for development and innovation, content (without toll fees) allows similarly for innovation to take place in education. Unlike roads though, content infrastructure is much more effectively developed through massively parallel, trial, and error processes than through a formally architected approach.</para>
+    <section id="id18781641">
+      <title>Comments</title>
+      <para id="id2628004">David’s “roads” analogy generated a fair amount of discussion leading to extension of the analogy and discussion about the “economics” of creating and sustaining content infrastructure. Issues such as the difference between physical and non-physical assets, rival and non-rival goods, the impact of “tolls” or use fees, barriers, and incentives were discussed.</para>
+      <para id="id18121984">There was also some dialog about how individuals will show interest in and verbally support open content, but when “push comes to shove” few will actually make their resources open. Issues around the competitive nature of higher education were raised. It was noted that the free software movement is quite competitive and that competition seems to work well in that domain, which led to some questions about using the competitive impulse at many universities to promote open and free resources.</para>
+      <para id="id18789451">It was also noted, early in the discussion that David’s “content as infrastructure” approach to OER was refreshingly direct and pragmatic.</para>
+      <para id="id18764038">Thanks again to David, for his interesting and insightful post and responses, and Wayne, Cole, and Martin (RedSevenOne), for making this a great exchange, and other folks who have been reading along. Please join in again on October 17th when Gary Schwartz posts with persepctis from a OSS project manager. The schedule for the series can be found on <link url="http://www.wikieducator.org/Open_Source_Software_in_Education_Series_on_Terra_Incognita" window="new">WikiEducator.</link></para>
+    </section>
+  </content>
+</document>
